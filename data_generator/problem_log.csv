@@ -2,3 +2,7 @@ table,problem,rows_affected
 accounts,inconsistent segment labels,174
 accounts,missing industry,117
 accounts,duplicate account rows,20
+subscription_months,inconsistent status labels,1826
+subscription_months,status active but MRR is 0,311
+subscription_months,missing MRR on a paying month,189
+subscription_months,duplicate account-month rows,150
