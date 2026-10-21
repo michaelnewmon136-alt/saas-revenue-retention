@@ -16,9 +16,10 @@ When two records describe the same subscription and month, we keep the most rece
 ## 6. Missing churn dates
 A missing churn date is not treated as proof that the account is still active. We use the monthly MRR to decide: an account is active while it has MRR greater than 0 in the latest observed month. If an account has MRR of 0 and no churn date, we infer the churn month from the first month its MRR drops to 0, and flag the date as inferred. An account with no churn date that is still paying at the end of the data is treated as active, not as an account that will never churn.
 ## 7. NRR and GRR
-NRR is calculated as: (TO FILL)
-The denominator is: (TO FILL)
-Reactivations are treated as: (TO FILL)
+NRR = (opening MRR - churn - contraction + expansion) / opening MRR, measured on the group of accounts that were active at the start of the period. GRR = (opening MRR - churn - contraction) / opening MRR. GRR excludes expansion, so it can never exceed 100%.
 
+The denominator is the MRR of accounts that were active at the start of the period (MRR greater than 0 in the opening month). New customers who joined during the period are never included in the numerator or the denominator.
+
+Reactivations are excluded from NRR and GRR. An account with MRR of 0 at the start of the period is not in the opening group, so its return is reported separately as Reactivation in the MRR bridge.
 ## 8. Reporting window
-We report NRR over: (TO FILL)
+We report NRR and GRR over a trailing 12-month window as the headline figure: the revenue today from accounts that were active 12 months ago, divided by what those accounts paid 12 months ago. Monthly NRR and GRR are shown only as supporting detail, because a single month is noisy and always looks close to 100%.
