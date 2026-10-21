@@ -10,3 +10,5 @@ invoices,failed first payment attempt,765
 invoices,failed then retried successfully,546
 invoices,failed and never recovered,219
 invoices,annual invoices (cash is not MRR),669
+product_usage,missing logins value,544
+product_usage,PLANTED: churn events with usage decline,356
