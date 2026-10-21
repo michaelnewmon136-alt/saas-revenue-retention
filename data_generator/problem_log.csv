@@ -1,0 +1,4 @@
+table,problem,rows_affected
+accounts,inconsistent segment labels,174
+accounts,missing industry,117
+accounts,duplicate account rows,20
