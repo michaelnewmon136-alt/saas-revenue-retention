@@ -6,3 +6,7 @@ subscription_months,inconsistent status labels,1826
 subscription_months,status active but MRR is 0,311
 subscription_months,missing MRR on a paying month,189
 subscription_months,duplicate account-month rows,150
+invoices,failed first payment attempt,765
+invoices,failed then retried successfully,546
+invoices,failed and never recovered,219
+invoices,annual invoices (cash is not MRR),669
