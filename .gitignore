@@ -1,0 +1,12 @@
+# Python toolbox and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Editor and system files
+.vscode/
+.DS_Store
+
+# Database files created later
+*.duckdb
+*.duckdb.wal
