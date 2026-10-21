@@ -12,3 +12,6 @@ invoices,failed and never recovered,219
 invoices,annual invoices (cash is not MRR),669
 product_usage,missing logins value,544
 product_usage,PLANTED: churn events with usage decline,356
+support_tickets,inconsistent priority labels,427
+support_tickets,missing priority,145
+support_tickets,PLANTED: escalated ticket before churn,210

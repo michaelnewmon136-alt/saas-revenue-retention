@@ -1,0 +1,4197 @@
+ticket_id,account_id,created_date,category,priority,escalated
+1,998,2023-01-02,billing,medium,False
+2,395,2023-01-09,how-to,medium,False
+3,741,2023-01-25,bug,medium,False
+4,872,2023-02-01,billing,medium,False
+5,744,2023-02-04,how-to,low,False
+6,1101,2023-02-08,billing,medium,False
+7,775,2023-02-09,billing,low,False
+8,647,2023-02-10,how-to,Low,False
+9,633,2023-02-12,how-to,low,False
+10,872,2023-02-24,bug,medium,False
+11,227,2023-03-01,feature request,low,False
+12,176,2023-03-02,feature request,medium,False
+13,723,2023-03-03,billing,medium,False
+14,273,2023-03-04,billing,medium,False
+15,1386,2023-03-06,billing,low,False
+16,1261,2023-03-07,billing,medium,False
+17,633,2023-03-15,bug,high,True
+18,1261,2023-03-15,billing,low,False
+19,766,2023-03-19,feature request,low,False
+20,872,2023-03-19,how-to,medium,False
+21,811,2023-03-21,billing,low,False
+22,1158,2023-03-23,bug,low,False
+23,513,2023-03-25,how-to,medium,False
+24,415,2023-03-28,bug,low,False
+25,1315,2023-03-28,bug,medium,False
+26,643,2023-04-02,billing,low,False
+27,451,2023-04-03,feature request,low,False
+28,998,2023-04-03,billing,medium,False
+29,826,2023-04-04,billing,low,False
+30,1205,2023-04-04,billing,high,True
+31,451,2023-04-05,bug,low,False
+32,1433,2023-04-05,bug,medium,False
+33,75,2023-04-07,how-to,low,False
+34,1156,2023-04-07,how-to,low,False
+35,998,2023-04-08,billing,,False
+36,568,2023-04-09,billing,medium,False
+37,744,2023-04-09,bug,low,False
+38,650,2023-04-10,bug,low,False
+39,903,2023-04-10,feature request,low,False
+40,775,2023-04-11,feature request,medium,False
+41,1390,2023-04-14,bug,low,False
+42,568,2023-04-17,how-to,medium,False
+43,449,2023-04-20,bug,medium,False
+44,513,2023-04-20,feature request,medium,False
+45,1402,2023-04-20,how-to,medium,False
+46,1244,2023-04-24,billing,MED,False
+47,52,2023-04-25,billing,low,False
+48,735,2023-04-27,bug,HIGH,True
+49,69,2023-05-01,bug,medium,False
+50,826,2023-05-01,billing,low,False
+51,1153,2023-05-02,billing,high,True
+52,1356,2023-05-03,feature request,low,False
+53,1364,2023-05-03,how-to,,False
+54,1482,2023-05-05,feature request,low,False
+55,568,2023-05-06,bug,Low,False
+56,643,2023-05-06,how-to,low,False
+57,872,2023-05-06,how-to,low,False
+58,176,2023-05-07,bug,low,False
+59,109,2023-05-08,how-to,low,False
+60,1158,2023-05-09,how-to,Low,False
+61,1402,2023-05-09,feature request,LOW,False
+62,633,2023-05-10,feature request,medium,False
+63,1314,2023-05-10,feature request,Medium,False
+64,1491,2023-05-10,how-to,medium,False
+65,972,2023-05-11,billing,MED,False
+66,1156,2023-05-11,feature request,low,False
+67,723,2023-05-12,bug,high,True
+68,903,2023-05-12,how-to,low,False
+69,1161,2023-05-13,how-to,low,False
+70,364,2023-05-15,billing,medium,False
+71,766,2023-05-15,billing,low,False
+72,18,2023-05-17,feature request,low,False
+73,1314,2023-05-19,how-to,low,False
+74,136,2023-05-23,billing,low,False
+75,513,2023-05-23,feature request,Medium,False
+76,1133,2023-05-25,feature request,medium,False
+77,69,2023-05-27,billing,medium,False
+78,826,2023-05-28,bug,low,False
+79,150,2023-06-02,billing,low,False
+80,350,2023-06-02,how-to,medium,False
+81,1433,2023-06-02,feature request,low,False
+82,1433,2023-06-03,bug,low,False
+83,99,2023-06-04,billing,medium,False
+84,188,2023-06-04,billing,,False
+85,239,2023-06-04,bug,low,False
+86,292,2023-06-04,feature request,medium,False
+87,643,2023-06-04,bug,medium,False
+88,1393,2023-06-06,how-to,low,False
+89,1161,2023-06-07,feature request,medium,False
+90,1230,2023-06-07,feature request,LOW,False
+91,1297,2023-06-07,bug,medium,False
+92,733,2023-06-08,how-to,high,True
+93,258,2023-06-10,how-to,high,True
+94,794,2023-06-10,billing,medium,False
+95,608,2023-06-12,how-to,high,True
+96,1486,2023-06-12,billing,low,False
+97,86,2023-06-13,how-to,low,False
+98,205,2023-06-13,bug,low,False
+99,409,2023-06-13,bug,low,False
+100,894,2023-06-16,bug,low,False
+101,1402,2023-06-17,bug,medium,False
+102,1402,2023-06-17,bug,medium,False
+103,732,2023-06-18,bug,low,False
+104,973,2023-06-19,billing,low,False
+105,1182,2023-06-20,bug,low,False
+106,513,2023-06-21,feature request,low,False
+107,1252,2023-06-21,how-to,low,False
+108,155,2023-06-22,billing,high,True
+109,775,2023-06-22,billing,low,False
+110,1122,2023-06-22,how-to,low,False
+111,1491,2023-06-22,how-to,high,True
+112,339,2023-06-23,how-to,medium,False
+113,230,2023-06-24,bug,high,True
+114,239,2023-06-24,how-to,low,False
+115,270,2023-06-24,how-to,high,True
+116,239,2023-06-25,how-to,low,False
+117,766,2023-06-25,feature request,Low,False
+118,973,2023-06-25,feature request,medium,False
+119,413,2023-06-26,feature request,low,False
+120,1444,2023-06-26,how-to,Low,False
+121,633,2023-06-28,how-to,medium,False
+122,217,2023-07-01,bug,high,True
+123,1156,2023-07-01,feature request,low,False
+124,1230,2023-07-01,bug,medium,False
+125,635,2023-07-02,billing,low,False
+126,973,2023-07-03,feature request,medium,False
+127,437,2023-07-06,bug,low,False
+128,872,2023-07-06,bug,medium,False
+129,188,2023-07-07,how-to,high,True
+130,335,2023-07-07,how-to,low,False
+131,50,2023-07-12,billing,low,False
+132,826,2023-07-12,bug,medium,False
+133,815,2023-07-14,feature request,medium,False
+134,164,2023-07-15,how-to,low,False
+135,205,2023-07-15,how-to,high,True
+136,568,2023-07-15,bug,medium,False
+137,339,2023-07-16,bug,medium,False
+138,125,2023-07-17,bug,high,True
+139,129,2023-07-17,billing,low,False
+140,310,2023-07-17,feature request,high,True
+141,99,2023-07-18,billing,low,False
+142,140,2023-07-18,bug,low,False
+143,1244,2023-07-18,feature request,low,False
+144,258,2023-07-19,billing,low,False
+145,310,2023-07-19,feature request,HIGH,True
+146,633,2023-07-19,how-to,low,False
+147,1116,2023-07-19,billing,low,False
+148,205,2023-07-20,billing,medium,False
+149,718,2023-07-21,bug,low,False
+150,1122,2023-07-21,bug,low,False
+151,99,2023-07-22,billing,medium,False
+152,310,2023-07-22,how-to,Low,False
+153,894,2023-07-22,how-to,,False
+154,510,2023-07-23,billing,medium,False
+155,155,2023-07-24,feature request,medium,False
+156,1052,2023-07-24,bug,medium,False
+157,1382,2023-07-24,how-to,low,False
+158,140,2023-07-25,how-to,medium,False
+159,568,2023-07-25,feature request,low,False
+160,1444,2023-07-25,billing,low,False
+161,1157,2023-07-26,billing,medium,False
+162,415,2023-07-27,billing,low,False
+163,1318,2023-07-27,how-to,medium,False
+164,1408,2023-07-27,how-to,high,True
+165,50,2023-08-01,bug,High,True
+166,150,2023-08-02,feature request,low,False
+167,18,2023-08-06,how-to,Medium,False
+168,69,2023-08-06,bug,medium,False
+169,1368,2023-08-06,feature request,low,False
+170,1111,2023-08-07,billing,high,True
+171,608,2023-08-08,billing,low,False
+172,1434,2023-08-08,feature request,medium,False
+173,535,2023-08-09,bug,low,False
+174,1261,2023-08-09,feature request,medium,False
+175,1054,2023-08-11,feature request,low,False
+176,1396,2023-08-11,feature request,low,False
+177,1428,2023-08-11,feature request,high,True
+178,1111,2023-08-12,billing,medium,False
+179,207,2023-08-13,how-to,low,False
+180,1054,2023-08-13,feature request,low,False
+181,150,2023-08-14,feature request,medium,False
+182,545,2023-08-16,feature request,high,True
+183,766,2023-08-16,feature request,low,False
+184,973,2023-08-16,bug,low,False
+185,1297,2023-08-16,feature request,low,False
+186,671,2023-08-17,how-to,medium,False
+187,1107,2023-08-17,how-to,low,False
+188,1111,2023-08-17,billing,Low,False
+189,1402,2023-08-17,billing,medium,False
+190,99,2023-08-18,bug,HIGH,True
+191,590,2023-08-19,billing,low,False
+192,1003,2023-08-19,how-to,low,False
+193,195,2023-08-21,bug,MED,False
+194,89,2023-08-22,billing,High,True
+195,1151,2023-08-22,billing,low,False
+196,1156,2023-08-22,feature request,medium,False
+197,1158,2023-08-22,billing,low,False
+198,1456,2023-08-22,feature request,low,False
+199,164,2023-08-24,how-to,LOW,False
+200,258,2023-08-24,feature request,low,False
+201,273,2023-08-24,feature request,Medium,False
+202,733,2023-08-24,billing,low,False
+203,795,2023-08-24,how-to,LOW,False
+204,155,2023-08-25,how-to,medium,False
+205,1105,2023-08-25,how-to,low,False
+206,1252,2023-08-25,feature request,Medium,False
+207,664,2023-08-26,billing,low,False
+208,1019,2023-08-26,billing,low,False
+209,1433,2023-08-26,feature request,low,False
+210,392,2023-08-27,how-to,low,False
+211,679,2023-08-27,feature request,low,False
+212,109,2023-08-28,billing,high,True
+213,841,2023-08-28,billing,Medium,False
+214,1182,2023-08-28,how-to,medium,False
+215,1393,2023-08-28,feature request,medium,False
+216,292,2023-09-01,how-to,medium,False
+217,422,2023-09-01,billing,high,True
+218,943,2023-09-01,feature request,medium,False
+219,1156,2023-09-01,bug,low,False
+220,1220,2023-09-01,bug,high,True
+221,18,2023-09-02,billing,,False
+222,1309,2023-09-02,feature request,medium,False
+223,917,2023-09-03,feature request,medium,False
+224,608,2023-09-04,billing,low,False
+225,204,2023-09-05,billing,Medium,False
+226,1069,2023-09-05,how-to,low,False
+227,1230,2023-09-05,how-to,low,False
+228,1019,2023-09-06,feature request,medium,False
+229,523,2023-09-07,bug,low,False
+230,1182,2023-09-07,how-to,medium,False
+231,1253,2023-09-07,feature request,low,False
+232,1394,2023-09-07,feature request,medium,False
+233,150,2023-09-08,billing,low,False
+234,302,2023-09-08,how-to,Medium,False
+235,375,2023-09-08,bug,low,False
+236,587,2023-09-08,how-to,high,True
+237,1045,2023-09-08,how-to,low,False
+238,1444,2023-09-09,feature request,LOW,False
+239,869,2023-09-10,bug,high,True
+240,643,2023-09-11,bug,low,False
+241,1252,2023-09-13,billing,medium,False
+242,1371,2023-09-13,how-to,low,False
+243,762,2023-09-14,bug,medium,False
+244,1107,2023-09-14,how-to,medium,False
+245,164,2023-09-15,bug,medium,False
+246,362,2023-09-15,feature request,low,False
+247,608,2023-09-15,how-to,low,False
+248,764,2023-09-16,bug,low,False
+249,1040,2023-09-16,feature request,low,False
+250,362,2023-09-17,bug,low,False
+251,683,2023-09-17,how-to,low,False
+252,778,2023-09-17,billing,medium,False
+253,903,2023-09-17,how-to,medium,False
+254,1182,2023-09-18,feature request,medium,False
+255,155,2023-09-19,how-to,low,False
+256,628,2023-09-19,bug,medium,False
+257,1154,2023-09-19,how-to,low,False
+258,1255,2023-09-19,how-to,high,True
+259,869,2023-09-20,billing,low,False
+260,150,2023-09-21,billing,high,True
+261,681,2023-09-21,feature request,medium,False
+262,1004,2023-09-21,how-to,Low,False
+263,454,2023-09-22,feature request,low,False
+264,350,2023-09-24,bug,medium,False
+265,86,2023-09-25,feature request,low,False
+266,335,2023-09-25,how-to,medium,False
+267,456,2023-09-25,feature request,low,False
+268,268,2023-09-27,how-to,LOW,False
+269,1124,2023-09-27,feature request,high,True
+270,903,2023-10-01,how-to,low,False
+271,1054,2023-10-01,feature request,low,False
+272,552,2023-10-02,billing,low,False
+273,872,2023-10-02,how-to,medium,False
+274,1221,2023-10-02,feature request,low,False
+275,350,2023-10-04,feature request,low,False
+276,335,2023-10-05,how-to,medium,False
+277,1122,2023-10-05,feature request,high,True
+278,204,2023-10-06,billing,LOW,False
+279,332,2023-10-06,feature request,low,False
+280,568,2023-10-06,bug,medium,False
+281,762,2023-10-06,bug,low,False
+282,663,2023-10-07,feature request,high,True
+283,26,2023-10-08,feature request,HIGH,True
+284,589,2023-10-09,feature request,low,False
+285,1369,2023-10-09,bug,low,False
+286,1415,2023-10-09,feature request,high,True
+287,199,2023-10-10,feature request,low,False
+288,456,2023-10-10,feature request,,False
+289,1058,2023-10-10,bug,low,False
+290,51,2023-10-11,bug,medium,False
+291,231,2023-10-11,how-to,medium,False
+292,129,2023-10-12,bug,high,True
+293,1253,2023-10-12,feature request,low,False
+294,1393,2023-10-12,feature request,LOW,False
+295,643,2023-10-13,billing,medium,False
+296,150,2023-10-14,bug,LOW,False
+297,258,2023-10-14,how-to,medium,False
+298,413,2023-10-14,how-to,low,False
+299,682,2023-10-14,how-to,low,False
+300,231,2023-10-16,how-to,low,False
+301,454,2023-10-16,how-to,medium,False
+302,1116,2023-10-16,billing,medium,False
+303,1237,2023-10-17,bug,medium,False
+304,469,2023-10-18,bug,medium,False
+305,767,2023-10-18,bug,medium,False
+306,1261,2023-10-18,billing,low,False
+307,375,2023-10-19,feature request,medium,False
+308,583,2023-10-19,billing,medium,False
+309,1003,2023-10-19,bug,low,False
+310,1100,2023-10-19,bug,,False
+311,69,2023-10-20,how-to,medium,False
+312,335,2023-10-20,billing,low,False
+313,269,2023-10-21,how-to,,False
+314,852,2023-10-21,billing,low,False
+315,1054,2023-10-21,billing,low,False
+316,1161,2023-10-21,billing,low,False
+317,409,2023-10-24,billing,low,False
+318,568,2023-10-24,how-to,low,False
+319,125,2023-10-27,feature request,medium,False
+320,239,2023-10-27,feature request,high,True
+321,473,2023-10-27,billing,low,False
+322,865,2023-10-28,bug,low,False
+323,1408,2023-10-28,billing,low,False
+324,826,2023-11-01,how-to,low,False
+325,231,2023-11-02,bug,,False
+326,417,2023-11-02,how-to,medium,False
+327,1206,2023-11-02,feature request,low,False
+328,455,2023-11-03,how-to,low,False
+329,488,2023-11-03,billing,low,False
+330,1182,2023-11-04,feature request,medium,False
+331,1435,2023-11-04,bug,LOW,False
+332,18,2023-11-05,how-to,medium,False
+333,99,2023-11-05,how-to,medium,False
+334,269,2023-11-05,how-to,medium,False
+335,1402,2023-11-05,feature request,medium,False
+336,375,2023-11-06,feature request,Medium,False
+337,778,2023-11-06,how-to,low,False
+338,925,2023-11-07,how-to,low,False
+339,99,2023-11-08,bug,low,False
+340,726,2023-11-08,bug,medium,False
+341,936,2023-11-08,billing,low,False
+342,1016,2023-11-08,how-to,low,False
+343,1253,2023-11-08,billing,low,False
+344,1261,2023-11-08,billing,LOW,False
+345,129,2023-11-09,how-to,high,True
+346,175,2023-11-09,how-to,high,True
+347,195,2023-11-10,billing,low,False
+348,1197,2023-11-10,feature request,low,False
+349,1450,2023-11-10,billing,MED,False
+350,633,2023-11-11,how-to,low,False
+351,18,2023-11-12,feature request,low,False
+352,75,2023-11-12,billing,high,True
+353,213,2023-11-12,bug,Medium,False
+354,272,2023-11-12,how-to,low,False
+355,808,2023-11-12,how-to,MED,False
+356,1298,2023-11-12,feature request,low,False
+357,37,2023-11-13,feature request,High,True
+358,985,2023-11-13,bug,Medium,False
+359,1124,2023-11-13,how-to,low,False
+360,1124,2023-11-13,feature request,low,False
+361,1402,2023-11-13,how-to,low,False
+362,536,2023-11-14,billing,high,True
+363,199,2023-11-15,bug,low,False
+364,608,2023-11-16,how-to,medium,False
+365,769,2023-11-16,feature request,low,False
+366,545,2023-11-17,billing,low,False
+367,207,2023-11-18,billing,low,False
+368,292,2023-11-18,how-to,medium,False
+369,1047,2023-11-18,billing,low,False
+370,1402,2023-11-19,feature request,medium,False
+371,292,2023-11-21,feature request,low,False
+372,454,2023-11-21,how-to,low,False
+373,1248,2023-11-21,bug,MED,False
+374,456,2023-11-22,bug,medium,False
+375,1244,2023-11-22,how-to,medium,False
+376,1473,2023-11-22,feature request,medium,False
+377,510,2023-11-23,how-to,medium,False
+378,732,2023-11-23,bug,medium,False
+379,973,2023-11-23,how-to,LOW,False
+380,791,2023-11-24,how-to,low,False
+381,973,2023-11-24,billing,medium,False
+382,1435,2023-11-25,bug,Low,False
+383,69,2023-11-26,billing,low,False
+384,243,2023-11-26,how-to,low,False
+385,352,2023-11-26,feature request,medium,False
+386,679,2023-11-26,how-to,high,True
+387,791,2023-11-26,how-to,low,False
+388,231,2023-11-27,how-to,low,False
+389,728,2023-11-27,bug,low,False
+390,417,2023-11-28,billing,medium,False
+391,1301,2023-11-28,feature request,high,True
+392,1196,2023-12-01,billing,medium,False
+393,633,2023-12-02,feature request,low,False
+394,893,2023-12-03,billing,MED,False
+395,953,2023-12-03,feature request,medium,False
+396,1231,2023-12-03,feature request,low,False
+397,1001,2023-12-04,feature request,low,False
+398,1156,2023-12-04,feature request,medium,False
+399,1261,2023-12-04,how-to,low,False
+400,1298,2023-12-04,how-to,low,False
+401,791,2023-12-05,billing,Medium,False
+402,1182,2023-12-05,feature request,medium,False
+403,682,2023-12-06,how-to,low,False
+404,952,2023-12-06,billing,low,False
+405,74,2023-12-08,bug,medium,False
+406,473,2023-12-08,feature request,low,False
+407,1240,2023-12-08,bug,medium,False
+408,193,2023-12-09,bug,low,False
+409,313,2023-12-09,bug,low,False
+410,644,2023-12-09,billing,low,False
+411,1164,2023-12-09,how-to,low,False
+412,243,2023-12-10,bug,low,False
+413,243,2023-12-10,how-to,medium,False
+414,1205,2023-12-10,bug,low,False
+415,682,2023-12-11,how-to,medium,False
+416,1396,2023-12-11,how-to,low,False
+417,1402,2023-12-11,billing,low,False
+418,764,2023-12-12,billing,medium,False
+419,561,2023-12-13,bug,Low,False
+420,808,2023-12-13,bug,medium,False
+421,985,2023-12-13,bug,low,False
+422,1004,2023-12-13,how-to,medium,False
+423,1158,2023-12-13,feature request,low,False
+424,1360,2023-12-13,feature request,low,False
+425,1442,2023-12-13,bug,medium,False
+426,964,2023-12-14,billing,low,False
+427,1386,2023-12-14,bug,high,True
+428,243,2023-12-15,billing,low,False
+429,313,2023-12-15,how-to,low,False
+430,424,2023-12-15,how-to,Low,False
+431,769,2023-12-15,bug,low,False
+432,1107,2023-12-15,how-to,medium,False
+433,1261,2023-12-15,bug,low,False
+434,608,2023-12-16,bug,medium,False
+435,206,2023-12-17,billing,low,False
+436,209,2023-12-17,how-to,medium,False
+437,352,2023-12-17,billing,low,False
+438,454,2023-12-17,bug,low,False
+439,1323,2023-12-17,bug,low,False
+440,1405,2023-12-17,bug,low,False
+441,893,2023-12-18,feature request,HIGH,True
+442,926,2023-12-18,feature request,medium,False
+443,59,2023-12-19,how-to,low,False
+444,643,2023-12-19,feature request,low,False
+445,1001,2023-12-19,how-to,low,False
+446,1100,2023-12-19,how-to,low,False
+447,1222,2023-12-19,bug,low,False
+448,1230,2023-12-19,bug,medium,False
+449,206,2023-12-20,bug,,False
+450,583,2023-12-20,feature request,high,True
+451,1230,2023-12-20,how-to,medium,False
+452,845,2023-12-21,billing,LOW,False
+453,973,2023-12-21,billing,Medium,False
+454,1001,2023-12-21,feature request,low,False
+455,269,2023-12-22,billing,medium,False
+456,424,2023-12-22,how-to,low,False
+457,693,2023-12-22,bug,low,False
+458,1154,2023-12-22,how-to,low,False
+459,206,2023-12-23,feature request,low,False
+460,681,2023-12-23,bug,low,False
+461,337,2023-12-24,billing,Low,False
+462,644,2023-12-24,bug,medium,False
+463,756,2023-12-24,billing,low,False
+464,636,2023-12-25,billing,low,False
+465,927,2023-12-25,bug,low,False
+466,936,2023-12-26,billing,medium,False
+467,1054,2023-12-26,billing,,False
+468,1100,2023-12-26,bug,medium,False
+469,1179,2023-12-26,billing,medium,False
+470,1457,2023-12-26,bug,medium,False
+471,209,2023-12-27,billing,low,False
+472,994,2023-12-27,how-to,medium,False
+473,1376,2023-12-27,feature request,low,False
+474,545,2023-12-28,feature request,medium,False
+475,1225,2023-12-28,how-to,medium,False
+476,1341,2023-12-28,billing,LOW,False
+477,413,2024-01-01,billing,low,False
+478,798,2024-01-01,how-to,low,False
+479,9,2024-01-02,how-to,medium,False
+480,451,2024-01-02,bug,low,False
+481,994,2024-01-02,feature request,low,False
+482,264,2024-01-03,how-to,high,True
+483,1427,2024-01-03,bug,medium,False
+484,206,2024-01-04,how-to,medium,False
+485,350,2024-01-04,billing,high,True
+486,608,2024-01-04,how-to,medium,False
+487,971,2024-01-04,billing,low,False
+488,362,2024-01-05,billing,low,False
+489,636,2024-01-05,how-to,medium,False
+490,938,2024-01-05,billing,low,False
+491,69,2024-01-06,billing,high,True
+492,84,2024-01-06,billing,medium,False
+493,417,2024-01-06,feature request,low,False
+494,1016,2024-01-06,feature request,LOW,False
+495,1119,2024-01-06,bug,medium,False
+496,281,2024-01-07,bug,low,False
+497,952,2024-01-07,bug,low,False
+498,885,2024-01-09,how-to,low,False
+499,1119,2024-01-09,how-to,LOW,False
+500,1405,2024-01-10,bug,low,False
+501,1434,2024-01-11,bug,low,False
+502,726,2024-01-12,bug,low,False
+503,1053,2024-01-12,bug,low,False
+504,872,2024-01-13,bug,medium,False
+505,99,2024-01-14,billing,low,False
+506,889,2024-01-14,billing,medium,False
+507,258,2024-01-15,feature request,medium,False
+508,302,2024-01-15,bug,low,False
+509,444,2024-01-15,bug,low,False
+510,644,2024-01-15,billing,MED,False
+511,1435,2024-01-15,feature request,low,False
+512,1443,2024-01-16,bug,low,False
+513,897,2024-01-17,bug,low,False
+514,936,2024-01-17,bug,high,True
+515,1356,2024-01-17,feature request,low,False
+516,302,2024-01-18,feature request,medium,False
+517,808,2024-01-18,billing,medium,False
+518,1427,2024-01-18,billing,low,False
+519,1441,2024-01-18,bug,low,False
+520,1376,2024-01-19,billing,high,True
+521,375,2024-01-20,how-to,low,False
+522,417,2024-01-20,billing,medium,False
+523,1100,2024-01-20,billing,Low,False
+524,485,2024-01-21,feature request,medium,False
+525,313,2024-01-22,bug,LOW,False
+526,375,2024-01-22,billing,high,True
+527,1314,2024-01-22,billing,low,False
+528,583,2024-01-23,feature request,medium,False
+529,791,2024-01-23,how-to,low,False
+530,1053,2024-01-23,bug,medium,False
+531,1179,2024-01-23,feature request,medium,False
+532,196,2024-01-24,bug,low,False
+533,865,2024-01-24,billing,medium,False
+534,1161,2024-01-24,bug,LOW,False
+535,1179,2024-01-24,billing,low,False
+536,1350,2024-01-24,bug,low,False
+537,1457,2024-01-24,feature request,medium,False
+538,413,2024-01-25,bug,low,False
+539,973,2024-01-25,how-to,,False
+540,994,2024-01-25,bug,low,False
+541,1161,2024-01-25,feature request,Low,False
+542,451,2024-01-26,feature request,low,False
+543,927,2024-01-26,how-to,low,False
+544,1154,2024-01-26,how-to,medium,False
+545,1179,2024-01-26,how-to,high,True
+546,1133,2024-01-27,feature request,medium,False
+547,510,2024-01-28,feature request,medium,False
+548,767,2024-01-28,feature request,Low,False
+549,1050,2024-01-28,billing,low,False
+550,751,2024-02-01,bug,medium,False
+551,1222,2024-02-01,how-to,low,False
+552,437,2024-02-02,feature request,low,False
+553,1350,2024-02-02,how-to,low,False
+554,1427,2024-02-02,bug,medium,False
+555,1450,2024-02-02,how-to,medium,False
+556,401,2024-02-03,how-to,medium,False
+557,775,2024-02-03,how-to,low,False
+558,1253,2024-02-03,how-to,medium,False
+559,261,2024-02-04,bug,low,False
+560,284,2024-02-04,how-to,medium,False
+561,830,2024-02-04,billing,high,True
+562,1367,2024-02-04,how-to,low,False
+563,753,2024-02-05,bug,Medium,False
+564,865,2024-02-05,billing,LOW,False
+565,1244,2024-02-05,billing,medium,False
+566,337,2024-02-06,feature request,low,False
+567,941,2024-02-07,how-to,low,False
+568,213,2024-02-08,billing,,False
+569,362,2024-02-08,feature request,,False
+570,968,2024-02-08,billing,low,False
+571,552,2024-02-09,how-to,low,False
+572,943,2024-02-09,billing,medium,False
+573,1329,2024-02-09,feature request,high,True
+574,658,2024-02-10,how-to,low,False
+575,768,2024-02-10,feature request,low,False
+576,1253,2024-02-10,bug,low,False
+577,86,2024-02-11,feature request,low,False
+578,332,2024-02-12,feature request,low,False
+579,1170,2024-02-12,bug,medium,False
+580,1199,2024-02-12,how-to,low,False
+581,37,2024-02-13,bug,low,False
+582,103,2024-02-13,feature request,low,False
+583,352,2024-02-14,how-to,medium,False
+584,988,2024-02-14,billing,low,False
+585,998,2024-02-14,bug,medium,False
+586,1441,2024-02-14,bug,low,False
+587,271,2024-02-15,bug,low,False
+588,762,2024-02-15,how-to,medium,False
+589,1050,2024-02-16,bug,low,False
+590,1341,2024-02-16,billing,low,False
+591,209,2024-02-17,bug,low,False
+592,416,2024-02-17,bug,medium,False
+593,455,2024-02-17,feature request,medium,False
+594,1318,2024-02-17,feature request,medium,False
+595,1390,2024-02-17,billing,low,False
+596,643,2024-02-18,how-to,low,False
+597,1240,2024-02-18,how-to,low,False
+598,302,2024-02-19,feature request,low,False
+599,898,2024-02-19,how-to,low,False
+600,767,2024-02-20,how-to,high,True
+601,290,2024-02-21,bug,low,False
+602,429,2024-02-21,billing,medium,False
+603,927,2024-02-21,bug,high,True
+604,1427,2024-02-21,feature request,medium,False
+605,775,2024-02-22,feature request,low,False
+606,1117,2024-02-22,feature request,low,False
+607,1184,2024-02-22,feature request,low,False
+608,1402,2024-02-22,bug,medium,False
+609,762,2024-02-23,how-to,low,False
+610,805,2024-02-23,billing,high,True
+611,841,2024-02-23,billing,medium,False
+612,1179,2024-02-23,bug,low,False
+613,313,2024-02-24,billing,medium,False
+614,820,2024-02-24,feature request,low,False
+615,1297,2024-02-24,feature request,low,False
+616,427,2024-02-25,billing,Medium,False
+617,1101,2024-02-25,how-to,low,False
+618,1457,2024-02-25,bug,,False
+619,125,2024-02-26,bug,high,True
+620,445,2024-02-26,bug,low,False
+621,988,2024-02-26,billing,Low,False
+622,18,2024-02-27,feature request,high,True
+623,136,2024-02-27,bug,low,False
+624,375,2024-02-27,bug,low,False
+625,76,2024-02-28,how-to,medium,False
+626,1156,2024-02-28,how-to,low,False
+627,267,2024-03-01,billing,medium,False
+628,469,2024-03-01,how-to,low,False
+629,872,2024-03-02,billing,low,False
+630,1003,2024-03-02,feature request,,False
+631,1179,2024-03-02,how-to,LOW,False
+632,103,2024-03-03,bug,medium,False
+633,112,2024-03-03,bug,low,False
+634,261,2024-03-04,billing,low,False
+635,488,2024-03-04,bug,low,False
+636,568,2024-03-04,billing,medium,False
+637,732,2024-03-04,how-to,medium,False
+638,775,2024-03-04,billing,low,False
+639,903,2024-03-04,feature request,medium,False
+640,1435,2024-03-04,billing,low,False
+641,125,2024-03-05,how-to,low,False
+642,339,2024-03-05,bug,medium,False
+643,1433,2024-03-05,bug,medium,False
+644,455,2024-03-06,billing,Low,False
+645,510,2024-03-06,how-to,low,False
+646,919,2024-03-06,feature request,low,False
+647,973,2024-03-06,how-to,low,False
+648,199,2024-03-07,billing,medium,False
+649,362,2024-03-07,feature request,medium,False
+650,454,2024-03-07,feature request,low,False
+651,926,2024-03-07,how-to,medium,False
+652,975,2024-03-07,billing,medium,False
+653,337,2024-03-08,how-to,low,False
+654,583,2024-03-09,bug,,False
+655,946,2024-03-09,how-to,high,True
+656,972,2024-03-09,feature request,medium,False
+657,488,2024-03-10,feature request,low,False
+658,190,2024-03-11,feature request,low,False
+659,1221,2024-03-11,feature request,medium,False
+660,1222,2024-03-11,billing,low,False
+661,931,2024-03-12,billing,medium,False
+662,1394,2024-03-12,feature request,medium,False
+663,209,2024-03-13,how-to,low,False
+664,332,2024-03-13,feature request,medium,False
+665,456,2024-03-13,billing,medium,False
+666,797,2024-03-13,bug,low,False
+667,936,2024-03-13,how-to,medium,False
+668,1124,2024-03-13,how-to,low,False
+669,287,2024-03-14,feature request,medium,False
+670,752,2024-03-14,bug,medium,False
+671,826,2024-03-14,feature request,medium,False
+672,918,2024-03-14,bug,medium,False
+673,1146,2024-03-14,feature request,high,True
+674,1185,2024-03-14,billing,high,True
+675,1263,2024-03-14,billing,low,False
+676,1356,2024-03-14,billing,low,False
+677,33,2024-03-15,billing,low,False
+678,557,2024-03-15,how-to,high,True
+679,700,2024-03-15,feature request,low,False
+680,1105,2024-03-15,billing,low,False
+681,52,2024-03-16,how-to,low,False
+682,732,2024-03-16,billing,high,True
+683,954,2024-03-16,billing,low,False
+684,973,2024-03-16,billing,medium,False
+685,1008,2024-03-16,how-to,low,False
+686,259,2024-03-17,how-to,low,False
+687,469,2024-03-17,bug,low,False
+688,511,2024-03-17,how-to,medium,False
+689,427,2024-03-18,bug,low,False
+690,682,2024-03-18,feature request,low,False
+691,1105,2024-03-18,how-to,low,False
+692,319,2024-03-19,feature request,,True
+693,633,2024-03-19,how-to,low,False
+694,1222,2024-03-19,feature request,low,False
+695,1261,2024-03-19,feature request,low,False
+696,1353,2024-03-19,billing,medium,False
+697,417,2024-03-20,bug,low,False
+698,903,2024-03-20,bug,low,False
+699,910,2024-03-20,how-to,medium,False
+700,1003,2024-03-20,how-to,medium,False
+701,798,2024-03-21,bug,medium,False
+702,941,2024-03-21,billing,Low,False
+703,1055,2024-03-21,bug,low,False
+704,1404,2024-03-21,billing,low,False
+705,413,2024-03-23,feature request,low,False
+706,931,2024-03-23,feature request,low,False
+707,1124,2024-03-23,billing,Low,False
+708,1404,2024-03-23,bug,LOW,False
+709,424,2024-03-24,how-to,low,False
+710,953,2024-03-24,bug,Low,False
+711,525,2024-03-25,billing,low,False
+712,628,2024-03-25,how-to,low,False
+713,633,2024-03-25,feature request,low,False
+714,1003,2024-03-25,feature request,low,False
+715,476,2024-03-26,bug,medium,False
+716,826,2024-03-26,feature request,low,False
+717,953,2024-03-26,feature request,low,False
+718,1165,2024-03-26,feature request,,False
+719,1444,2024-03-26,feature request,High,True
+720,473,2024-03-27,bug,low,False
+721,975,2024-03-27,how-to,low,False
+722,1390,2024-03-27,how-to,,False
+723,128,2024-03-28,feature request,MED,False
+724,372,2024-03-28,billing,low,False
+725,738,2024-03-28,billing,high,True
+726,888,2024-03-28,feature request,medium,False
+727,973,2024-04-01,how-to,Low,False
+728,1456,2024-04-01,bug,low,False
+729,1050,2024-04-02,feature request,high,True
+730,1141,2024-04-02,bug,medium,False
+731,1463,2024-04-02,how-to,LOW,False
+732,507,2024-04-03,feature request,high,True
+733,595,2024-04-03,feature request,low,False
+734,762,2024-04-03,how-to,medium,False
+735,903,2024-04-03,how-to,,False
+736,52,2024-04-04,bug,medium,False
+737,894,2024-04-04,billing,low,False
+738,1101,2024-04-04,billing,low,False
+739,1281,2024-04-04,billing,medium,False
+740,1318,2024-04-04,bug,low,False
+741,1404,2024-04-04,bug,medium,False
+742,261,2024-04-05,how-to,low,False
+743,747,2024-04-05,how-to,medium,False
+744,1394,2024-04-05,how-to,low,False
+745,125,2024-04-06,billing,LOW,False
+746,282,2024-04-06,billing,medium,False
+747,571,2024-04-06,billing,Low,False
+748,732,2024-04-06,how-to,,False
+749,988,2024-04-06,feature request,low,False
+750,1058,2024-04-06,bug,high,True
+751,1318,2024-04-06,billing,high,True
+752,28,2024-04-08,feature request,medium,False
+753,136,2024-04-08,billing,,False
+754,517,2024-04-08,how-to,low,False
+755,781,2024-04-08,feature request,low,False
+756,925,2024-04-08,feature request,medium,False
+757,1158,2024-04-08,billing,low,False
+758,1404,2024-04-08,billing,low,False
+759,1404,2024-04-08,bug,low,False
+760,975,2024-04-09,feature request,medium,False
+761,213,2024-04-10,bug,low,False
+762,413,2024-04-10,feature request,Low,False
+763,618,2024-04-10,feature request,high,True
+764,764,2024-04-10,how-to,low,False
+765,18,2024-04-11,feature request,low,False
+766,436,2024-04-11,feature request,low,False
+767,941,2024-04-11,how-to,low,False
+768,1197,2024-04-11,how-to,medium,False
+769,475,2024-04-12,bug,low,False
+770,103,2024-04-13,feature request,low,False
+771,1050,2024-04-13,bug,low,False
+772,1360,2024-04-13,feature request,low,False
+773,115,2024-04-14,feature request,low,False
+774,362,2024-04-14,feature request,low,False
+775,436,2024-04-14,feature request,low,False
+776,568,2024-04-14,billing,low,False
+777,618,2024-04-14,feature request,low,False
+778,725,2024-04-14,billing,low,False
+779,1037,2024-04-14,billing,medium,False
+780,1215,2024-04-14,how-to,Low,False
+781,1298,2024-04-14,billing,low,False
+782,1408,2024-04-15,how-to,low,False
+783,927,2024-04-17,feature request,low,False
+784,1161,2024-04-17,bug,medium,False
+785,1182,2024-04-17,bug,low,False
+786,1261,2024-04-17,bug,medium,False
+787,535,2024-04-18,billing,low,False
+788,802,2024-04-18,billing,low,False
+789,1116,2024-04-18,feature request,medium,False
+790,1182,2024-04-18,feature request,low,False
+791,337,2024-04-19,how-to,low,False
+792,661,2024-04-19,how-to,high,True
+793,702,2024-04-19,billing,medium,False
+794,727,2024-04-19,billing,low,False
+795,693,2024-04-20,feature request,medium,False
+796,727,2024-04-20,billing,low,False
+797,733,2024-04-20,how-to,medium,False
+798,767,2024-04-20,feature request,low,False
+799,936,2024-04-20,feature request,low,False
+800,1253,2024-04-22,bug,low,False
+801,51,2024-04-23,how-to,low,False
+802,820,2024-04-23,how-to,low,False
+803,1001,2024-04-23,bug,Medium,False
+804,1016,2024-04-23,feature request,MED,False
+805,1101,2024-04-23,billing,low,False
+806,1261,2024-04-23,feature request,medium,False
+807,781,2024-04-24,feature request,medium,False
+808,855,2024-04-24,billing,medium,False
+809,950,2024-04-24,how-to,high,True
+810,1206,2024-04-24,how-to,low,False
+811,1337,2024-04-24,feature request,medium,False
+812,206,2024-04-25,feature request,low,False
+813,1008,2024-04-25,bug,medium,False
+814,1157,2024-04-25,billing,low,False
+815,1179,2024-04-25,feature request,medium,False
+816,1304,2024-04-25,how-to,medium,False
+817,557,2024-04-26,how-to,MED,False
+818,973,2024-04-26,feature request,medium,False
+819,1110,2024-04-27,billing,low,False
+820,302,2024-04-28,billing,,False
+821,897,2024-04-28,bug,medium,False
+822,1076,2024-04-28,bug,Medium,False
+823,1341,2024-04-28,billing,low,False
+824,1402,2024-04-28,billing,low,False
+825,522,2024-05-01,bug,high,True
+826,628,2024-05-01,billing,high,True
+827,820,2024-05-01,how-to,medium,False
+828,184,2024-05-02,billing,medium,False
+829,634,2024-05-02,how-to,low,False
+830,664,2024-05-02,bug,low,False
+831,908,2024-05-02,billing,medium,False
+832,1003,2024-05-02,how-to,low,False
+833,1214,2024-05-02,how-to,medium,False
+834,1425,2024-05-02,feature request,high,True
+835,267,2024-05-03,bug,low,False
+836,703,2024-05-03,feature request,LOW,False
+837,731,2024-05-03,bug,low,False
+838,1122,2024-05-03,feature request,MED,False
+839,267,2024-05-04,bug,medium,False
+840,424,2024-05-04,feature request,high,True
+841,643,2024-05-04,billing,low,False
+842,680,2024-05-04,billing,MED,False
+843,859,2024-05-04,billing,low,False
+844,941,2024-05-04,bug,low,False
+845,125,2024-05-05,billing,medium,False
+846,128,2024-05-05,feature request,high,True
+847,451,2024-05-05,billing,low,False
+848,732,2024-05-05,feature request,low,False
+849,1156,2024-05-05,bug,low,False
+850,1386,2024-05-05,bug,high,True
+851,196,2024-05-06,how-to,low,False
+852,362,2024-05-06,how-to,low,False
+853,1008,2024-05-06,feature request,medium,False
+854,1222,2024-05-06,feature request,low,False
+855,1443,2024-05-06,bug,medium,False
+856,34,2024-05-07,how-to,LOW,False
+857,103,2024-05-07,how-to,low,False
+858,517,2024-05-07,feature request,low,False
+859,1354,2024-05-07,bug,medium,False
+860,48,2024-05-08,feature request,low,False
+861,569,2024-05-08,billing,low,False
+862,1304,2024-05-08,how-to,medium,False
+863,1450,2024-05-08,feature request,low,False
+864,793,2024-05-09,billing,medium,False
+865,1404,2024-05-09,how-to,low,False
+866,60,2024-05-10,feature request,medium,False
+867,213,2024-05-10,billing,medium,False
+868,362,2024-05-10,feature request,low,False
+869,742,2024-05-10,feature request,low,False
+870,950,2024-05-11,bug,,False
+871,1390,2024-05-11,how-to,low,False
+872,1456,2024-05-12,feature request,low,False
+873,972,2024-05-13,bug,low,False
+874,1141,2024-05-13,billing,low,False
+875,1179,2024-05-13,bug,low,False
+876,86,2024-05-14,feature request,low,False
+877,190,2024-05-14,feature request,medium,False
+878,249,2024-05-14,feature request,HIGH,True
+879,852,2024-05-14,how-to,medium,False
+880,1337,2024-05-14,bug,medium,False
+881,889,2024-05-15,how-to,low,False
+882,9,2024-05-16,feature request,MED,False
+883,95,2024-05-16,feature request,low,False
+884,796,2024-05-16,billing,low,False
+885,1047,2024-05-16,how-to,high,True
+886,94,2024-05-17,feature request,low,False
+887,889,2024-05-17,billing,low,False
+888,1179,2024-05-17,how-to,low,False
+889,424,2024-05-18,how-to,low,False
+890,444,2024-05-18,how-to,medium,False
+891,972,2024-05-18,feature request,medium,False
+892,1457,2024-05-18,feature request,medium,False
+893,464,2024-05-19,how-to,low,False
+894,482,2024-05-19,billing,medium,False
+895,791,2024-05-19,how-to,medium,False
+896,973,2024-05-19,how-to,high,True
+897,51,2024-05-20,bug,medium,False
+898,281,2024-05-20,how-to,high,True
+899,753,2024-05-20,how-to,medium,False
+900,775,2024-05-20,billing,Low,False
+901,1404,2024-05-20,feature request,medium,False
+902,313,2024-05-21,billing,Low,False
+903,398,2024-05-21,feature request,low,False
+904,682,2024-05-21,how-to,medium,False
+905,768,2024-05-21,feature request,medium,False
+906,802,2024-05-21,bug,medium,False
+907,898,2024-05-21,billing,low,False
+908,1101,2024-05-21,bug,low,False
+909,1246,2024-05-21,feature request,,False
+910,1267,2024-05-21,how-to,high,True
+911,494,2024-05-22,bug,low,False
+912,851,2024-05-22,bug,low,False
+913,897,2024-05-22,feature request,high,True
+914,902,2024-05-22,billing,low,False
+915,910,2024-05-22,billing,low,False
+916,332,2024-05-24,billing,medium,False
+917,511,2024-05-24,billing,medium,False
+918,523,2024-05-24,billing,low,False
+919,737,2024-05-24,bug,High,True
+920,373,2024-05-25,how-to,,False
+921,752,2024-05-25,billing,low,False
+922,973,2024-05-25,billing,medium,False
+923,374,2024-05-26,bug,low,False
+924,732,2024-05-26,feature request,low,False
+925,363,2024-05-27,feature request,low,False
+926,429,2024-05-27,billing,Low,False
+927,590,2024-05-27,billing,LOW,False
+928,851,2024-05-27,bug,low,False
+929,852,2024-05-28,billing,low,False
+930,1356,2024-05-28,feature request,high,True
+931,1406,2024-05-28,billing,low,False
+932,39,2024-06-01,billing,high,True
+933,48,2024-06-01,billing,low,False
+934,665,2024-06-01,how-to,LOW,False
+935,734,2024-06-01,billing,low,False
+936,1157,2024-06-01,bug,low,False
+937,1404,2024-06-01,how-to,medium,False
+938,734,2024-06-02,feature request,low,False
+939,389,2024-06-03,feature request,low,False
+940,1070,2024-06-03,billing,low,False
+941,362,2024-06-04,bug,low,False
+942,515,2024-06-04,billing,medium,False
+943,1386,2024-06-04,bug,Medium,False
+944,76,2024-06-05,how-to,low,False
+945,259,2024-06-05,how-to,low,False
+946,644,2024-06-05,bug,medium,False
+947,18,2024-06-06,billing,medium,False
+948,276,2024-06-06,feature request,medium,False
+949,445,2024-06-06,bug,medium,False
+950,1435,2024-06-06,feature request,low,False
+951,125,2024-06-08,how-to,medium,False
+952,155,2024-06-08,feature request,low,False
+953,206,2024-06-08,bug,low,False
+954,1156,2024-06-08,billing,medium,False
+955,1362,2024-06-08,billing,high,True
+956,184,2024-06-09,how-to,low,False
+957,881,2024-06-09,how-to,low,False
+958,927,2024-06-09,billing,Low,False
+959,988,2024-06-09,feature request,low,False
+960,314,2024-06-10,billing,Medium,False
+961,764,2024-06-10,bug,medium,False
+962,661,2024-06-11,billing,medium,False
+963,682,2024-06-11,billing,LOW,False
+964,1133,2024-06-11,bug,low,False
+965,1240,2024-06-11,bug,low,False
+966,682,2024-06-12,bug,low,False
+967,797,2024-06-12,feature request,low,False
+968,1037,2024-06-12,feature request,low,False
+969,1041,2024-06-12,bug,Medium,False
+970,150,2024-06-13,how-to,high,True
+971,213,2024-06-13,bug,low,False
+972,987,2024-06-13,bug,high,True
+973,39,2024-06-14,bug,high,True
+974,362,2024-06-14,billing,low,False
+975,481,2024-06-15,billing,LOW,False
+976,561,2024-06-15,how-to,medium,False
+977,802,2024-06-15,how-to,low,False
+978,833,2024-06-15,how-to,low,False
+979,1499,2024-06-15,feature request,Medium,False
+980,375,2024-06-16,billing,low,False
+981,734,2024-06-16,billing,low,False
+982,1178,2024-06-16,how-to,high,True
+983,1295,2024-06-16,how-to,medium,False
+984,1297,2024-06-16,feature request,medium,False
+985,1406,2024-06-16,billing,low,False
+986,108,2024-06-17,billing,LOW,False
+987,475,2024-06-17,bug,low,False
+988,887,2024-06-17,feature request,low,False
+989,968,2024-06-17,billing,low,False
+990,1063,2024-06-17,feature request,medium,False
+991,1287,2024-06-17,billing,medium,False
+992,184,2024-06-18,feature request,high,True
+993,258,2024-06-18,how-to,low,False
+994,469,2024-06-18,billing,low,False
+995,488,2024-06-18,feature request,low,False
+996,1402,2024-06-18,billing,medium,False
+997,34,2024-06-19,bug,LOW,False
+998,9,2024-06-20,how-to,medium,False
+999,889,2024-06-20,bug,low,False
+1000,337,2024-06-21,bug,low,False
+1001,927,2024-06-21,bug,high,True
+1002,985,2024-06-21,billing,medium,False
+1003,1295,2024-06-21,how-to,,False
+1004,1341,2024-06-21,bug,low,False
+1005,1390,2024-06-21,feature request,low,False
+1006,1427,2024-06-21,how-to,low,False
+1007,1457,2024-06-21,how-to,low,False
+1008,569,2024-06-22,billing,low,False
+1009,910,2024-06-22,bug,low,False
+1010,1124,2024-06-22,billing,medium,False
+1011,1402,2024-06-22,feature request,low,False
+1012,209,2024-06-23,feature request,medium,False
+1013,499,2024-06-23,bug,high,True
+1014,732,2024-06-23,bug,low,False
+1015,973,2024-06-23,how-to,low,False
+1016,1070,2024-06-23,billing,medium,False
+1017,1091,2024-06-23,billing,,True
+1018,1096,2024-06-23,feature request,low,False
+1019,1294,2024-06-23,bug,low,False
+1020,190,2024-06-24,feature request,low,False
+1021,206,2024-06-24,how-to,medium,False
+1022,437,2024-06-24,bug,low,False
+1023,980,2024-06-24,how-to,low,False
+1024,115,2024-06-26,bug,low,False
+1025,227,2024-06-26,bug,low,False
+1026,769,2024-06-26,how-to,medium,False
+1027,781,2024-06-26,feature request,MED,False
+1028,931,2024-06-26,how-to,medium,False
+1029,1107,2024-06-26,how-to,low,False
+1030,282,2024-06-27,feature request,medium,False
+1031,335,2024-06-27,bug,medium,False
+1032,590,2024-06-27,billing,medium,False
+1033,626,2024-06-27,bug,medium,False
+1034,72,2024-06-28,how-to,Medium,False
+1035,319,2024-06-28,how-to,medium,False
+1036,267,2024-07-01,bug,low,False
+1037,313,2024-07-01,feature request,low,False
+1038,385,2024-07-01,feature request,high,True
+1039,615,2024-07-01,billing,low,False
+1040,660,2024-07-01,billing,medium,False
+1041,108,2024-07-02,how-to,Low,False
+1042,131,2024-07-02,bug,low,False
+1043,693,2024-07-02,how-to,low,False
+1044,204,2024-07-03,how-to,medium,False
+1045,220,2024-07-03,billing,,False
+1046,287,2024-07-03,feature request,medium,False
+1047,902,2024-07-03,billing,low,False
+1048,938,2024-07-03,how-to,medium,False
+1049,1179,2024-07-03,feature request,medium,False
+1050,633,2024-07-04,bug,medium,False
+1051,791,2024-07-04,bug,low,False
+1052,820,2024-07-04,feature request,medium,False
+1053,859,2024-07-04,bug,high,True
+1054,1008,2024-07-04,how-to,low,False
+1055,1037,2024-07-04,billing,low,False
+1056,147,2024-07-05,how-to,high,True
+1057,553,2024-07-05,billing,medium,False
+1058,894,2024-07-05,feature request,medium,False
+1059,941,2024-07-05,how-to,low,False
+1060,1122,2024-07-05,bug,low,False
+1061,47,2024-07-06,how-to,low,False
+1062,1402,2024-07-06,how-to,low,False
+1063,634,2024-07-07,bug,high,True
+1064,833,2024-07-07,bug,low,False
+1065,886,2024-07-07,billing,MED,False
+1066,998,2024-07-07,billing,low,False
+1067,1158,2024-07-07,bug,low,False
+1068,1180,2024-07-07,bug,high,True
+1069,271,2024-07-08,feature request,low,False
+1070,317,2024-07-08,bug,medium,False
+1071,485,2024-07-08,bug,medium,False
+1072,644,2024-07-08,billing,medium,False
+1073,1240,2024-07-08,billing,HIGH,True
+1074,1300,2024-07-08,bug,low,False
+1075,1445,2024-07-08,bug,low,False
+1076,1112,2024-07-09,how-to,medium,False
+1077,481,2024-07-10,feature request,low,False
+1078,964,2024-07-10,billing,medium,False
+1079,644,2024-07-11,billing,low,False
+1080,680,2024-07-11,how-to,medium,False
+1081,973,2024-07-11,billing,medium,False
+1082,1406,2024-07-11,bug,Low,False
+1083,455,2024-07-12,how-to,low,False
+1084,473,2024-07-12,billing,low,False
+1085,796,2024-07-12,how-to,low,False
+1086,687,2024-07-13,billing,low,False
+1087,902,2024-07-13,feature request,high,True
+1088,1107,2024-07-13,how-to,low,False
+1089,149,2024-07-14,billing,medium,False
+1090,980,2024-07-14,how-to,low,False
+1091,435,2024-07-15,bug,low,False
+1092,791,2024-07-15,feature request,medium,False
+1093,944,2024-07-15,billing,low,False
+1094,70,2024-07-16,how-to,low,False
+1095,206,2024-07-16,how-to,low,False
+1096,1225,2024-07-16,feature request,,False
+1097,243,2024-07-17,how-to,low,False
+1098,330,2024-07-17,bug,low,False
+1099,352,2024-07-17,billing,,False
+1100,373,2024-07-17,how-to,medium,False
+1101,1360,2024-07-17,feature request,low,False
+1102,199,2024-07-18,how-to,low,False
+1103,471,2024-07-18,how-to,low,False
+1104,830,2024-07-18,how-to,medium,False
+1105,1197,2024-07-18,bug,high,True
+1106,1388,2024-07-18,feature request,MED,False
+1107,5,2024-07-19,billing,Low,False
+1108,82,2024-07-19,how-to,low,False
+1109,286,2024-07-19,feature request,medium,False
+1110,366,2024-07-19,bug,low,False
+1111,767,2024-07-19,bug,low,False
+1112,768,2024-07-19,how-to,LOW,False
+1113,865,2024-07-19,billing,low,False
+1114,877,2024-07-19,bug,medium,False
+1115,910,2024-07-19,how-to,Medium,False
+1116,1035,2024-07-19,billing,low,False
+1117,1184,2024-07-19,bug,medium,False
+1118,124,2024-07-20,how-to,low,False
+1119,292,2024-07-20,feature request,Low,False
+1120,413,2024-07-20,billing,low,False
+1121,753,2024-07-20,how-to,medium,False
+1122,771,2024-07-20,how-to,medium,False
+1123,839,2024-07-20,bug,medium,False
+1124,1477,2024-07-20,bug,medium,False
+1125,734,2024-07-21,bug,low,False
+1126,775,2024-07-21,feature request,medium,False
+1127,798,2024-07-21,how-to,low,False
+1128,877,2024-07-21,bug,medium,False
+1129,972,2024-07-21,billing,,False
+1130,177,2024-07-22,bug,high,True
+1131,1165,2024-07-22,feature request,medium,False
+1132,471,2024-07-23,bug,high,True
+1133,615,2024-07-23,bug,medium,False
+1134,887,2024-07-23,how-to,low,False
+1135,332,2024-07-24,feature request,Medium,False
+1136,206,2024-07-25,billing,medium,False
+1137,369,2024-07-25,feature request,low,False
+1138,533,2024-07-25,bug,medium,False
+1139,1179,2024-07-25,how-to,,False
+1140,1330,2024-07-25,bug,medium,False
+1141,1354,2024-07-25,billing,medium,False
+1142,1460,2024-07-25,bug,medium,False
+1143,113,2024-07-26,feature request,medium,False
+1144,980,2024-07-26,feature request,medium,False
+1145,1124,2024-07-27,bug,medium,False
+1146,213,2024-07-28,how-to,medium,False
+1147,1205,2024-07-28,feature request,MED,False
+1148,1239,2024-07-28,how-to,medium,False
+1149,1281,2024-07-28,feature request,low,False
+1150,732,2024-08-01,billing,low,False
+1151,1141,2024-08-01,feature request,medium,False
+1152,1191,2024-08-01,how-to,high,True
+1153,881,2024-08-02,billing,low,False
+1154,952,2024-08-02,feature request,HIGH,True
+1155,243,2024-08-03,feature request,low,False
+1156,729,2024-08-03,bug,low,False
+1157,796,2024-08-03,bug,low,False
+1158,980,2024-08-03,feature request,,False
+1159,469,2024-08-04,how-to,low,False
+1160,781,2024-08-04,bug,medium,False
+1161,1388,2024-08-04,how-to,low,False
+1162,206,2024-08-05,billing,high,True
+1163,306,2024-08-05,bug,low,False
+1164,845,2024-08-05,feature request,medium,False
+1165,1272,2024-08-05,billing,medium,False
+1166,103,2024-08-06,how-to,LOW,False
+1167,535,2024-08-06,how-to,,False
+1168,794,2024-08-06,how-to,medium,False
+1169,1244,2024-08-06,bug,medium,False
+1170,115,2024-08-07,feature request,high,True
+1171,276,2024-08-07,feature request,medium,False
+1172,312,2024-08-07,feature request,low,False
+1173,971,2024-08-07,billing,low,False
+1174,760,2024-08-08,feature request,low,False
+1175,941,2024-08-08,how-to,medium,False
+1176,1179,2024-08-08,how-to,,False
+1177,1180,2024-08-08,bug,medium,False
+1178,1456,2024-08-08,how-to,low,False
+1179,294,2024-08-09,how-to,low,False
+1180,312,2024-08-09,how-to,low,False
+1181,373,2024-08-09,how-to,medium,False
+1182,694,2024-08-09,bug,low,False
+1183,798,2024-08-09,feature request,high,True
+1184,852,2024-08-09,billing,low,False
+1185,44,2024-08-10,bug,medium,False
+1186,76,2024-08-10,feature request,low,False
+1187,267,2024-08-10,bug,low,False
+1188,286,2024-08-10,billing,LOW,False
+1189,332,2024-08-10,billing,low,False
+1190,1182,2024-08-10,feature request,high,True
+1191,206,2024-08-11,feature request,low,False
+1192,213,2024-08-11,bug,medium,False
+1193,366,2024-08-11,billing,low,False
+1194,703,2024-08-11,billing,medium,False
+1195,766,2024-08-11,feature request,high,True
+1196,1145,2024-08-11,billing,medium,False
+1197,1281,2024-08-11,billing,medium,False
+1198,1356,2024-08-11,bug,medium,False
+1199,86,2024-08-12,feature request,low,False
+1200,375,2024-08-12,billing,low,False
+1201,793,2024-08-12,bug,medium,False
+1202,839,2024-08-12,billing,medium,False
+1203,847,2024-08-12,bug,low,False
+1204,1125,2024-08-12,how-to,LOW,False
+1205,1246,2024-08-12,billing,low,False
+1206,187,2024-08-13,bug,low,False
+1207,366,2024-08-13,billing,low,False
+1208,681,2024-08-13,billing,low,False
+1209,941,2024-08-13,bug,low,False
+1210,319,2024-08-14,bug,low,False
+1211,633,2024-08-14,how-to,low,False
+1212,643,2024-08-14,billing,low,False
+1213,1076,2024-08-14,billing,MED,False
+1214,1133,2024-08-14,feature request,medium,False
+1215,1408,2024-08-14,bug,high,True
+1216,413,2024-08-15,feature request,medium,False
+1217,484,2024-08-15,billing,medium,False
+1218,902,2024-08-15,bug,MED,False
+1219,938,2024-08-15,how-to,Low,False
+1220,454,2024-08-16,billing,medium,False
+1221,583,2024-08-16,billing,Low,False
+1222,592,2024-08-16,billing,medium,False
+1223,1035,2024-08-16,bug,low,False
+1224,1281,2024-08-16,how-to,low,False
+1225,1400,2024-08-16,bug,medium,False
+1226,791,2024-08-17,billing,low,False
+1227,887,2024-08-17,how-to,medium,False
+1228,82,2024-08-18,how-to,,False
+1229,376,2024-08-18,bug,low,False
+1230,392,2024-08-18,bug,low,False
+1231,826,2024-08-18,how-to,high,True
+1232,938,2024-08-18,how-to,low,False
+1233,59,2024-08-19,how-to,MED,False
+1234,127,2024-08-19,bug,medium,False
+1235,258,2024-08-19,how-to,low,False
+1236,271,2024-08-19,billing,low,False
+1237,451,2024-08-19,billing,low,False
+1238,568,2024-08-19,bug,medium,False
+1239,980,2024-08-19,how-to,medium,False
+1240,988,2024-08-19,how-to,medium,False
+1241,994,2024-08-19,billing,low,False
+1242,1230,2024-08-19,how-to,low,False
+1243,1356,2024-08-19,bug,low,False
+1244,670,2024-08-20,how-to,medium,False
+1245,1434,2024-08-20,billing,low,False
+1246,488,2024-08-21,bug,medium,False
+1247,793,2024-08-21,billing,low,False
+1248,1182,2024-08-21,how-to,low,False
+1249,1191,2024-08-21,how-to,medium,False
+1250,740,2024-08-22,billing,low,False
+1251,797,2024-08-22,bug,medium,False
+1252,1236,2024-08-22,how-to,low,False
+1253,1426,2024-08-22,how-to,low,False
+1254,366,2024-08-23,feature request,MED,False
+1255,550,2024-08-23,feature request,,False
+1256,1187,2024-08-23,billing,HIGH,True
+1257,729,2024-08-24,how-to,medium,False
+1258,1122,2024-08-24,feature request,medium,False
+1259,1450,2024-08-24,how-to,medium,False
+1260,44,2024-08-25,feature request,medium,False
+1261,608,2024-08-25,feature request,low,False
+1262,1028,2024-08-25,feature request,medium,False
+1263,1206,2024-08-25,feature request,low,False
+1264,1281,2024-08-25,billing,Low,False
+1265,373,2024-08-26,bug,low,False
+1266,149,2024-08-27,feature request,low,False
+1267,436,2024-08-27,billing,low,False
+1268,476,2024-08-27,billing,medium,False
+1269,988,2024-08-27,bug,medium,False
+1270,1141,2024-08-27,bug,low,False
+1271,1289,2024-08-27,how-to,low,False
+1272,95,2024-09-01,how-to,low,False
+1273,287,2024-09-01,how-to,high,True
+1274,314,2024-09-01,billing,high,True
+1275,392,2024-09-01,bug,medium,False
+1276,400,2024-09-01,bug,low,False
+1277,1015,2024-09-01,feature request,medium,False
+1278,1039,2024-09-01,feature request,low,False
+1279,1054,2024-09-01,feature request,medium,False
+1280,1295,2024-09-01,billing,low,False
+1281,427,2024-09-02,billing,medium,False
+1282,705,2024-09-02,how-to,low,False
+1283,886,2024-09-02,how-to,low,False
+1284,731,2024-09-03,feature request,medium,False
+1285,931,2024-09-03,feature request,low,False
+1286,124,2024-09-04,billing,low,False
+1287,1406,2024-09-04,bug,medium,False
+1288,973,2024-09-05,feature request,low,False
+1289,1101,2024-09-05,how-to,HIGH,True
+1290,1182,2024-09-05,feature request,medium,False
+1291,207,2024-09-06,billing,low,False
+1292,225,2024-09-06,bug,low,False
+1293,389,2024-09-06,how-to,low,False
+1294,451,2024-09-06,bug,low,False
+1295,456,2024-09-06,feature request,low,False
+1296,734,2024-09-06,billing,medium,False
+1297,1035,2024-09-06,how-to,medium,False
+1298,1136,2024-09-06,feature request,low,False
+1299,2,2024-09-07,how-to,low,False
+1300,568,2024-09-07,billing,medium,False
+1301,769,2024-09-07,billing,,True
+1302,1028,2024-09-07,bug,low,False
+1303,18,2024-09-08,feature request,medium,False
+1304,962,2024-09-08,how-to,medium,False
+1305,1101,2024-09-08,billing,medium,False
+1306,966,2024-09-09,how-to,low,False
+1307,1119,2024-09-09,feature request,medium,False
+1308,1488,2024-09-09,how-to,high,True
+1309,150,2024-09-10,bug,,False
+1310,477,2024-09-10,billing,medium,False
+1311,485,2024-09-10,how-to,low,False
+1312,839,2024-09-10,how-to,high,True
+1313,877,2024-09-10,feature request,medium,False
+1314,921,2024-09-10,how-to,,True
+1315,1080,2024-09-10,bug,medium,False
+1316,294,2024-09-11,how-to,low,False
+1317,481,2024-09-11,billing,medium,False
+1318,650,2024-09-11,how-to,low,False
+1319,877,2024-09-11,how-to,medium,False
+1320,931,2024-09-11,billing,medium,False
+1321,288,2024-09-12,bug,low,False
+1322,702,2024-09-12,billing,low,False
+1323,797,2024-09-12,feature request,low,False
+1324,1156,2024-09-12,billing,low,False
+1325,271,2024-09-13,how-to,low,False
+1326,530,2024-09-13,bug,medium,False
+1327,1035,2024-09-13,feature request,low,False
+1328,1205,2024-09-13,billing,high,True
+1329,746,2024-09-14,feature request,LOW,False
+1330,881,2024-09-14,billing,low,False
+1331,1206,2024-09-14,billing,medium,False
+1332,389,2024-09-15,bug,low,False
+1333,943,2024-09-15,bug,low,False
+1334,1008,2024-09-15,how-to,high,True
+1335,1052,2024-09-15,how-to,low,False
+1336,314,2024-09-16,how-to,low,False
+1337,601,2024-09-16,bug,medium,False
+1338,413,2024-09-17,feature request,low,False
+1339,435,2024-09-17,how-to,low,False
+1340,511,2024-09-17,bug,low,False
+1341,551,2024-09-17,billing,medium,False
+1342,601,2024-09-17,bug,medium,False
+1343,727,2024-09-17,bug,high,True
+1344,1002,2024-09-17,billing,low,False
+1345,1239,2024-09-17,feature request,LOW,False
+1346,149,2024-09-18,feature request,Medium,False
+1347,437,2024-09-18,billing,medium,False
+1348,1239,2024-09-18,how-to,low,False
+1349,651,2024-09-19,billing,low,False
+1350,1133,2024-09-19,billing,medium,False
+1351,373,2024-09-20,how-to,medium,False
+1352,482,2024-09-20,billing,medium,False
+1353,488,2024-09-20,feature request,,True
+1354,571,2024-09-20,billing,low,False
+1355,852,2024-09-20,how-to,low,False
+1356,1225,2024-09-20,bug,medium,False
+1357,1474,2024-09-20,billing,low,False
+1358,15,2024-09-21,billing,high,True
+1359,996,2024-09-21,billing,Medium,False
+1360,1330,2024-09-21,feature request,high,True
+1361,258,2024-09-22,feature request,medium,False
+1362,362,2024-09-22,bug,medium,False
+1363,546,2024-09-22,bug,medium,False
+1364,1047,2024-09-22,feature request,low,False
+1365,1318,2024-09-22,bug,low,False
+1366,943,2024-09-23,bug,medium,False
+1367,1294,2024-09-23,how-to,low,False
+1368,273,2024-09-24,bug,low,False
+1369,311,2024-09-24,bug,medium,False
+1370,313,2024-09-24,feature request,High,True
+1371,362,2024-09-24,how-to,medium,False
+1372,757,2024-09-24,billing,low,False
+1373,1477,2024-09-24,how-to,medium,False
+1374,27,2024-09-25,feature request,Medium,False
+1375,910,2024-09-25,bug,LOW,False
+1376,1054,2024-09-25,billing,low,False
+1377,199,2024-09-26,bug,low,False
+1378,288,2024-09-26,bug,medium,False
+1379,601,2024-09-26,billing,low,False
+1380,1035,2024-09-26,feature request,medium,False
+1381,74,2024-09-27,billing,low,False
+1382,547,2024-09-27,billing,medium,False
+1383,1206,2024-09-27,billing,low,False
+1384,475,2024-09-28,billing,low,False
+1385,1016,2024-09-28,bug,low,False
+1386,278,2024-10-01,billing,high,True
+1387,734,2024-10-01,feature request,low,False
+1388,1033,2024-10-01,bug,medium,False
+1389,1122,2024-10-01,billing,low,False
+1390,1259,2024-10-01,bug,medium,False
+1391,70,2024-10-02,billing,low,False
+1392,237,2024-10-02,how-to,low,False
+1393,304,2024-10-02,feature request,low,False
+1394,687,2024-10-02,billing,low,False
+1395,687,2024-10-02,how-to,high,True
+1396,927,2024-10-02,how-to,low,False
+1397,352,2024-10-03,feature request,medium,False
+1398,514,2024-10-03,how-to,low,False
+1399,515,2024-10-03,feature request,low,False
+1400,1161,2024-10-03,feature request,medium,False
+1401,1270,2024-10-03,how-to,medium,False
+1402,1370,2024-10-03,feature request,low,False
+1403,200,2024-10-04,how-to,medium,False
+1404,258,2024-10-04,feature request,,False
+1405,878,2024-10-04,bug,medium,False
+1406,972,2024-10-04,billing,medium,False
+1407,1156,2024-10-04,how-to,low,False
+1408,1231,2024-10-04,billing,medium,False
+1409,1239,2024-10-04,how-to,medium,False
+1410,1269,2024-10-04,how-to,Low,False
+1411,561,2024-10-05,feature request,medium,False
+1412,1002,2024-10-05,billing,low,False
+1413,131,2024-10-06,feature request,low,False
+1414,309,2024-10-06,billing,low,False
+1415,363,2024-10-06,feature request,low,False
+1416,372,2024-10-06,feature request,low,False
+1417,941,2024-10-06,how-to,medium,False
+1418,1006,2024-10-06,bug,high,True
+1419,1222,2024-10-06,how-to,low,False
+1420,203,2024-10-07,bug,,False
+1421,568,2024-10-07,billing,medium,False
+1422,903,2024-10-07,bug,,False
+1423,985,2024-10-07,billing,medium,False
+1424,1388,2024-10-07,bug,Low,False
+1425,337,2024-10-08,feature request,medium,False
+1426,808,2024-10-08,billing,medium,False
+1427,887,2024-10-08,billing,medium,False
+1428,988,2024-10-08,feature request,medium,False
+1429,1191,2024-10-08,how-to,medium,False
+1430,1270,2024-10-08,bug,high,True
+1431,1291,2024-10-08,billing,low,False
+1432,74,2024-10-09,how-to,low,False
+1433,199,2024-10-09,feature request,medium,False
+1434,792,2024-10-09,billing,low,False
+1435,263,2024-10-10,feature request,medium,False
+1436,488,2024-10-10,billing,Medium,False
+1437,573,2024-10-10,feature request,low,False
+1438,1173,2024-10-10,billing,high,True
+1439,1273,2024-10-10,bug,low,False
+1440,209,2024-10-11,billing,low,False
+1441,488,2024-10-12,bug,low,False
+1442,648,2024-10-12,how-to,high,True
+1443,904,2024-10-12,billing,low,False
+1444,944,2024-10-12,billing,low,False
+1445,996,2024-10-12,billing,low,False
+1446,82,2024-10-13,bug,Low,False
+1447,401,2024-10-13,how-to,medium,False
+1448,455,2024-10-13,how-to,LOW,False
+1449,476,2024-10-13,feature request,medium,False
+1450,547,2024-10-13,bug,low,False
+1451,557,2024-10-13,how-to,Low,False
+1452,881,2024-10-13,billing,high,True
+1453,1037,2024-10-13,bug,low,False
+1454,1424,2024-10-13,billing,high,True
+1455,288,2024-10-14,billing,medium,False
+1456,356,2024-10-14,billing,low,False
+1457,696,2024-10-14,billing,medium,False
+1458,146,2024-10-15,bug,medium,False
+1459,571,2024-10-15,billing,high,True
+1460,977,2024-10-15,bug,high,True
+1461,1065,2024-10-15,billing,low,False
+1462,1081,2024-10-15,bug,low,False
+1463,1430,2024-10-15,feature request,low,False
+1464,10,2024-10-16,billing,medium,False
+1465,1019,2024-10-16,billing,low,False
+1466,1107,2024-10-16,billing,low,False
+1467,1480,2024-10-16,bug,MED,False
+1468,69,2024-10-17,how-to,low,False
+1469,243,2024-10-17,how-to,high,True
+1470,429,2024-10-17,billing,high,True
+1471,636,2024-10-17,feature request,low,False
+1472,644,2024-10-17,bug,high,True
+1473,1206,2024-10-17,bug,medium,False
+1474,155,2024-10-18,feature request,high,True
+1475,337,2024-10-18,billing,Medium,False
+1476,537,2024-10-18,feature request,low,False
+1477,696,2024-10-18,feature request,medium,False
+1478,1132,2024-10-18,bug,medium,False
+1479,192,2024-10-19,bug,Low,False
+1480,315,2024-10-19,how-to,medium,False
+1481,972,2024-10-19,feature request,low,False
+1482,18,2024-10-20,feature request,low,False
+1483,516,2024-10-20,how-to,medium,False
+1484,877,2024-10-20,how-to,LOW,False
+1485,901,2024-10-20,feature request,medium,False
+1486,971,2024-10-20,how-to,low,False
+1487,1065,2024-10-20,feature request,low,False
+1488,1435,2024-10-20,how-to,low,False
+1489,571,2024-10-21,how-to,medium,False
+1490,571,2024-10-21,feature request,medium,False
+1491,1289,2024-10-21,bug,medium,False
+1492,684,2024-10-22,billing,high,True
+1493,886,2024-10-22,how-to,medium,False
+1494,941,2024-10-22,how-to,low,False
+1495,1003,2024-10-22,how-to,medium,False
+1496,1132,2024-10-22,bug,low,False
+1497,39,2024-10-23,how-to,low,False
+1498,469,2024-10-23,bug,high,True
+1499,643,2024-10-23,how-to,high,True
+1500,648,2024-10-23,billing,low,False
+1501,545,2024-10-24,feature request,low,False
+1502,725,2024-10-24,feature request,low,False
+1503,888,2024-10-24,bug,,False
+1504,1161,2024-10-24,billing,medium,False
+1505,1239,2024-10-24,feature request,medium,False
+1506,1276,2024-10-24,how-to,low,False
+1507,1296,2024-10-24,bug,low,False
+1508,1422,2024-10-24,feature request,low,False
+1509,72,2024-10-25,feature request,low,False
+1510,901,2024-10-25,bug,low,False
+1511,311,2024-10-26,how-to,medium,False
+1512,454,2024-10-26,bug,low,False
+1513,1035,2024-10-26,billing,medium,False
+1514,1132,2024-10-26,bug,medium,False
+1515,1183,2024-10-26,billing,low,False
+1516,1287,2024-10-26,how-to,Low,False
+1517,206,2024-10-27,bug,low,False
+1518,289,2024-10-27,billing,medium,False
+1519,734,2024-10-27,bug,low,False
+1520,1171,2024-10-27,how-to,medium,False
+1521,199,2024-10-28,how-to,medium,False
+1522,311,2024-10-28,how-to,low,False
+1523,362,2024-10-28,billing,low,False
+1524,384,2024-10-28,billing,low,False
+1525,730,2024-10-28,how-to,Medium,False
+1526,1238,2024-10-28,how-to,medium,False
+1527,1365,2024-10-28,how-to,medium,False
+1528,1369,2024-10-28,bug,low,False
+1529,1388,2024-10-28,billing,medium,False
+1530,48,2024-11-01,bug,low,False
+1531,93,2024-11-01,how-to,medium,False
+1532,323,2024-11-01,feature request,low,False
+1533,352,2024-11-01,how-to,LOW,False
+1534,691,2024-11-01,bug,high,True
+1535,845,2024-11-01,bug,medium,False
+1536,894,2024-11-01,billing,high,True
+1537,1450,2024-11-01,billing,low,False
+1538,258,2024-11-02,bug,medium,False
+1539,648,2024-11-02,how-to,medium,False
+1540,936,2024-11-02,how-to,Low,False
+1541,941,2024-11-02,bug,low,False
+1542,1035,2024-11-02,how-to,low,False
+1543,1070,2024-11-02,billing,low,False
+1544,1179,2024-11-02,billing,high,True
+1545,1244,2024-11-02,bug,medium,False
+1546,1273,2024-11-02,billing,low,False
+1547,515,2024-11-03,how-to,low,False
+1548,881,2024-11-03,feature request,low,False
+1549,472,2024-11-04,billing,low,False
+1550,793,2024-11-04,billing,MED,False
+1551,887,2024-11-04,billing,medium,False
+1552,1059,2024-11-04,billing,medium,False
+1553,1192,2024-11-04,billing,low,False
+1554,1205,2024-11-04,feature request,low,False
+1555,363,2024-11-05,billing,low,False
+1556,581,2024-11-05,how-to,medium,False
+1557,619,2024-11-05,how-to,medium,False
+1558,654,2024-11-05,billing,high,True
+1559,1278,2024-11-05,billing,high,True
+1560,84,2024-11-06,billing,medium,False
+1561,166,2024-11-06,feature request,medium,False
+1562,273,2024-11-06,bug,low,False
+1563,323,2024-11-06,billing,low,False
+1564,815,2024-11-06,how-to,medium,False
+1565,1276,2024-11-06,bug,Low,False
+1566,5,2024-11-07,billing,low,False
+1567,155,2024-11-07,billing,medium,False
+1568,547,2024-11-07,how-to,low,False
+1569,786,2024-11-07,bug,low,False
+1570,847,2024-11-07,billing,low,False
+1571,987,2024-11-07,feature request,low,False
+1572,1013,2024-11-07,billing,low,False
+1573,273,2024-11-08,feature request,medium,False
+1574,680,2024-11-08,how-to,low,False
+1575,852,2024-11-08,how-to,high,True
+1576,435,2024-11-09,how-to,low,False
+1577,610,2024-11-09,billing,low,False
+1578,1189,2024-11-09,how-to,low,False
+1579,1191,2024-11-09,billing,Low,False
+1580,1202,2024-11-09,bug,medium,False
+1581,39,2024-11-10,how-to,medium,False
+1582,473,2024-11-10,bug,low,False
+1583,734,2024-11-10,feature request,low,False
+1584,1192,2024-11-10,billing,high,True
+1585,1294,2024-11-10,billing,medium,False
+1586,1314,2024-11-10,billing,Low,False
+1587,545,2024-11-11,feature request,medium,False
+1588,561,2024-11-11,bug,Low,False
+1589,650,2024-11-11,feature request,medium,False
+1590,734,2024-11-11,how-to,high,True
+1591,1278,2024-11-11,feature request,medium,False
+1592,798,2024-11-12,feature request,low,False
+1593,932,2024-11-12,billing,low,False
+1594,1356,2024-11-12,feature request,high,True
+1595,315,2024-11-13,how-to,medium,False
+1596,455,2024-11-13,how-to,low,False
+1597,931,2024-11-13,billing,low,False
+1598,1077,2024-11-13,feature request,low,False
+1599,1159,2024-11-13,billing,high,True
+1600,154,2024-11-14,billing,medium,False
+1601,1272,2024-11-14,billing,medium,False
+1602,363,2024-11-15,feature request,low,False
+1603,809,2024-11-15,feature request,low,False
+1604,1040,2024-11-15,bug,medium,False
+1605,384,2024-11-16,how-to,Low,False
+1606,413,2024-11-16,bug,LOW,False
+1607,456,2024-11-16,how-to,low,False
+1608,678,2024-11-16,billing,low,False
+1609,984,2024-11-16,bug,High,True
+1610,1269,2024-11-16,bug,medium,False
+1611,1294,2024-11-16,billing,medium,False
+1612,1474,2024-11-16,how-to,medium,False
+1613,389,2024-11-17,bug,medium,False
+1614,155,2024-11-18,bug,low,False
+1615,315,2024-11-18,feature request,high,True
+1616,82,2024-11-19,feature request,,False
+1617,206,2024-11-19,bug,low,False
+1618,271,2024-11-19,feature request,low,False
+1619,881,2024-11-19,billing,medium,False
+1620,919,2024-11-19,how-to,medium,False
+1621,323,2024-11-20,how-to,low,False
+1622,557,2024-11-20,billing,high,True
+1623,961,2024-11-20,bug,low,False
+1624,1240,2024-11-20,how-to,medium,False
+1625,76,2024-11-21,bug,low,False
+1626,375,2024-11-21,bug,low,False
+1627,379,2024-11-21,how-to,low,False
+1628,608,2024-11-21,billing,Medium,False
+1629,1122,2024-11-21,how-to,low,False
+1630,1231,2024-11-21,bug,low,False
+1631,1423,2024-11-21,bug,medium,False
+1632,1472,2024-11-21,bug,Low,False
+1633,487,2024-11-22,how-to,Low,False
+1634,802,2024-11-22,billing,low,False
+1635,802,2024-11-22,how-to,medium,False
+1636,887,2024-11-22,bug,low,False
+1637,902,2024-11-22,feature request,,False
+1638,1001,2024-11-22,bug,low,False
+1639,1231,2024-11-22,bug,medium,False
+1640,1402,2024-11-22,feature request,low,False
+1641,1475,2024-11-22,billing,low,False
+1642,41,2024-11-23,feature request,medium,False
+1643,573,2024-11-23,bug,,False
+1644,682,2024-11-23,feature request,medium,False
+1645,757,2024-11-23,bug,low,False
+1646,762,2024-11-23,billing,MED,False
+1647,155,2024-11-24,billing,Low,False
+1648,573,2024-11-24,feature request,medium,False
+1649,1161,2024-11-24,billing,LOW,False
+1650,150,2024-11-25,how-to,low,False
+1651,359,2024-11-25,how-to,HIGH,True
+1652,781,2024-11-25,billing,low,False
+1653,409,2024-11-26,feature request,low,False
+1654,1080,2024-11-26,bug,medium,False
+1655,1205,2024-11-26,feature request,low,False
+1656,1253,2024-11-26,bug,medium,False
+1657,258,2024-11-27,feature request,low,False
+1658,561,2024-11-27,bug,low,False
+1659,608,2024-11-27,bug,high,True
+1660,796,2024-11-27,feature request,low,False
+1661,941,2024-11-27,billing,medium,False
+1662,1239,2024-11-27,bug,low,False
+1663,319,2024-11-28,billing,low,False
+1664,396,2024-11-28,billing,Low,False
+1665,5,2024-12-01,billing,,False
+1666,592,2024-12-01,how-to,low,False
+1667,703,2024-12-01,feature request,High,True
+1668,706,2024-12-01,feature request,low,False
+1669,746,2024-12-01,feature request,medium,False
+1670,1248,2024-12-01,how-to,low,False
+1671,1435,2024-12-01,billing,Low,False
+1672,93,2024-12-02,bug,low,False
+1673,401,2024-12-02,how-to,LOW,False
+1674,407,2024-12-02,feature request,high,True
+1675,545,2024-12-02,bug,low,False
+1676,681,2024-12-02,billing,medium,False
+1677,1287,2024-12-02,feature request,LOW,False
+1678,1356,2024-12-02,how-to,low,False
+1679,884,2024-12-03,billing,low,False
+1680,902,2024-12-03,feature request,medium,False
+1681,927,2024-12-03,bug,Low,False
+1682,1357,2024-12-03,feature request,high,True
+1683,511,2024-12-04,how-to,low,False
+1684,127,2024-12-05,bug,high,True
+1685,309,2024-12-05,feature request,medium,False
+1686,398,2024-12-05,feature request,low,False
+1687,398,2024-12-05,feature request,low,False
+1688,546,2024-12-05,billing,medium,False
+1689,1270,2024-12-05,billing,medium,False
+1690,90,2024-12-06,how-to,low,False
+1691,285,2024-12-06,billing,high,True
+1692,375,2024-12-06,how-to,low,False
+1693,832,2024-12-06,how-to,low,False
+1694,1221,2024-12-06,billing,low,False
+1695,41,2024-12-07,feature request,low,False
+1696,150,2024-12-07,billing,low,False
+1697,258,2024-12-07,how-to,high,True
+1698,843,2024-12-07,how-to,low,False
+1699,881,2024-12-07,billing,LOW,False
+1700,1356,2024-12-07,billing,medium,False
+1701,18,2024-12-08,how-to,low,False
+1702,269,2024-12-08,bug,low,False
+1703,362,2024-12-08,bug,low,False
+1704,633,2024-12-08,how-to,low,False
+1705,1239,2024-12-08,how-to,low,False
+1706,113,2024-12-09,how-to,low,False
+1707,373,2024-12-09,how-to,low,False
+1708,569,2024-12-09,feature request,low,False
+1709,1059,2024-12-09,billing,medium,False
+1710,1168,2024-12-09,feature request,low,False
+1711,1341,2024-12-09,bug,low,False
+1712,22,2024-12-10,feature request,medium,False
+1713,651,2024-12-10,how-to,high,True
+1714,752,2024-12-10,bug,low,False
+1715,929,2024-12-10,billing,high,True
+1716,39,2024-12-11,billing,low,False
+1717,376,2024-12-11,how-to,medium,False
+1718,855,2024-12-11,how-to,medium,False
+1719,199,2024-12-12,billing,high,True
+1720,660,2024-12-12,feature request,low,False
+1721,941,2024-12-12,bug,low,False
+1722,1028,2024-12-12,feature request,low,False
+1723,1116,2024-12-12,feature request,high,True
+1724,1179,2024-12-12,how-to,medium,False
+1725,9,2024-12-13,feature request,low,False
+1726,319,2024-12-13,feature request,low,False
+1727,727,2024-12-13,billing,low,False
+1728,731,2024-12-13,bug,high,True
+1729,796,2024-12-13,how-to,low,False
+1730,1473,2024-12-13,how-to,low,False
+1731,290,2024-12-14,how-to,medium,False
+1732,456,2024-12-14,billing,low,False
+1733,985,2024-12-14,feature request,medium,False
+1734,1313,2024-12-14,how-to,LOW,False
+1735,451,2024-12-15,feature request,low,False
+1736,932,2024-12-15,bug,low,False
+1737,946,2024-12-15,how-to,low,False
+1738,1107,2024-12-15,bug,medium,False
+1739,119,2024-12-16,how-to,medium,False
+1740,218,2024-12-16,bug,LOW,False
+1741,294,2024-12-16,feature request,low,False
+1742,328,2024-12-16,how-to,high,True
+1743,880,2024-12-16,bug,,False
+1744,887,2024-12-16,how-to,medium,False
+1745,166,2024-12-17,billing,medium,False
+1746,243,2024-12-17,feature request,low,False
+1747,1004,2024-12-17,bug,medium,False
+1748,330,2024-12-18,feature request,low,False
+1749,445,2024-12-18,feature request,medium,False
+1750,659,2024-12-18,bug,medium,False
+1751,1126,2024-12-18,how-to,low,False
+1752,1280,2024-12-18,bug,low,False
+1753,1460,2024-12-18,billing,medium,False
+1754,70,2024-12-19,bug,low,False
+1755,97,2024-12-19,feature request,medium,False
+1756,187,2024-12-19,bug,low,False
+1757,917,2024-12-19,feature request,medium,False
+1758,931,2024-12-19,how-to,low,False
+1759,931,2024-12-19,bug,low,False
+1760,1047,2024-12-19,how-to,low,False
+1761,1156,2024-12-19,feature request,low,False
+1762,15,2024-12-20,billing,medium,False
+1763,375,2024-12-20,feature request,low,False
+1764,1270,2024-12-20,how-to,medium,False
+1765,63,2024-12-21,feature request,low,False
+1766,243,2024-12-21,feature request,low,False
+1767,352,2024-12-21,feature request,medium,False
+1768,608,2024-12-21,billing,low,False
+1769,845,2024-12-21,bug,medium,False
+1770,1300,2024-12-21,feature request,low,False
+1771,1386,2024-12-21,bug,low,False
+1772,114,2024-12-22,bug,medium,False
+1773,771,2024-12-22,how-to,high,True
+1774,902,2024-12-22,bug,low,False
+1775,1065,2024-12-22,how-to,low,False
+1776,1330,2024-12-22,bug,medium,False
+1777,1368,2024-12-22,bug,medium,False
+1778,79,2024-12-23,billing,low,False
+1779,330,2024-12-23,feature request,medium,False
+1780,570,2024-12-23,billing,high,True
+1781,768,2024-12-23,billing,high,True
+1782,826,2024-12-23,billing,low,False
+1783,903,2024-12-23,bug,low,False
+1784,973,2024-12-23,billing,medium,False
+1785,1236,2024-12-23,feature request,medium,False
+1786,1295,2024-12-23,how-to,low,False
+1787,112,2024-12-24,bug,low,False
+1788,126,2024-12-24,billing,Medium,False
+1789,472,2024-12-24,how-to,low,False
+1790,1008,2024-12-24,billing,high,True
+1791,1137,2024-12-24,bug,medium,False
+1792,1235,2024-12-24,how-to,low,False
+1793,1287,2024-12-24,feature request,Low,False
+1794,1340,2024-12-24,how-to,low,False
+1795,39,2024-12-25,bug,MED,False
+1796,103,2024-12-25,how-to,medium,False
+1797,112,2024-12-25,how-to,low,False
+1798,147,2024-12-25,how-to,medium,False
+1799,199,2024-12-25,bug,medium,False
+1800,369,2024-12-25,feature request,medium,False
+1801,465,2024-12-25,bug,low,False
+1802,611,2024-12-25,billing,high,True
+1803,966,2024-12-25,bug,,False
+1804,985,2024-12-25,feature request,low,False
+1805,690,2024-12-26,billing,medium,False
+1806,814,2024-12-26,bug,high,True
+1807,877,2024-12-26,billing,low,False
+1808,978,2024-12-26,feature request,low,False
+1809,1052,2024-12-26,bug,low,False
+1810,150,2024-12-27,billing,low,False
+1811,427,2024-12-27,how-to,medium,False
+1812,608,2024-12-27,feature request,low,False
+1813,608,2024-12-27,billing,low,False
+1814,877,2024-12-27,feature request,medium,False
+1815,884,2024-12-27,bug,medium,False
+1816,901,2024-12-27,billing,high,True
+1817,985,2024-12-27,billing,medium,False
+1818,1070,2024-12-27,bug,medium,False
+1819,220,2024-12-28,billing,medium,False
+1820,243,2024-12-28,billing,low,False
+1821,773,2024-12-28,billing,medium,False
+1822,1302,2024-12-28,billing,,False
+1823,1472,2024-12-28,feature request,low,False
+1824,98,2025-01-01,bug,medium,False
+1825,119,2025-01-01,feature request,low,False
+1826,319,2025-01-01,how-to,low,False
+1827,483,2025-01-01,billing,low,False
+1828,155,2025-01-02,bug,low,False
+1829,271,2025-01-02,billing,high,True
+1830,311,2025-01-02,bug,high,True
+1831,1126,2025-01-02,feature request,LOW,False
+1832,1244,2025-01-02,bug,low,False
+1833,1280,2025-01-02,billing,medium,False
+1834,1340,2025-01-02,billing,medium,False
+1835,1458,2025-01-02,billing,medium,False
+1836,149,2025-01-03,billing,MED,False
+1837,294,2025-01-03,feature request,medium,False
+1838,478,2025-01-03,how-to,medium,False
+1839,849,2025-01-04,feature request,high,True
+1840,1157,2025-01-04,billing,low,False
+1841,1213,2025-01-04,how-to,high,True
+1842,1269,2025-01-04,feature request,low,False
+1843,372,2025-01-05,feature request,low,False
+1844,513,2025-01-05,how-to,low,False
+1845,576,2025-01-05,feature request,low,False
+1846,576,2025-01-05,feature request,low,False
+1847,1184,2025-01-05,bug,Medium,False
+1848,155,2025-01-06,bug,medium,False
+1849,237,2025-01-06,billing,low,False
+1850,1102,2025-01-06,billing,low,False
+1851,1294,2025-01-06,bug,LOW,False
+1852,292,2025-01-07,billing,low,False
+1853,487,2025-01-07,feature request,low,False
+1854,560,2025-01-07,bug,high,True
+1855,732,2025-01-07,bug,low,False
+1856,1070,2025-01-07,feature request,medium,False
+1857,1089,2025-01-07,billing,low,False
+1858,1141,2025-01-07,how-to,medium,False
+1859,39,2025-01-08,how-to,low,False
+1860,375,2025-01-08,feature request,Medium,False
+1861,438,2025-01-08,bug,medium,False
+1862,826,2025-01-08,feature request,medium,False
+1863,852,2025-01-08,how-to,medium,False
+1864,910,2025-01-08,bug,low,False
+1865,926,2025-01-08,how-to,low,False
+1866,1206,2025-01-08,bug,HIGH,True
+1867,1231,2025-01-08,how-to,medium,False
+1868,1237,2025-01-08,bug,low,False
+1869,1294,2025-01-08,bug,low,False
+1870,1404,2025-01-08,how-to,high,True
+1871,1435,2025-01-08,feature request,low,False
+1872,269,2025-01-09,how-to,low,False
+1873,356,2025-01-09,bug,MED,False
+1874,398,2025-01-09,billing,low,False
+1875,680,2025-01-09,feature request,high,True
+1876,1159,2025-01-09,feature request,low,False
+1877,1467,2025-01-09,billing,low,False
+1878,363,2025-01-10,feature request,medium,False
+1879,478,2025-01-10,how-to,low,False
+1880,650,2025-01-10,feature request,medium,False
+1881,1192,2025-01-10,how-to,low,False
+1882,1280,2025-01-10,billing,medium,False
+1883,150,2025-01-11,bug,low,False
+1884,292,2025-01-11,feature request,medium,False
+1885,344,2025-01-11,billing,medium,False
+1886,791,2025-01-11,how-to,low,False
+1887,1472,2025-01-11,feature request,low,False
+1888,845,2025-01-12,billing,medium,False
+1889,929,2025-01-12,how-to,low,False
+1890,1062,2025-01-12,bug,low,False
+1891,1208,2025-01-12,bug,low,False
+1892,1480,2025-01-12,billing,high,True
+1893,155,2025-01-13,bug,low,False
+1894,206,2025-01-13,billing,medium,False
+1895,289,2025-01-13,bug,medium,False
+1896,944,2025-01-13,how-to,Medium,False
+1897,1202,2025-01-13,bug,low,False
+1898,1488,2025-01-13,feature request,low,False
+1899,458,2025-01-14,how-to,low,False
+1900,887,2025-01-14,feature request,low,False
+1901,560,2025-01-15,how-to,Low,False
+1902,615,2025-01-15,billing,low,False
+1903,721,2025-01-15,how-to,medium,False
+1904,794,2025-01-15,how-to,medium,False
+1905,881,2025-01-15,bug,low,False
+1906,1307,2025-01-15,billing,low,False
+1907,141,2025-01-16,billing,medium,False
+1908,576,2025-01-16,billing,low,False
+1909,729,2025-01-16,bug,low,False
+1910,1013,2025-01-16,feature request,medium,False
+1911,1180,2025-01-16,billing,medium,False
+1912,1388,2025-01-16,feature request,medium,False
+1913,385,2025-01-17,how-to,medium,False
+1914,851,2025-01-17,feature request,medium,False
+1915,887,2025-01-17,how-to,medium,False
+1916,1138,2025-01-17,bug,low,False
+1917,193,2025-01-18,billing,high,True
+1918,274,2025-01-18,how-to,LOW,False
+1919,557,2025-01-18,how-to,low,False
+1920,766,2025-01-18,bug,low,False
+1921,1047,2025-01-18,feature request,medium,False
+1922,1238,2025-01-18,how-to,low,False
+1923,1373,2025-01-18,bug,high,True
+1924,1480,2025-01-18,billing,low,False
+1925,112,2025-01-19,how-to,low,False
+1926,119,2025-01-19,billing,low,False
+1927,157,2025-01-19,how-to,LOW,False
+1928,288,2025-01-19,feature request,low,False
+1929,504,2025-01-19,how-to,low,False
+1930,515,2025-01-19,bug,medium,False
+1931,133,2025-01-20,feature request,low,False
+1932,138,2025-01-20,feature request,medium,False
+1933,400,2025-01-20,bug,,False
+1934,478,2025-01-20,billing,,False
+1935,573,2025-01-20,feature request,medium,False
+1936,872,2025-01-20,feature request,High,True
+1937,925,2025-01-20,feature request,LOW,False
+1938,155,2025-01-21,feature request,Low,False
+1939,231,2025-01-21,bug,low,False
+1940,261,2025-01-21,billing,medium,False
+1941,1206,2025-01-21,bug,MED,False
+1942,1406,2025-01-21,bug,medium,False
+1943,155,2025-01-22,bug,low,False
+1944,1386,2025-01-22,feature request,high,True
+1945,269,2025-01-23,feature request,low,False
+1946,292,2025-01-23,billing,,False
+1947,1179,2025-01-23,feature request,medium,False
+1948,1462,2025-01-23,bug,low,False
+1949,601,2025-01-24,billing,low,False
+1950,636,2025-01-24,bug,high,True
+1951,696,2025-01-24,billing,low,False
+1952,797,2025-01-24,billing,medium,False
+1953,926,2025-01-24,bug,medium,False
+1954,1107,2025-01-24,billing,medium,False
+1955,1476,2025-01-24,billing,medium,False
+1956,245,2025-01-25,billing,low,False
+1957,356,2025-01-25,feature request,,False
+1958,961,2025-01-25,billing,medium,False
+1959,63,2025-01-26,feature request,low,False
+1960,125,2025-01-26,feature request,low,False
+1961,330,2025-01-26,bug,medium,False
+1962,589,2025-01-26,billing,LOW,False
+1963,770,2025-01-26,bug,Medium,False
+1964,864,2025-01-26,billing,medium,False
+1965,872,2025-01-26,billing,high,True
+1966,1141,2025-01-26,feature request,low,False
+1967,15,2025-01-27,billing,low,False
+1968,245,2025-01-27,feature request,low,False
+1969,489,2025-01-27,how-to,low,False
+1970,172,2025-01-28,bug,Medium,False
+1971,245,2025-01-28,bug,medium,False
+1972,344,2025-01-28,bug,low,False
+1973,1037,2025-01-28,bug,low,False
+1974,1127,2025-01-28,bug,low,False
+1975,1205,2025-01-28,bug,low,False
+1976,1239,2025-01-28,feature request,medium,False
+1977,1405,2025-01-28,feature request,low,False
+1978,135,2025-02-01,feature request,medium,False
+1979,209,2025-02-01,feature request,low,False
+1980,739,2025-02-01,bug,low,False
+1981,1035,2025-02-01,feature request,medium,False
+1982,1073,2025-02-01,bug,medium,False
+1983,1127,2025-02-01,billing,medium,False
+1984,1246,2025-02-01,how-to,low,False
+1985,1441,2025-02-01,feature request,low,False
+1986,1476,2025-02-01,feature request,low,False
+1987,18,2025-02-02,billing,low,False
+1988,76,2025-02-02,billing,,False
+1989,374,2025-02-02,billing,medium,False
+1990,592,2025-02-02,feature request,low,False
+1991,791,2025-02-02,how-to,low,False
+1992,931,2025-02-02,feature request,high,True
+1993,1180,2025-02-02,billing,low,False
+1994,1289,2025-02-02,how-to,low,False
+1995,195,2025-02-03,bug,medium,False
+1996,391,2025-02-03,how-to,low,False
+1997,484,2025-02-03,how-to,high,True
+1998,945,2025-02-03,how-to,Medium,False
+1999,1191,2025-02-03,billing,medium,False
+2000,94,2025-02-04,feature request,MED,False
+2001,103,2025-02-04,feature request,low,False
+2002,505,2025-02-04,how-to,low,False
+2003,910,2025-02-04,billing,medium,False
+2004,920,2025-02-04,feature request,low,False
+2005,1208,2025-02-04,how-to,low,False
+2006,1340,2025-02-04,feature request,low,False
+2007,120,2025-02-05,how-to,medium,False
+2008,289,2025-02-05,how-to,medium,False
+2009,307,2025-02-05,feature request,medium,False
+2010,490,2025-02-05,billing,medium,False
+2011,661,2025-02-05,billing,low,False
+2012,865,2025-02-05,bug,medium,False
+2013,964,2025-02-05,how-to,low,False
+2014,1161,2025-02-05,bug,,False
+2015,1244,2025-02-05,bug,medium,False
+2016,41,2025-02-06,billing,MED,False
+2017,903,2025-02-06,how-to,,True
+2018,919,2025-02-06,how-to,medium,False
+2019,1081,2025-02-06,how-to,,False
+2020,419,2025-02-07,how-to,medium,False
+2021,815,2025-02-07,feature request,LOW,False
+2022,938,2025-02-07,billing,high,True
+2023,267,2025-02-08,how-to,low,False
+2024,533,2025-02-08,how-to,low,False
+2025,656,2025-02-08,bug,low,False
+2026,732,2025-02-08,billing,low,False
+2027,828,2025-02-08,feature request,medium,False
+2028,1030,2025-02-08,feature request,medium,False
+2029,1273,2025-02-08,bug,high,True
+2030,1390,2025-02-08,how-to,low,False
+2031,199,2025-02-09,billing,low,False
+2032,412,2025-02-09,billing,Low,False
+2033,590,2025-02-09,feature request,medium,False
+2034,745,2025-02-09,feature request,medium,False
+2035,762,2025-02-09,billing,low,False
+2036,826,2025-02-09,billing,medium,False
+2037,845,2025-02-09,billing,medium,False
+2038,941,2025-02-09,billing,medium,False
+2039,1156,2025-02-09,bug,low,False
+2040,608,2025-02-10,bug,medium,False
+2041,659,2025-02-10,how-to,low,False
+2042,941,2025-02-10,billing,low,False
+2043,954,2025-02-10,feature request,low,False
+2044,1008,2025-02-10,feature request,low,False
+2045,1444,2025-02-10,how-to,medium,False
+2046,271,2025-02-11,feature request,Medium,False
+2047,372,2025-02-11,billing,low,False
+2048,478,2025-02-11,feature request,low,False
+2049,221,2025-02-12,bug,low,False
+2050,344,2025-02-12,bug,medium,False
+2051,356,2025-02-12,how-to,,False
+2052,496,2025-02-12,bug,low,False
+2053,809,2025-02-12,billing,high,True
+2054,841,2025-02-12,bug,low,False
+2055,1402,2025-02-12,feature request,low,False
+2056,1423,2025-02-12,billing,medium,False
+2057,79,2025-02-13,feature request,low,False
+2058,126,2025-02-13,feature request,low,False
+2059,1417,2025-02-13,bug,high,True
+2060,1424,2025-02-13,billing,LOW,False
+2061,352,2025-02-14,feature request,medium,False
+2062,413,2025-02-14,bug,medium,False
+2063,524,2025-02-14,billing,,False
+2064,650,2025-02-14,how-to,low,False
+2065,694,2025-02-14,bug,low,False
+2066,772,2025-02-14,how-to,high,True
+2067,900,2025-02-14,billing,low,False
+2068,1179,2025-02-14,feature request,low,False
+2069,47,2025-02-15,billing,high,True
+2070,1037,2025-02-15,feature request,medium,False
+2071,1239,2025-02-15,feature request,Medium,False
+2072,1338,2025-02-15,bug,low,False
+2073,1432,2025-02-15,how-to,low,False
+2074,372,2025-02-16,feature request,medium,False
+2075,534,2025-02-16,how-to,high,True
+2076,796,2025-02-16,feature request,Low,False
+2077,1435,2025-02-16,feature request,low,False
+2078,142,2025-02-17,feature request,high,True
+2079,344,2025-02-17,feature request,low,False
+2080,754,2025-02-17,feature request,medium,False
+2081,802,2025-02-17,billing,low,False
+2082,322,2025-02-18,how-to,low,False
+2083,363,2025-02-18,how-to,medium,False
+2084,375,2025-02-18,billing,medium,False
+2085,721,2025-02-18,how-to,low,False
+2086,927,2025-02-18,feature request,low,False
+2087,1094,2025-02-18,how-to,high,True
+2088,1222,2025-02-18,bug,low,False
+2089,1291,2025-02-18,bug,,False
+2090,1291,2025-02-18,feature request,LOW,False
+2091,1307,2025-02-18,bug,medium,False
+2092,656,2025-02-19,how-to,high,True
+2093,856,2025-02-19,feature request,Low,False
+2094,898,2025-02-19,bug,medium,False
+2095,926,2025-02-19,billing,low,False
+2096,997,2025-02-19,feature request,low,False
+2097,1054,2025-02-19,bug,Medium,False
+2098,58,2025-02-20,bug,medium,False
+2099,557,2025-02-20,feature request,medium,False
+2100,784,2025-02-20,billing,low,False
+2101,969,2025-02-20,how-to,low,False
+2102,1238,2025-02-20,feature request,low,False
+2103,1330,2025-02-20,feature request,low,False
+2104,273,2025-02-21,bug,low,False
+2105,292,2025-02-21,billing,medium,False
+2106,353,2025-02-21,feature request,LOW,False
+2107,456,2025-02-21,billing,,False
+2108,589,2025-02-21,feature request,low,False
+2109,648,2025-02-21,how-to,medium,False
+2110,781,2025-02-21,bug,high,True
+2111,925,2025-02-21,bug,low,False
+2112,976,2025-02-21,how-to,low,False
+2113,1062,2025-02-21,feature request,low,False
+2114,1113,2025-02-21,billing,high,True
+2115,149,2025-02-22,billing,medium,False
+2116,153,2025-02-22,feature request,Medium,False
+2117,206,2025-02-22,bug,low,False
+2118,209,2025-02-22,bug,medium,False
+2119,504,2025-02-22,billing,low,False
+2120,1072,2025-02-22,bug,high,True
+2121,18,2025-02-23,how-to,low,False
+2122,79,2025-02-23,feature request,Medium,False
+2123,86,2025-02-23,billing,low,False
+2124,122,2025-02-23,bug,medium,False
+2125,656,2025-02-23,how-to,low,False
+2126,664,2025-02-23,feature request,low,False
+2127,696,2025-02-23,bug,medium,False
+2128,1330,2025-02-23,bug,low,False
+2129,417,2025-02-24,feature request,low,False
+2130,902,2025-02-24,feature request,low,False
+2131,1273,2025-02-24,feature request,LOW,False
+2132,1298,2025-02-24,how-to,low,False
+2133,399,2025-02-25,how-to,LOW,False
+2134,978,2025-02-25,how-to,medium,False
+2135,1033,2025-02-25,how-to,medium,False
+2136,1239,2025-02-25,billing,low,False
+2137,247,2025-02-26,feature request,medium,False
+2138,489,2025-02-26,how-to,medium,False
+2139,710,2025-02-26,bug,medium,False
+2140,770,2025-02-26,how-to,medium,False
+2141,1041,2025-02-26,billing,High,True
+2142,1102,2025-02-26,how-to,low,False
+2143,1205,2025-02-26,bug,medium,False
+2144,1216,2025-02-26,feature request,low,False
+2145,27,2025-02-27,billing,low,False
+2146,35,2025-02-27,how-to,medium,False
+2147,473,2025-02-27,bug,low,False
+2148,680,2025-02-27,bug,low,False
+2149,1008,2025-02-27,bug,Low,False
+2150,1430,2025-02-27,feature request,low,False
+2151,79,2025-02-28,billing,low,False
+2152,203,2025-02-28,how-to,low,False
+2153,496,2025-02-28,billing,low,False
+2154,864,2025-02-28,feature request,medium,False
+2155,1397,2025-02-28,bug,,False
+2156,330,2025-03-01,feature request,high,True
+2157,409,2025-03-01,bug,medium,False
+2158,568,2025-03-01,billing,medium,False
+2159,584,2025-03-01,how-to,low,False
+2160,951,2025-03-01,bug,low,False
+2161,1230,2025-03-01,billing,low,False
+2162,1272,2025-03-01,billing,medium,False
+2163,16,2025-03-02,bug,low,False
+2164,1386,2025-03-02,how-to,low,False
+2165,1462,2025-03-02,feature request,low,False
+2166,1462,2025-03-02,bug,medium,False
+2167,44,2025-03-03,feature request,high,True
+2168,96,2025-03-03,how-to,low,False
+2169,164,2025-03-03,how-to,low,False
+2170,294,2025-03-03,billing,Medium,False
+2171,742,2025-03-03,feature request,low,False
+2172,809,2025-03-03,how-to,medium,False
+2173,1031,2025-03-03,feature request,medium,False
+2174,1462,2025-03-03,billing,medium,False
+2175,13,2025-03-04,feature request,low,False
+2176,40,2025-03-04,bug,Medium,False
+2177,86,2025-03-04,bug,low,False
+2178,903,2025-03-04,how-to,low,False
+2179,1191,2025-03-04,billing,medium,False
+2180,1248,2025-03-04,how-to,medium,False
+2181,5,2025-03-05,bug,medium,False
+2182,456,2025-03-05,how-to,medium,False
+2183,460,2025-03-05,how-to,low,False
+2184,581,2025-03-05,how-to,low,False
+2185,936,2025-03-05,feature request,medium,False
+2186,1019,2025-03-05,billing,low,False
+2187,1126,2025-03-05,feature request,low,False
+2188,1289,2025-03-05,how-to,low,False
+2189,1458,2025-03-05,feature request,low,False
+2190,481,2025-03-06,bug,low,False
+2191,608,2025-03-06,how-to,medium,False
+2192,682,2025-03-06,billing,medium,False
+2193,936,2025-03-06,bug,MED,False
+2194,938,2025-03-06,feature request,low,False
+2195,978,2025-03-06,feature request,high,True
+2196,1367,2025-03-06,feature request,high,True
+2197,70,2025-03-07,feature request,high,True
+2198,515,2025-03-07,billing,low,False
+2199,537,2025-03-07,bug,medium,False
+2200,694,2025-03-07,billing,low,False
+2201,877,2025-03-07,how-to,low,False
+2202,1041,2025-03-07,feature request,MED,False
+2203,1108,2025-03-07,feature request,low,False
+2204,1158,2025-03-07,feature request,low,False
+2205,1274,2025-03-07,bug,,True
+2206,1435,2025-03-07,bug,low,False
+2207,173,2025-03-08,how-to,high,True
+2208,633,2025-03-08,feature request,medium,False
+2209,706,2025-03-08,feature request,LOW,False
+2210,721,2025-03-08,billing,low,False
+2211,721,2025-03-08,bug,low,False
+2212,746,2025-03-08,billing,medium,False
+2213,1038,2025-03-08,billing,,False
+2214,1290,2025-03-08,billing,,False
+2215,680,2025-03-09,how-to,low,False
+2216,694,2025-03-09,how-to,low,False
+2217,865,2025-03-09,bug,low,False
+2218,886,2025-03-09,how-to,low,False
+2219,1028,2025-03-09,how-to,Low,False
+2220,1035,2025-03-09,how-to,low,False
+2221,1156,2025-03-09,feature request,low,False
+2222,81,2025-03-10,billing,medium,False
+2223,323,2025-03-10,feature request,low,False
+2224,489,2025-03-10,billing,medium,False
+2225,702,2025-03-10,billing,high,True
+2226,760,2025-03-10,how-to,Medium,False
+2227,882,2025-03-10,bug,low,False
+2228,1044,2025-03-10,how-to,low,False
+2229,1460,2025-03-10,feature request,low,False
+2230,499,2025-03-11,bug,low,False
+2231,672,2025-03-12,feature request,medium,False
+2232,798,2025-03-12,how-to,low,False
+2233,1062,2025-03-12,billing,low,False
+2234,1145,2025-03-12,bug,low,False
+2235,1261,2025-03-12,billing,medium,False
+2236,1405,2025-03-12,feature request,medium,False
+2237,149,2025-03-13,bug,low,False
+2238,492,2025-03-13,feature request,medium,False
+2239,568,2025-03-13,billing,low,False
+2240,852,2025-03-13,bug,low,False
+2241,855,2025-03-13,feature request,,False
+2242,1110,2025-03-13,feature request,low,False
+2243,107,2025-03-14,billing,Low,False
+2244,322,2025-03-14,bug,high,True
+2245,488,2025-03-14,feature request,medium,False
+2246,1059,2025-03-14,bug,MED,False
+2247,511,2025-03-15,bug,medium,False
+2248,308,2025-03-16,how-to,high,True
+2249,366,2025-03-16,feature request,low,False
+2250,547,2025-03-16,feature request,medium,False
+2251,680,2025-03-16,feature request,medium,False
+2252,860,2025-03-16,billing,high,True
+2253,1016,2025-03-16,feature request,,False
+2254,1054,2025-03-16,billing,medium,False
+2255,1077,2025-03-16,feature request,low,False
+2256,1157,2025-03-16,feature request,high,True
+2257,1191,2025-03-16,billing,low,False
+2258,2,2025-03-17,bug,low,False
+2259,329,2025-03-17,feature request,medium,False
+2260,472,2025-03-17,feature request,low,False
+2261,778,2025-03-17,feature request,low,False
+2262,899,2025-03-17,bug,medium,False
+2263,1289,2025-03-17,billing,low,False
+2264,1401,2025-03-17,feature request,low,False
+2265,1448,2025-03-17,feature request,low,False
+2266,231,2025-03-18,billing,low,False
+2267,398,2025-03-18,how-to,low,False
+2268,877,2025-03-18,feature request,low,False
+2269,884,2025-03-18,bug,low,False
+2270,936,2025-03-18,feature request,medium,False
+2271,1259,2025-03-18,bug,medium,False
+2272,1430,2025-03-18,feature request,medium,False
+2273,57,2025-03-19,bug,medium,False
+2274,171,2025-03-19,billing,medium,False
+2275,212,2025-03-19,feature request,high,True
+2276,376,2025-03-19,bug,medium,False
+2277,941,2025-03-19,bug,medium,False
+2278,1121,2025-03-19,billing,high,True
+2279,1244,2025-03-19,bug,low,False
+2280,276,2025-03-20,feature request,high,True
+2281,456,2025-03-20,bug,low,False
+2282,732,2025-03-20,bug,medium,False
+2283,887,2025-03-20,bug,medium,False
+2284,945,2025-03-20,how-to,low,False
+2285,1003,2025-03-20,feature request,low,False
+2286,1201,2025-03-20,billing,medium,False
+2287,1340,2025-03-20,bug,low,False
+2288,1424,2025-03-20,how-to,medium,False
+2289,48,2025-03-21,bug,low,False
+2290,384,2025-03-21,how-to,low,False
+2291,455,2025-03-21,bug,,False
+2292,505,2025-03-21,billing,medium,False
+2293,773,2025-03-21,feature request,low,False
+2294,822,2025-03-21,how-to,high,True
+2295,843,2025-03-21,billing,low,False
+2296,859,2025-03-21,billing,low,False
+2297,938,2025-03-21,bug,medium,False
+2298,1025,2025-03-21,feature request,medium,False
+2299,1182,2025-03-21,bug,medium,False
+2300,206,2025-03-22,feature request,low,False
+2301,488,2025-03-22,bug,low,False
+2302,1073,2025-03-22,billing,low,False
+2303,63,2025-03-23,billing,low,False
+2304,290,2025-03-23,bug,high,True
+2305,712,2025-03-23,billing,low,False
+2306,255,2025-03-24,how-to,medium,False
+2307,363,2025-03-24,feature request,low,False
+2308,608,2025-03-24,feature request,low,False
+2309,1125,2025-03-24,bug,low,False
+2310,199,2025-03-25,feature request,medium,False
+2311,516,2025-03-25,feature request,,True
+2312,551,2025-03-25,bug,high,True
+2313,725,2025-03-25,bug,low,False
+2314,953,2025-03-25,bug,low,False
+2315,1450,2025-03-25,bug,low,False
+2316,1291,2025-03-26,billing,Medium,False
+2317,136,2025-03-27,feature request,medium,False
+2318,374,2025-03-27,bug,high,True
+2319,1070,2025-03-27,billing,medium,False
+2320,682,2025-03-28,feature request,low,False
+2321,1010,2025-03-28,billing,medium,False
+2322,1073,2025-03-28,feature request,low,False
+2323,1291,2025-03-28,billing,,False
+2324,1474,2025-03-28,bug,high,True
+2325,1230,2025-04-01,how-to,medium,False
+2326,1246,2025-04-01,billing,low,False
+2327,1269,2025-04-01,how-to,low,False
+2328,15,2025-04-02,how-to,low,False
+2329,373,2025-04-02,feature request,low,False
+2330,902,2025-04-02,bug,low,False
+2331,1102,2025-04-02,feature request,medium,False
+2332,125,2025-04-03,feature request,medium,False
+2333,376,2025-04-03,feature request,Medium,False
+2334,455,2025-04-03,how-to,low,False
+2335,480,2025-04-03,billing,low,False
+2336,1359,2025-04-03,how-to,medium,False
+2337,1477,2025-04-03,how-to,low,False
+2338,207,2025-04-04,bug,low,False
+2339,384,2025-04-04,how-to,MED,False
+2340,537,2025-04-04,how-to,medium,False
+2341,582,2025-04-04,how-to,high,True
+2342,778,2025-04-04,how-to,high,True
+2343,797,2025-04-04,how-to,low,False
+2344,94,2025-04-05,how-to,High,True
+2345,356,2025-04-05,bug,medium,False
+2346,373,2025-04-05,how-to,low,False
+2347,1008,2025-04-05,billing,Medium,False
+2348,1145,2025-04-05,feature request,low,False
+2349,1388,2025-04-05,feature request,low,False
+2350,1488,2025-04-05,bug,medium,False
+2351,220,2025-04-06,billing,low,False
+2352,269,2025-04-06,billing,low,False
+2353,991,2025-04-06,how-to,medium,False
+2354,1015,2025-04-06,billing,medium,False
+2355,1318,2025-04-06,billing,medium,False
+2356,206,2025-04-07,how-to,low,False
+2357,344,2025-04-07,bug,low,False
+2358,545,2025-04-07,bug,low,False
+2359,594,2025-04-07,bug,low,False
+2360,734,2025-04-07,how-to,low,False
+2361,1231,2025-04-07,bug,medium,False
+2362,1488,2025-04-07,billing,high,True
+2363,356,2025-04-08,bug,medium,False
+2364,679,2025-04-08,feature request,high,True
+2365,927,2025-04-08,how-to,low,False
+2366,1079,2025-04-08,how-to,low,False
+2367,1287,2025-04-08,bug,medium,False
+2368,1296,2025-04-08,billing,Low,False
+2369,1424,2025-04-08,how-to,low,False
+2370,79,2025-04-09,bug,MED,False
+2371,537,2025-04-09,billing,low,False
+2372,615,2025-04-09,bug,low,False
+2373,1190,2025-04-09,billing,high,True
+2374,533,2025-04-10,feature request,low,False
+2375,592,2025-04-10,feature request,low,False
+2376,1008,2025-04-10,feature request,low,False
+2377,1019,2025-04-10,feature request,medium,False
+2378,1063,2025-04-10,feature request,Low,False
+2379,1092,2025-04-10,bug,MED,False
+2380,1171,2025-04-10,bug,medium,False
+2381,1191,2025-04-10,billing,low,False
+2382,1239,2025-04-10,feature request,medium,False
+2383,1410,2025-04-10,billing,low,False
+2384,76,2025-04-11,bug,low,False
+2385,203,2025-04-11,bug,Medium,False
+2386,455,2025-04-11,how-to,Low,False
+2387,584,2025-04-11,feature request,MED,False
+2388,665,2025-04-11,how-to,Low,False
+2389,679,2025-04-11,feature request,Low,False
+2390,1091,2025-04-11,bug,low,False
+2391,1141,2025-04-11,feature request,low,False
+2392,223,2025-04-12,billing,medium,False
+2393,294,2025-04-12,bug,low,False
+2394,566,2025-04-12,billing,medium,False
+2395,1002,2025-04-12,bug,low,False
+2396,1019,2025-04-12,feature request,medium,False
+2397,1204,2025-04-12,how-to,low,False
+2398,1314,2025-04-12,how-to,medium,False
+2399,1462,2025-04-12,billing,medium,False
+2400,119,2025-04-13,feature request,low,False
+2401,619,2025-04-13,feature request,low,False
+2402,856,2025-04-13,how-to,low,False
+2403,879,2025-04-13,bug,low,False
+2404,1180,2025-04-13,billing,low,False
+2405,1377,2025-04-13,bug,low,False
+2406,1452,2025-04-13,billing,high,True
+2407,92,2025-04-14,how-to,medium,False
+2408,557,2025-04-14,how-to,medium,False
+2409,583,2025-04-14,billing,low,False
+2410,608,2025-04-14,bug,medium,False
+2411,650,2025-04-14,how-to,low,False
+2412,717,2025-04-14,billing,low,False
+2413,856,2025-04-14,feature request,low,False
+2414,898,2025-04-14,bug,medium,False
+2415,927,2025-04-14,how-to,low,False
+2416,1292,2025-04-14,how-to,low,False
+2417,1359,2025-04-14,how-to,Medium,False
+2418,206,2025-04-15,how-to,Low,False
+2419,304,2025-04-15,how-to,LOW,False
+2420,523,2025-04-15,billing,low,False
+2421,561,2025-04-15,bug,low,False
+2422,845,2025-04-15,feature request,high,True
+2423,973,2025-04-15,bug,low,False
+2424,1298,2025-04-15,feature request,medium,False
+2425,1366,2025-04-15,how-to,high,True
+2426,1476,2025-04-15,feature request,low,False
+2427,234,2025-04-16,billing,low,False
+2428,479,2025-04-16,billing,medium,False
+2429,808,2025-04-16,bug,medium,False
+2430,1201,2025-04-16,feature request,medium,False
+2431,1386,2025-04-16,how-to,low,False
+2432,1037,2025-04-17,how-to,low,False
+2433,1204,2025-04-17,billing,low,False
+2434,1361,2025-04-17,billing,low,False
+2435,1367,2025-04-17,billing,low,False
+2436,213,2025-04-18,how-to,medium,False
+2437,229,2025-04-18,feature request,LOW,False
+2438,1141,2025-04-18,feature request,low,False
+2439,1359,2025-04-18,feature request,medium,False
+2440,1433,2025-04-18,bug,high,True
+2441,479,2025-04-19,how-to,,False
+2442,752,2025-04-19,billing,low,False
+2443,797,2025-04-19,bug,low,False
+2444,929,2025-04-19,billing,low,False
+2445,1070,2025-04-19,feature request,medium,False
+2446,1091,2025-04-19,how-to,low,False
+2447,90,2025-04-20,feature request,low,False
+2448,601,2025-04-20,feature request,low,False
+2449,988,2025-04-20,how-to,high,True
+2450,1079,2025-04-20,billing,medium,False
+2451,1402,2025-04-20,billing,medium,False
+2452,51,2025-04-21,billing,low,False
+2453,155,2025-04-21,feature request,medium,False
+2454,243,2025-04-21,feature request,LOW,False
+2455,273,2025-04-22,how-to,low,False
+2456,324,2025-04-22,feature request,low,False
+2457,734,2025-04-22,billing,low,False
+2458,734,2025-04-22,feature request,low,False
+2459,852,2025-04-22,billing,Medium,False
+2460,879,2025-04-22,billing,low,False
+2461,1207,2025-04-22,feature request,low,False
+2462,1239,2025-04-22,feature request,low,False
+2463,1330,2025-04-22,billing,low,False
+2464,1441,2025-04-22,bug,low,False
+2465,483,2025-04-23,feature request,low,False
+2466,583,2025-04-23,how-to,medium,False
+2467,694,2025-04-23,bug,low,False
+2468,954,2025-04-23,bug,high,True
+2469,1003,2025-04-23,bug,medium,False
+2470,58,2025-04-24,feature request,high,True
+2471,385,2025-04-24,how-to,medium,False
+2472,653,2025-04-24,bug,medium,False
+2473,736,2025-04-24,feature request,low,False
+2474,954,2025-04-24,feature request,medium,False
+2475,973,2025-04-24,billing,low,False
+2476,1008,2025-04-24,feature request,low,False
+2477,1133,2025-04-24,feature request,low,False
+2478,1267,2025-04-24,feature request,medium,False
+2479,1343,2025-04-24,billing,MED,False
+2480,1367,2025-04-24,bug,low,False
+2481,79,2025-04-25,feature request,Low,False
+2482,204,2025-04-25,bug,high,True
+2483,319,2025-04-25,bug,medium,False
+2484,843,2025-04-25,billing,low,False
+2485,889,2025-04-25,bug,,False
+2486,1073,2025-04-25,bug,medium,False
+2487,1201,2025-04-25,bug,medium,False
+2488,1263,2025-04-25,billing,low,False
+2489,1280,2025-04-25,billing,,False
+2490,1030,2025-04-26,how-to,medium,False
+2491,1073,2025-04-26,billing,low,False
+2492,58,2025-04-27,feature request,low,False
+2493,307,2025-04-27,billing,low,False
+2494,650,2025-04-27,feature request,MED,False
+2495,725,2025-04-27,how-to,,False
+2496,767,2025-04-27,bug,low,False
+2497,800,2025-04-27,feature request,medium,False
+2498,1449,2025-04-27,bug,low,False
+2499,9,2025-04-28,billing,low,False
+2500,147,2025-04-28,how-to,low,False
+2501,220,2025-04-28,bug,low,False
+2502,1297,2025-04-28,feature request,medium,False
+2503,801,2025-05-01,how-to,medium,False
+2504,920,2025-05-01,billing,low,False
+2505,1125,2025-05-01,bug,low,False
+2506,1205,2025-05-01,bug,high,True
+2507,223,2025-05-02,billing,low,False
+2508,456,2025-05-02,billing,medium,False
+2509,476,2025-05-02,billing,low,False
+2510,490,2025-05-02,feature request,low,False
+2511,656,2025-05-02,bug,low,False
+2512,856,2025-05-02,bug,low,False
+2513,887,2025-05-02,bug,medium,False
+2514,985,2025-05-02,feature request,medium,False
+2515,1191,2025-05-02,how-to,medium,False
+2516,1254,2025-05-02,feature request,Low,False
+2517,1292,2025-05-02,how-to,low,False
+2518,356,2025-05-03,feature request,medium,False
+2519,1205,2025-05-03,feature request,low,False
+2520,356,2025-05-04,how-to,low,False
+2521,889,2025-05-04,bug,medium,False
+2522,208,2025-05-05,feature request,high,True
+2523,274,2025-05-05,how-to,low,False
+2524,416,2025-05-05,bug,medium,False
+2525,1031,2025-05-05,bug,medium,False
+2526,1340,2025-05-05,bug,medium,False
+2527,183,2025-05-06,bug,high,True
+2528,255,2025-05-06,bug,medium,False
+2529,755,2025-05-06,how-to,low,False
+2530,773,2025-05-06,how-to,low,False
+2531,777,2025-05-06,billing,high,True
+2532,828,2025-05-06,billing,medium,False
+2533,898,2025-05-06,how-to,,False
+2534,1138,2025-05-06,how-to,,False
+2535,144,2025-05-07,billing,medium,False
+2536,289,2025-05-07,feature request,low,False
+2537,289,2025-05-07,feature request,,False
+2538,666,2025-05-07,billing,low,False
+2539,984,2025-05-07,billing,High,True
+2540,1041,2025-05-07,billing,HIGH,True
+2541,1056,2025-05-07,how-to,high,True
+2542,1073,2025-05-07,feature request,medium,False
+2543,1110,2025-05-07,bug,high,True
+2544,1242,2025-05-07,feature request,Medium,False
+2545,220,2025-05-08,billing,medium,False
+2546,645,2025-05-08,billing,low,False
+2547,742,2025-05-08,bug,low,False
+2548,819,2025-05-08,bug,medium,False
+2549,888,2025-05-08,feature request,high,True
+2550,1289,2025-05-08,bug,low,False
+2551,1314,2025-05-08,bug,LOW,False
+2552,1340,2025-05-08,billing,low,False
+2553,1422,2025-05-08,bug,low,False
+2554,57,2025-05-09,billing,low,False
+2555,114,2025-05-09,bug,low,False
+2556,384,2025-05-09,billing,low,False
+2557,438,2025-05-09,bug,low,False
+2558,542,2025-05-09,how-to,Low,False
+2559,773,2025-05-09,feature request,low,False
+2560,1204,2025-05-09,bug,medium,False
+2561,1291,2025-05-09,feature request,medium,False
+2562,5,2025-05-10,bug,low,False
+2563,360,2025-05-10,billing,low,False
+2564,450,2025-05-10,bug,low,False
+2565,1039,2025-05-10,billing,low,False
+2566,1399,2025-05-10,billing,high,True
+2567,1449,2025-05-10,how-to,medium,False
+2568,147,2025-05-11,how-to,MED,False
+2569,706,2025-05-11,bug,high,True
+2570,1008,2025-05-11,how-to,low,False
+2571,1299,2025-05-11,billing,high,True
+2572,1435,2025-05-11,feature request,low,False
+2573,55,2025-05-12,bug,MED,False
+2574,228,2025-05-12,billing,high,True
+2575,376,2025-05-12,how-to,medium,False
+2576,551,2025-05-12,billing,,False
+2577,682,2025-05-12,feature request,low,False
+2578,753,2025-05-12,how-to,medium,False
+2579,773,2025-05-12,billing,low,False
+2580,1161,2025-05-12,bug,medium,False
+2581,1248,2025-05-12,feature request,low,False
+2582,1259,2025-05-12,how-to,,False
+2583,15,2025-05-13,how-to,low,False
+2584,413,2025-05-13,how-to,low,False
+2585,615,2025-05-13,bug,Low,False
+2586,798,2025-05-13,bug,low,False
+2587,1244,2025-05-13,bug,low,False
+2588,1261,2025-05-13,bug,low,False
+2589,1356,2025-05-13,bug,medium,False
+2590,1433,2025-05-13,bug,high,True
+2591,2,2025-05-14,feature request,low,False
+2592,11,2025-05-14,bug,medium,False
+2593,444,2025-05-14,billing,High,True
+2594,601,2025-05-14,billing,medium,False
+2595,653,2025-05-14,billing,low,False
+2596,800,2025-05-14,billing,low,False
+2597,903,2025-05-14,feature request,MED,False
+2598,920,2025-05-14,how-to,medium,False
+2599,925,2025-05-14,bug,low,False
+2600,1369,2025-05-14,billing,LOW,False
+2601,1397,2025-05-14,bug,medium,False
+2602,199,2025-05-15,bug,low,False
+2603,228,2025-05-15,bug,low,False
+2604,274,2025-05-15,bug,low,False
+2605,318,2025-05-15,billing,high,True
+2606,443,2025-05-15,bug,medium,False
+2607,682,2025-05-15,billing,medium,False
+2608,855,2025-05-15,billing,Low,False
+2609,1004,2025-05-15,feature request,medium,False
+2610,1127,2025-05-15,feature request,low,False
+2611,1179,2025-05-15,feature request,Low,False
+2612,1239,2025-05-15,billing,low,False
+2613,1460,2025-05-15,how-to,low,False
+2614,125,2025-05-16,feature request,,True
+2615,180,2025-05-16,bug,high,True
+2616,199,2025-05-16,feature request,low,False
+2617,436,2025-05-16,feature request,medium,False
+2618,730,2025-05-16,billing,low,False
+2619,802,2025-05-16,feature request,low,False
+2620,1036,2025-05-16,billing,low,False
+2621,1139,2025-05-16,billing,low,False
+2622,189,2025-05-17,billing,medium,False
+2623,243,2025-05-17,feature request,high,True
+2624,394,2025-05-17,feature request,medium,False
+2625,501,2025-05-17,bug,,False
+2626,558,2025-05-17,feature request,medium,False
+2627,839,2025-05-17,billing,low,False
+2628,1156,2025-05-17,how-to,medium,False
+2629,1473,2025-05-17,feature request,high,True
+2630,263,2025-05-18,feature request,low,False
+2631,322,2025-05-18,billing,medium,False
+2632,460,2025-05-18,feature request,low,False
+2633,650,2025-05-18,how-to,high,True
+2634,656,2025-05-18,how-to,low,False
+2635,857,2025-05-18,feature request,high,True
+2636,1141,2025-05-18,feature request,medium,False
+2637,1206,2025-05-18,billing,medium,False
+2638,1291,2025-05-18,bug,low,False
+2639,1325,2025-05-18,billing,medium,False
+2640,1402,2025-05-18,bug,low,False
+2641,215,2025-05-19,bug,medium,False
+2642,376,2025-05-19,how-to,medium,False
+2643,483,2025-05-19,how-to,medium,False
+2644,505,2025-05-19,how-to,low,False
+2645,790,2025-05-19,how-to,low,False
+2646,1227,2025-05-19,bug,medium,False
+2647,1291,2025-05-19,how-to,medium,False
+2648,51,2025-05-20,bug,low,False
+2649,1054,2025-05-20,how-to,medium,False
+2650,1065,2025-05-20,billing,low,False
+2651,1325,2025-05-20,bug,medium,False
+2652,17,2025-05-21,billing,medium,False
+2653,74,2025-05-21,billing,low,False
+2654,608,2025-05-21,bug,low,False
+2655,801,2025-05-21,billing,medium,False
+2656,966,2025-05-21,bug,medium,False
+2657,991,2025-05-21,how-to,low,False
+2658,1015,2025-05-21,billing,medium,False
+2659,1026,2025-05-21,billing,medium,False
+2660,394,2025-05-22,billing,low,False
+2661,601,2025-05-22,feature request,low,False
+2662,29,2025-05-23,billing,MED,False
+2663,865,2025-05-23,feature request,Low,False
+2664,1228,2025-05-23,feature request,medium,False
+2665,1343,2025-05-23,bug,low,False
+2666,1460,2025-05-23,how-to,low,False
+2667,1462,2025-05-23,billing,medium,False
+2668,1097,2025-05-24,billing,medium,False
+2669,1261,2025-05-24,how-to,low,False
+2670,81,2025-05-25,how-to,low,False
+2671,307,2025-05-25,bug,MED,False
+2672,375,2025-05-25,bug,medium,False
+2673,596,2025-05-25,how-to,low,False
+2674,702,2025-05-25,how-to,low,False
+2675,77,2025-05-26,bug,medium,False
+2676,286,2025-05-26,feature request,medium,False
+2677,515,2025-05-26,how-to,high,True
+2678,558,2025-05-26,bug,medium,False
+2679,841,2025-05-26,how-to,high,True
+2680,1010,2025-05-26,bug,medium,False
+2681,1026,2025-05-26,bug,low,False
+2682,1272,2025-05-26,feature request,low,False
+2683,1467,2025-05-26,billing,medium,False
+2684,604,2025-05-27,billing,low,False
+2685,706,2025-05-27,billing,high,True
+2686,760,2025-05-27,feature request,HIGH,True
+2687,1300,2025-05-27,feature request,medium,False
+2688,300,2025-05-28,feature request,medium,False
+2689,696,2025-05-28,bug,low,False
+2690,1059,2025-05-28,bug,high,True
+2691,1180,2025-05-28,bug,medium,False
+2692,1184,2025-05-28,feature request,medium,False
+2693,1424,2025-05-28,feature request,medium,False
+2694,459,2025-06-01,feature request,MED,False
+2695,574,2025-06-01,bug,low,False
+2696,604,2025-06-01,feature request,medium,False
+2697,639,2025-06-01,feature request,medium,False
+2698,717,2025-06-01,billing,medium,False
+2699,1158,2025-06-01,bug,medium,False
+2700,1227,2025-06-01,billing,medium,False
+2701,1388,2025-06-01,feature request,medium,False
+2702,103,2025-06-02,bug,low,False
+2703,535,2025-06-02,billing,High,True
+2704,721,2025-06-02,how-to,low,False
+2705,741,2025-06-02,billing,low,False
+2706,1005,2025-06-02,bug,low,False
+2707,1062,2025-06-02,how-to,,False
+2708,57,2025-06-03,billing,medium,False
+2709,238,2025-06-03,feature request,medium,False
+2710,344,2025-06-03,bug,,False
+2711,369,2025-06-03,how-to,low,False
+2712,385,2025-06-03,bug,medium,False
+2713,1078,2025-06-03,feature request,medium,False
+2714,1176,2025-06-03,bug,High,True
+2715,13,2025-06-04,how-to,low,False
+2716,255,2025-06-04,bug,high,True
+2717,432,2025-06-04,billing,low,False
+2718,479,2025-06-04,bug,low,False
+2719,604,2025-06-04,bug,high,True
+2720,1092,2025-06-04,how-to,medium,False
+2721,1204,2025-06-04,how-to,medium,False
+2722,1377,2025-06-04,bug,medium,False
+2723,1463,2025-06-04,billing,low,False
+2724,108,2025-06-05,billing,high,True
+2725,185,2025-06-05,bug,medium,False
+2726,791,2025-06-05,bug,medium,False
+2727,792,2025-06-05,feature request,medium,False
+2728,959,2025-06-05,bug,medium,False
+2729,1105,2025-06-05,how-to,low,False
+2730,1184,2025-06-05,billing,low,False
+2731,103,2025-06-06,how-to,low,False
+2732,273,2025-06-06,how-to,HIGH,True
+2733,373,2025-06-06,feature request,low,False
+2734,526,2025-06-06,how-to,low,False
+2735,736,2025-06-06,bug,medium,False
+2736,971,2025-06-06,bug,medium,False
+2737,1073,2025-06-06,feature request,low,False
+2738,1300,2025-06-06,feature request,,False
+2739,91,2025-06-07,how-to,low,False
+2740,96,2025-06-07,feature request,medium,False
+2741,107,2025-06-07,feature request,low,False
+2742,562,2025-06-07,feature request,low,False
+2743,886,2025-06-07,billing,medium,False
+2744,946,2025-06-07,bug,low,False
+2745,973,2025-06-07,how-to,medium,False
+2746,979,2025-06-07,how-to,medium,False
+2747,1002,2025-06-07,how-to,low,False
+2748,1002,2025-06-07,how-to,medium,False
+2749,1051,2025-06-07,billing,low,False
+2750,1213,2025-06-07,how-to,low,False
+2751,1291,2025-06-07,how-to,medium,False
+2752,651,2025-06-08,how-to,MED,False
+2753,1077,2025-06-08,how-to,low,False
+2754,1421,2025-06-08,bug,low,False
+2755,218,2025-06-09,bug,low,False
+2756,421,2025-06-09,billing,high,True
+2757,529,2025-06-09,feature request,high,True
+2758,1231,2025-06-09,feature request,medium,False
+2759,601,2025-06-10,feature request,medium,False
+2760,755,2025-06-10,bug,low,False
+2761,1211,2025-06-10,billing,medium,False
+2762,16,2025-06-11,how-to,low,False
+2763,542,2025-06-11,how-to,low,False
+2764,561,2025-06-11,bug,low,False
+2765,859,2025-06-11,bug,LOW,False
+2766,1172,2025-06-11,bug,medium,False
+2767,1291,2025-06-11,bug,medium,False
+2768,479,2025-06-12,how-to,low,False
+2769,553,2025-06-12,how-to,low,False
+2770,972,2025-06-12,how-to,medium,False
+2771,984,2025-06-12,how-to,low,False
+2772,1242,2025-06-12,billing,high,True
+2773,120,2025-06-13,bug,medium,False
+2774,187,2025-06-13,billing,medium,False
+2775,360,2025-06-13,feature request,medium,False
+2776,376,2025-06-13,billing,medium,False
+2777,403,2025-06-13,feature request,high,True
+2778,638,2025-06-13,how-to,low,False
+2779,859,2025-06-13,billing,low,False
+2780,991,2025-06-13,bug,low,False
+2781,1172,2025-06-13,billing,low,False
+2782,1290,2025-06-13,billing,medium,False
+2783,564,2025-06-14,how-to,low,False
+2784,1008,2025-06-14,billing,low,False
+2785,1076,2025-06-14,how-to,low,False
+2786,1280,2025-06-14,feature request,medium,False
+2787,1404,2025-06-14,billing,Low,False
+2788,1444,2025-06-14,billing,low,False
+2789,375,2025-06-15,how-to,medium,False
+2790,964,2025-06-15,bug,low,False
+2791,1367,2025-06-15,bug,low,False
+2792,1424,2025-06-15,bug,low,False
+2793,56,2025-06-16,how-to,medium,False
+2794,638,2025-06-16,bug,,True
+2795,824,2025-06-16,bug,low,False
+2796,890,2025-06-16,billing,LOW,False
+2797,997,2025-06-16,feature request,medium,False
+2798,1133,2025-06-16,how-to,Low,False
+2799,1171,2025-06-16,how-to,low,False
+2800,1263,2025-06-16,billing,low,False
+2801,376,2025-06-17,billing,medium,False
+2802,539,2025-06-17,how-to,low,False
+2803,862,2025-06-17,feature request,low,False
+2804,1145,2025-06-17,bug,low,False
+2805,1291,2025-06-17,billing,high,True
+2806,1388,2025-06-17,how-to,low,False
+2807,154,2025-06-18,feature request,low,False
+2808,195,2025-06-18,bug,low,False
+2809,1159,2025-06-18,bug,medium,False
+2810,1182,2025-06-18,feature request,medium,False
+2811,1298,2025-06-18,billing,Medium,False
+2812,1359,2025-06-18,bug,low,False
+2813,121,2025-06-19,billing,,False
+2814,755,2025-06-19,billing,high,True
+2815,1155,2025-06-19,feature request,LOW,False
+2816,1158,2025-06-19,bug,low,False
+2817,1239,2025-06-19,feature request,low,False
+2818,1261,2025-06-19,bug,medium,False
+2819,1287,2025-06-19,how-to,medium,False
+2820,336,2025-06-20,billing,LOW,False
+2821,593,2025-06-20,how-to,medium,False
+2822,654,2025-06-20,feature request,MED,False
+2823,660,2025-06-20,feature request,low,False
+2824,1228,2025-06-20,billing,,False
+2825,1291,2025-06-20,feature request,medium,False
+2826,467,2025-06-21,feature request,low,False
+2827,553,2025-06-21,how-to,low,False
+2828,806,2025-06-21,bug,low,False
+2829,944,2025-06-21,billing,low,False
+2830,1033,2025-06-21,how-to,medium,False
+2831,1035,2025-06-21,billing,low,False
+2832,1172,2025-06-21,how-to,high,True
+2833,1216,2025-06-21,bug,low,False
+2834,40,2025-06-22,billing,low,False
+2835,103,2025-06-22,how-to,low,False
+2836,185,2025-06-22,bug,low,False
+2837,445,2025-06-22,how-to,low,False
+2838,451,2025-06-22,bug,low,False
+2839,757,2025-06-22,bug,low,False
+2840,1365,2025-06-22,billing,low,False
+2841,238,2025-06-23,billing,,False
+2842,374,2025-06-23,how-to,medium,False
+2843,483,2025-06-23,feature request,LOW,False
+2844,509,2025-06-23,billing,low,False
+2845,551,2025-06-23,billing,medium,False
+2846,569,2025-06-23,how-to,low,False
+2847,693,2025-06-23,how-to,low,False
+2848,1330,2025-06-23,bug,low,False
+2849,1429,2025-06-23,feature request,HIGH,True
+2850,259,2025-06-24,feature request,medium,False
+2851,344,2025-06-24,how-to,low,False
+2852,474,2025-06-24,feature request,low,False
+2853,574,2025-06-24,bug,LOW,False
+2854,984,2025-06-24,billing,LOW,False
+2855,1196,2025-06-24,billing,medium,False
+2856,1423,2025-06-24,feature request,low,False
+2857,1485,2025-06-24,billing,,False
+2858,74,2025-06-25,billing,high,True
+2859,473,2025-06-25,how-to,high,True
+2860,608,2025-06-25,bug,medium,False
+2861,843,2025-06-25,billing,low,False
+2862,971,2025-06-25,feature request,medium,False
+2863,972,2025-06-25,how-to,low,False
+2864,991,2025-06-25,bug,low,False
+2865,1079,2025-06-25,billing,medium,False
+2866,72,2025-06-26,how-to,low,False
+2867,76,2025-06-26,billing,low,False
+2868,130,2025-06-26,billing,low,False
+2869,375,2025-06-26,feature request,LOW,False
+2870,396,2025-06-26,feature request,medium,False
+2871,490,2025-06-26,feature request,LOW,False
+2872,567,2025-06-26,bug,high,True
+2873,568,2025-06-26,how-to,medium,False
+2874,767,2025-06-26,billing,low,False
+2875,806,2025-06-26,feature request,low,False
+2876,1031,2025-06-26,billing,low,False
+2877,57,2025-06-27,feature request,low,False
+2878,1003,2025-06-27,how-to,medium,False
+2879,1087,2025-06-27,feature request,medium,False
+2880,1161,2025-06-27,how-to,low,False
+2881,1290,2025-06-27,billing,low,False
+2882,376,2025-06-28,how-to,MED,False
+2883,1302,2025-06-28,how-to,medium,False
+2884,1357,2025-06-28,bug,low,False
+2885,51,2025-07-01,how-to,medium,False
+2886,566,2025-07-01,bug,low,False
+2887,943,2025-07-01,bug,medium,False
+2888,1054,2025-07-01,how-to,low,False
+2889,261,2025-07-02,how-to,low,False
+2890,292,2025-07-02,billing,low,False
+2891,596,2025-07-02,feature request,low,False
+2892,710,2025-07-02,billing,low,False
+2893,900,2025-07-02,billing,medium,False
+2894,944,2025-07-02,bug,High,True
+2895,1105,2025-07-02,feature request,low,False
+2896,1325,2025-07-02,feature request,low,False
+2897,1369,2025-07-02,bug,low,False
+2898,374,2025-07-03,bug,medium,False
+2899,791,2025-07-03,bug,medium,False
+2900,930,2025-07-03,billing,LOW,False
+2901,1068,2025-07-03,bug,low,False
+2902,1148,2025-07-03,feature request,Low,False
+2903,1192,2025-07-03,how-to,low,False
+2904,1266,2025-07-03,bug,medium,False
+2905,1337,2025-07-03,feature request,low,False
+2906,271,2025-07-04,billing,medium,False
+2907,456,2025-07-04,feature request,high,True
+2908,740,2025-07-04,bug,low,False
+2909,897,2025-07-04,how-to,high,True
+2910,1449,2025-07-04,feature request,low,False
+2911,231,2025-07-05,feature request,medium,False
+2912,412,2025-07-05,feature request,low,False
+2913,451,2025-07-05,how-to,medium,False
+2914,573,2025-07-05,how-to,Low,False
+2915,604,2025-07-05,feature request,Low,False
+2916,672,2025-07-05,feature request,low,False
+2917,976,2025-07-05,bug,low,False
+2918,1182,2025-07-05,how-to,low,False
+2919,1464,2025-07-05,feature request,high,True
+2920,87,2025-07-06,feature request,low,False
+2921,242,2025-07-06,bug,low,False
+2922,284,2025-07-06,feature request,,False
+2923,702,2025-07-06,how-to,medium,False
+2924,837,2025-07-06,bug,low,False
+2925,856,2025-07-06,bug,high,True
+2926,1158,2025-07-06,bug,low,False
+2927,1246,2025-07-06,billing,low,False
+2928,119,2025-07-07,billing,Medium,False
+2929,159,2025-07-07,billing,medium,False
+2930,189,2025-07-07,how-to,medium,False
+2931,606,2025-07-07,bug,medium,False
+2932,902,2025-07-07,billing,medium,False
+2933,993,2025-07-07,how-to,low,False
+2934,1081,2025-07-07,bug,low,False
+2935,1156,2025-07-07,how-to,medium,False
+2936,1191,2025-07-07,feature request,low,False
+2937,1205,2025-07-07,feature request,medium,False
+2938,1308,2025-07-07,bug,low,False
+2939,1363,2025-07-07,billing,low,False
+2940,187,2025-07-08,billing,Low,False
+2941,666,2025-07-08,billing,medium,False
+2942,753,2025-07-08,billing,medium,False
+2943,964,2025-07-08,how-to,low,False
+2944,1422,2025-07-08,feature request,,False
+2945,263,2025-07-09,feature request,low,False
+2946,887,2025-07-09,how-to,low,False
+2947,1117,2025-07-09,bug,low,False
+2948,51,2025-07-10,how-to,low,False
+2949,649,2025-07-10,how-to,high,True
+2950,1077,2025-07-10,bug,low,False
+2951,1156,2025-07-10,billing,low,False
+2952,164,2025-07-11,how-to,high,True
+2953,211,2025-07-11,bug,medium,False
+2954,288,2025-07-11,how-to,low,False
+2955,606,2025-07-11,bug,Low,False
+2956,651,2025-07-11,feature request,LOW,False
+2957,721,2025-07-11,feature request,low,False
+2958,966,2025-07-11,how-to,medium,False
+2959,1273,2025-07-11,bug,medium,False
+2960,1282,2025-07-11,bug,medium,False
+2961,1359,2025-07-11,feature request,low,False
+2962,65,2025-07-12,how-to,low,False
+2963,155,2025-07-12,feature request,low,False
+2964,201,2025-07-12,how-to,medium,False
+2965,557,2025-07-12,how-to,medium,False
+2966,798,2025-07-12,billing,medium,False
+2967,1147,2025-07-12,how-to,medium,False
+2968,1181,2025-07-12,bug,medium,False
+2969,1213,2025-07-12,billing,low,False
+2970,1316,2025-07-12,bug,medium,False
+2971,1340,2025-07-12,bug,low,False
+2972,1,2025-07-13,feature request,low,False
+2973,374,2025-07-13,how-to,medium,False
+2974,400,2025-07-13,bug,low,False
+2975,1009,2025-07-13,feature request,low,False
+2976,1294,2025-07-13,how-to,low,False
+2977,1379,2025-07-13,feature request,medium,False
+2978,72,2025-07-14,bug,low,False
+2979,211,2025-07-14,feature request,low,False
+2980,387,2025-07-14,feature request,low,False
+2981,445,2025-07-14,how-to,low,False
+2982,467,2025-07-14,feature request,low,False
+2983,472,2025-07-14,how-to,medium,False
+2984,574,2025-07-14,billing,low,False
+2985,790,2025-07-14,bug,low,False
+2986,902,2025-07-14,billing,medium,False
+2987,1117,2025-07-14,bug,Low,False
+2988,1225,2025-07-14,how-to,medium,False
+2989,1292,2025-07-14,billing,low,False
+2990,126,2025-07-15,how-to,high,True
+2991,433,2025-07-15,how-to,medium,False
+2992,526,2025-07-15,how-to,medium,False
+2993,804,2025-07-15,how-to,Medium,False
+2994,863,2025-07-15,bug,medium,False
+2995,998,2025-07-15,how-to,high,True
+2996,1141,2025-07-15,how-to,low,False
+2997,1147,2025-07-15,how-to,medium,False
+2998,1291,2025-07-15,how-to,,False
+2999,62,2025-07-16,feature request,low,False
+3000,211,2025-07-16,bug,low,False
+3001,715,2025-07-16,feature request,low,False
+3002,859,2025-07-16,bug,Medium,False
+3003,80,2025-07-17,billing,medium,False
+3004,362,2025-07-17,feature request,low,False
+3005,549,2025-07-17,feature request,low,False
+3006,754,2025-07-17,bug,medium,False
+3007,964,2025-07-17,billing,low,False
+3008,984,2025-07-17,billing,medium,False
+3009,1435,2025-07-17,how-to,medium,False
+3010,1449,2025-07-17,feature request,MED,False
+3011,74,2025-07-18,bug,low,False
+3012,412,2025-07-18,how-to,medium,False
+3013,671,2025-07-18,bug,low,False
+3014,1125,2025-07-18,how-to,low,False
+3015,1346,2025-07-18,how-to,low,False
+3016,343,2025-07-19,feature request,high,True
+3017,739,2025-07-19,how-to,high,True
+3018,801,2025-07-19,billing,low,False
+3019,1205,2025-07-19,billing,Low,False
+3020,667,2025-07-20,how-to,Medium,False
+3021,689,2025-07-20,bug,medium,False
+3022,717,2025-07-20,bug,medium,False
+3023,864,2025-07-20,billing,medium,False
+3024,483,2025-07-21,feature request,low,False
+3025,985,2025-07-21,billing,low,False
+3026,991,2025-07-21,billing,low,False
+3027,1064,2025-07-21,bug,low,False
+3028,1171,2025-07-21,billing,medium,False
+3029,1221,2025-07-21,billing,high,True
+3030,1323,2025-07-21,billing,low,False
+3031,1397,2025-07-21,bug,low,False
+3032,322,2025-07-22,bug,,False
+3033,426,2025-07-22,how-to,MED,False
+3034,574,2025-07-22,billing,low,False
+3035,731,2025-07-22,feature request,LOW,False
+3036,871,2025-07-22,how-to,low,False
+3037,923,2025-07-22,bug,low,False
+3038,1035,2025-07-22,how-to,medium,False
+3039,1062,2025-07-22,feature request,medium,False
+3040,65,2025-07-23,billing,medium,False
+3041,160,2025-07-23,how-to,medium,False
+3042,195,2025-07-23,feature request,low,False
+3043,639,2025-07-23,billing,high,True
+3044,702,2025-07-23,feature request,low,False
+3045,931,2025-07-23,how-to,low,False
+3046,973,2025-07-23,billing,high,True
+3047,1161,2025-07-23,feature request,medium,False
+3048,1486,2025-07-23,billing,low,False
+3049,887,2025-07-24,how-to,medium,False
+3050,1106,2025-07-24,how-to,high,True
+3051,1160,2025-07-24,feature request,high,True
+3052,1191,2025-07-24,bug,,False
+3053,1230,2025-07-24,billing,Low,False
+3054,307,2025-07-25,bug,low,False
+3055,542,2025-07-25,how-to,low,False
+3056,938,2025-07-25,how-to,MED,False
+3057,984,2025-07-25,billing,medium,False
+3058,1183,2025-07-25,how-to,low,False
+3059,659,2025-07-26,bug,low,False
+3060,671,2025-07-26,how-to,low,False
+3061,752,2025-07-26,feature request,high,True
+3062,980,2025-07-26,feature request,low,False
+3063,1261,2025-07-26,feature request,high,True
+3064,117,2025-07-27,how-to,Low,False
+3065,199,2025-07-27,how-to,medium,False
+3066,608,2025-07-27,billing,medium,False
+3067,653,2025-07-27,billing,low,False
+3068,938,2025-07-27,billing,MED,False
+3069,1019,2025-07-27,how-to,medium,False
+3070,1361,2025-07-27,how-to,low,False
+3071,1401,2025-07-27,feature request,low,False
+3072,288,2025-07-28,how-to,medium,False
+3073,348,2025-07-28,feature request,Medium,False
+3074,713,2025-07-28,feature request,medium,False
+3075,1390,2025-07-28,how-to,low,False
+3076,1460,2025-07-28,how-to,medium,False
+3077,156,2025-08-01,billing,low,False
+3078,234,2025-08-01,how-to,low,False
+3079,583,2025-08-01,how-to,low,False
+3080,592,2025-08-01,feature request,medium,False
+3081,717,2025-08-01,feature request,low,False
+3082,749,2025-08-01,bug,high,True
+3083,1037,2025-08-01,billing,medium,False
+3084,106,2025-08-02,billing,low,False
+3085,247,2025-08-02,bug,low,False
+3086,510,2025-08-02,feature request,high,True
+3087,1046,2025-08-02,feature request,medium,False
+3088,1191,2025-08-02,feature request,low,False
+3089,1191,2025-08-02,billing,medium,False
+3090,1338,2025-08-02,billing,Medium,False
+3091,1359,2025-08-02,how-to,medium,False
+3092,1494,2025-08-02,bug,LOW,False
+3093,220,2025-08-03,bug,medium,False
+3094,356,2025-08-03,how-to,medium,False
+3095,1180,2025-08-03,feature request,medium,False
+3096,9,2025-08-04,billing,medium,False
+3097,98,2025-08-04,how-to,medium,False
+3098,114,2025-08-04,billing,low,False
+3099,200,2025-08-04,how-to,low,False
+3100,367,2025-08-04,billing,LOW,False
+3101,392,2025-08-04,feature request,low,False
+3102,991,2025-08-04,how-to,medium,False
+3103,1267,2025-08-04,bug,low,False
+3104,1463,2025-08-04,billing,low,False
+3105,366,2025-08-05,how-to,low,False
+3106,25,2025-08-06,bug,medium,False
+3107,430,2025-08-06,bug,low,False
+3108,604,2025-08-06,billing,medium,False
+3109,629,2025-08-06,bug,Medium,False
+3110,819,2025-08-06,how-to,high,True
+3111,828,2025-08-06,billing,low,False
+3112,1031,2025-08-06,feature request,low,False
+3113,1450,2025-08-06,bug,low,False
+3114,1492,2025-08-06,how-to,low,False
+3115,27,2025-08-07,billing,low,False
+3116,201,2025-08-07,billing,low,False
+3117,227,2025-08-07,feature request,low,False
+3118,411,2025-08-07,feature request,medium,False
+3119,667,2025-08-07,bug,medium,False
+3120,1132,2025-08-07,feature request,medium,False
+3121,1149,2025-08-07,feature request,medium,False
+3122,1498,2025-08-07,bug,high,True
+3123,267,2025-08-08,feature request,medium,False
+3124,304,2025-08-08,feature request,low,False
+3125,392,2025-08-08,bug,low,False
+3126,579,2025-08-08,bug,low,False
+3127,712,2025-08-08,bug,high,True
+3128,1102,2025-08-08,billing,medium,False
+3129,144,2025-08-09,feature request,low,False
+3130,197,2025-08-09,how-to,high,True
+3131,266,2025-08-09,billing,high,True
+3132,313,2025-08-09,how-to,low,False
+3133,418,2025-08-09,feature request,low,False
+3134,719,2025-08-09,feature request,low,False
+3135,920,2025-08-09,feature request,medium,False
+3136,1008,2025-08-09,bug,medium,False
+3137,1449,2025-08-09,feature request,medium,False
+3138,81,2025-08-10,feature request,low,False
+3139,171,2025-08-10,bug,medium,False
+3140,573,2025-08-10,feature request,low,False
+3141,715,2025-08-10,feature request,low,False
+3142,783,2025-08-10,billing,medium,False
+3143,1062,2025-08-10,how-to,medium,False
+3144,1136,2025-08-10,how-to,medium,False
+3145,1272,2025-08-10,feature request,low,False
+3146,1308,2025-08-10,bug,low,False
+3147,150,2025-08-11,bug,low,False
+3148,167,2025-08-11,billing,Low,False
+3149,234,2025-08-11,bug,medium,False
+3150,391,2025-08-11,bug,low,False
+3151,485,2025-08-11,feature request,low,False
+3152,485,2025-08-11,feature request,low,False
+3153,512,2025-08-11,how-to,low,False
+3154,733,2025-08-11,how-to,LOW,False
+3155,979,2025-08-11,how-to,low,False
+3156,1011,2025-08-11,how-to,low,False
+3157,1171,2025-08-11,feature request,low,False
+3158,1294,2025-08-11,billing,low,False
+3159,48,2025-08-12,bug,low,False
+3160,126,2025-08-12,how-to,high,True
+3161,445,2025-08-12,how-to,low,False
+3162,453,2025-08-12,feature request,medium,False
+3163,523,2025-08-12,bug,low,False
+3164,797,2025-08-12,feature request,Medium,False
+3165,1024,2025-08-12,billing,medium,False
+3166,157,2025-08-13,feature request,MED,False
+3167,372,2025-08-13,how-to,Medium,False
+3168,553,2025-08-13,billing,high,True
+3169,736,2025-08-13,billing,low,False
+3170,1103,2025-08-13,feature request,low,False
+3171,1272,2025-08-13,how-to,medium,False
+3172,91,2025-08-14,feature request,high,True
+3173,465,2025-08-14,feature request,medium,False
+3174,595,2025-08-14,billing,low,False
+3175,1460,2025-08-14,feature request,LOW,False
+3176,10,2025-08-15,how-to,medium,False
+3177,13,2025-08-15,billing,medium,False
+3178,336,2025-08-15,bug,low,False
+3179,606,2025-08-15,bug,low,False
+3180,796,2025-08-15,how-to,medium,False
+3181,796,2025-08-15,bug,medium,False
+3182,926,2025-08-15,bug,low,False
+3183,973,2025-08-15,how-to,medium,False
+3184,992,2025-08-15,how-to,low,False
+3185,994,2025-08-15,bug,LOW,False
+3186,996,2025-08-15,billing,low,False
+3187,1022,2025-08-15,billing,low,False
+3188,1035,2025-08-15,feature request,low,False
+3189,1423,2025-08-15,bug,low,False
+3190,38,2025-08-16,billing,medium,False
+3191,220,2025-08-16,bug,low,False
+3192,221,2025-08-16,billing,,False
+3193,289,2025-08-16,billing,low,False
+3194,1075,2025-08-16,billing,medium,False
+3195,1180,2025-08-16,feature request,medium,False
+3196,1320,2025-08-16,bug,medium,False
+3197,1444,2025-08-16,billing,low,False
+3198,1492,2025-08-16,how-to,high,True
+3199,97,2025-08-17,feature request,low,False
+3200,117,2025-08-17,bug,High,True
+3201,133,2025-08-17,billing,medium,False
+3202,286,2025-08-17,bug,medium,False
+3203,288,2025-08-17,how-to,medium,False
+3204,943,2025-08-17,feature request,low,False
+3205,1289,2025-08-17,billing,low,False
+3206,1291,2025-08-17,how-to,low,False
+3207,93,2025-08-18,billing,low,False
+3208,350,2025-08-18,how-to,Medium,False
+3209,617,2025-08-18,billing,high,True
+3210,1364,2025-08-18,bug,medium,False
+3211,51,2025-08-19,bug,high,True
+3212,80,2025-08-19,feature request,low,False
+3213,653,2025-08-19,billing,HIGH,True
+3214,1185,2025-08-19,billing,low,False
+3215,1460,2025-08-19,how-to,low,False
+3216,126,2025-08-20,billing,high,True
+3217,247,2025-08-20,billing,high,True
+3218,272,2025-08-20,bug,low,False
+3219,288,2025-08-20,billing,high,True
+3220,609,2025-08-20,how-to,medium,False
+3221,653,2025-08-20,billing,low,False
+3222,727,2025-08-20,billing,medium,False
+3223,908,2025-08-20,billing,medium,False
+3224,391,2025-08-21,feature request,medium,False
+3225,486,2025-08-21,how-to,low,False
+3226,492,2025-08-21,bug,Low,False
+3227,713,2025-08-21,how-to,low,False
+3228,820,2025-08-21,how-to,low,False
+3229,973,2025-08-21,bug,low,False
+3230,1003,2025-08-21,billing,low,False
+3231,1063,2025-08-21,bug,MED,False
+3232,1141,2025-08-21,feature request,Medium,False
+3233,1211,2025-08-21,how-to,low,False
+3234,1402,2025-08-21,bug,low,False
+3235,639,2025-08-22,feature request,low,False
+3236,694,2025-08-22,billing,medium,False
+3237,1077,2025-08-22,billing,,False
+3238,1141,2025-08-22,billing,low,False
+3239,1350,2025-08-22,billing,low,False
+3240,1359,2025-08-22,bug,low,False
+3241,1402,2025-08-22,billing,medium,False
+3242,112,2025-08-23,bug,low,False
+3243,362,2025-08-23,billing,low,False
+3244,767,2025-08-23,billing,high,True
+3245,802,2025-08-23,how-to,medium,False
+3246,818,2025-08-23,how-to,low,False
+3247,1258,2025-08-23,feature request,low,False
+3248,1259,2025-08-23,bug,medium,False
+3249,5,2025-08-24,feature request,MED,False
+3250,55,2025-08-24,bug,low,False
+3251,144,2025-08-24,bug,high,True
+3252,196,2025-08-24,billing,medium,False
+3253,660,2025-08-24,bug,medium,False
+3254,895,2025-08-24,bug,low,False
+3255,973,2025-08-24,how-to,low,False
+3256,1076,2025-08-24,feature request,medium,False
+3257,1225,2025-08-24,billing,high,True
+3258,1368,2025-08-24,bug,low,False
+3259,117,2025-08-25,billing,Low,False
+3260,199,2025-08-25,feature request,medium,False
+3261,540,2025-08-25,how-to,Low,False
+3262,657,2025-08-25,billing,low,False
+3263,797,2025-08-25,feature request,medium,False
+3264,1156,2025-08-25,billing,low,False
+3265,1164,2025-08-25,feature request,low,False
+3266,48,2025-08-26,feature request,low,False
+3267,59,2025-08-26,how-to,low,False
+3268,332,2025-08-26,how-to,medium,False
+3269,547,2025-08-26,billing,low,False
+3270,917,2025-08-26,how-to,medium,False
+3271,1361,2025-08-26,billing,medium,False
+3272,1427,2025-08-26,bug,medium,False
+3273,125,2025-08-27,how-to,low,False
+3274,134,2025-08-27,feature request,low,False
+3275,144,2025-08-27,feature request,medium,False
+3276,294,2025-08-27,feature request,low,False
+3277,307,2025-08-27,feature request,high,True
+3278,462,2025-08-27,billing,medium,False
+3279,741,2025-08-27,how-to,medium,False
+3280,886,2025-08-27,billing,medium,False
+3281,1280,2025-08-27,feature request,medium,False
+3282,8,2025-08-28,feature request,low,False
+3283,43,2025-08-28,bug,high,True
+3284,292,2025-08-28,billing,low,False
+3285,391,2025-08-28,feature request,medium,False
+3286,653,2025-08-28,bug,medium,False
+3287,774,2025-08-28,feature request,LOW,False
+3288,1037,2025-08-28,billing,low,False
+3289,1128,2025-08-28,bug,medium,False
+3290,48,2025-09-01,bug,low,False
+3291,194,2025-09-01,billing,medium,False
+3292,267,2025-09-01,bug,LOW,False
+3293,524,2025-09-01,feature request,high,True
+3294,604,2025-09-01,billing,medium,False
+3295,705,2025-09-01,bug,low,False
+3296,1025,2025-09-01,billing,medium,False
+3297,1187,2025-09-01,how-to,,True
+3298,56,2025-09-02,bug,medium,False
+3299,732,2025-09-02,how-to,medium,False
+3300,764,2025-09-02,how-to,medium,False
+3301,1363,2025-09-02,how-to,low,False
+3302,539,2025-09-03,how-to,low,False
+3303,734,2025-09-03,feature request,low,False
+3304,796,2025-09-03,how-to,medium,False
+3305,801,2025-09-03,feature request,low,False
+3306,1060,2025-09-03,billing,high,True
+3307,1456,2025-09-03,billing,low,False
+3308,159,2025-09-04,bug,Low,False
+3309,285,2025-09-04,billing,high,True
+3310,314,2025-09-04,feature request,low,False
+3311,399,2025-09-04,feature request,high,True
+3312,602,2025-09-04,how-to,low,False
+3313,1003,2025-09-04,bug,low,False
+3314,1084,2025-09-04,feature request,low,False
+3315,1281,2025-09-04,how-to,high,True
+3316,1293,2025-09-04,feature request,medium,False
+3317,135,2025-09-05,feature request,medium,False
+3318,250,2025-09-05,bug,low,False
+3319,802,2025-09-05,how-to,low,False
+3320,923,2025-09-05,billing,low,False
+3321,1077,2025-09-05,billing,medium,False
+3322,1120,2025-09-05,billing,medium,False
+3323,1323,2025-09-05,feature request,medium,False
+3324,1404,2025-09-05,billing,medium,False
+3325,1491,2025-09-05,billing,low,False
+3326,20,2025-09-06,how-to,high,True
+3327,344,2025-09-06,billing,low,False
+3328,385,2025-09-06,billing,,False
+3329,666,2025-09-06,how-to,low,False
+3330,1112,2025-09-06,feature request,low,False
+3331,1139,2025-09-06,billing,medium,False
+3332,1161,2025-09-06,how-to,,False
+3333,1292,2025-09-06,how-to,medium,False
+3334,1404,2025-09-06,feature request,medium,False
+3335,187,2025-09-07,feature request,medium,False
+3336,250,2025-09-07,how-to,low,False
+3337,486,2025-09-07,feature request,LOW,False
+3338,547,2025-09-07,billing,low,False
+3339,696,2025-09-07,how-to,low,False
+3340,710,2025-09-07,billing,MED,False
+3341,827,2025-09-07,billing,high,True
+3342,887,2025-09-07,feature request,medium,False
+3343,1067,2025-09-07,how-to,LOW,False
+3344,1129,2025-09-07,billing,medium,False
+3345,1409,2025-09-07,feature request,,False
+3346,274,2025-09-08,feature request,low,False
+3347,305,2025-09-08,bug,low,False
+3348,1080,2025-09-08,billing,,False
+3349,1101,2025-09-08,bug,low,False
+3350,1269,2025-09-08,how-to,low,False
+3351,1343,2025-09-08,billing,medium,False
+3352,1359,2025-09-08,bug,low,False
+3353,1395,2025-09-08,billing,high,True
+3354,1477,2025-09-08,how-to,low,False
+3355,114,2025-09-09,billing,low,False
+3356,770,2025-09-09,feature request,medium,False
+3357,1159,2025-09-09,bug,low,False
+3358,1171,2025-09-09,billing,low,False
+3359,1464,2025-09-09,bug,low,False
+3360,130,2025-09-10,feature request,medium,False
+3361,291,2025-09-10,feature request,low,False
+3362,501,2025-09-10,how-to,low,False
+3363,727,2025-09-10,billing,,False
+3364,734,2025-09-10,bug,low,False
+3365,770,2025-09-10,bug,low,False
+3366,1099,2025-09-10,feature request,low,False
+3367,1145,2025-09-10,bug,,False
+3368,1195,2025-09-10,feature request,HIGH,True
+3369,1284,2025-09-10,bug,high,True
+3370,900,2025-09-11,billing,medium,False
+3371,1003,2025-09-11,feature request,low,False
+3372,1267,2025-09-11,billing,medium,False
+3373,19,2025-09-12,feature request,medium,False
+3374,154,2025-09-12,feature request,Medium,False
+3375,454,2025-09-12,billing,low,False
+3376,551,2025-09-12,how-to,medium,False
+3377,764,2025-09-12,billing,medium,False
+3378,903,2025-09-12,bug,low,False
+3379,1080,2025-09-12,bug,low,False
+3380,1101,2025-09-12,billing,low,False
+3381,1191,2025-09-12,billing,medium,False
+3382,1231,2025-09-12,how-to,MED,False
+3383,1320,2025-09-12,feature request,low,False
+3384,1326,2025-09-12,bug,low,False
+3385,1330,2025-09-12,feature request,low,False
+3386,1386,2025-09-12,billing,medium,False
+3387,1402,2025-09-12,billing,low,False
+3388,831,2025-09-13,bug,high,True
+3389,1230,2025-09-13,billing,low,False
+3390,1295,2025-09-13,billing,low,False
+3391,1359,2025-09-13,bug,low,False
+3392,1404,2025-09-13,how-to,low,False
+3393,633,2025-09-14,feature request,medium,False
+3394,659,2025-09-14,how-to,low,False
+3395,994,2025-09-14,how-to,medium,False
+3396,1241,2025-09-14,how-to,medium,False
+3397,1242,2025-09-14,how-to,medium,False
+3398,1320,2025-09-14,billing,medium,False
+3399,1324,2025-09-14,bug,low,False
+3400,1346,2025-09-14,billing,medium,False
+3401,1351,2025-09-14,how-to,low,False
+3402,200,2025-09-15,feature request,medium,False
+3403,291,2025-09-15,bug,medium,False
+3404,366,2025-09-15,how-to,medium,False
+3405,842,2025-09-15,how-to,LOW,False
+3406,924,2025-09-15,billing,medium,False
+3407,1331,2025-09-15,how-to,medium,False
+3408,448,2025-09-16,how-to,high,True
+3409,459,2025-09-16,feature request,low,False
+3410,694,2025-09-16,bug,low,False
+3411,1239,2025-09-16,feature request,medium,False
+3412,37,2025-09-17,bug,LOW,False
+3413,86,2025-09-17,bug,low,False
+3414,169,2025-09-17,feature request,MED,False
+3415,409,2025-09-17,bug,low,False
+3416,736,2025-09-17,bug,medium,False
+3417,943,2025-09-17,how-to,medium,False
+3418,1156,2025-09-17,bug,low,False
+3419,1289,2025-09-17,billing,low,False
+3420,10,2025-09-18,feature request,low,False
+3421,51,2025-09-18,feature request,low,False
+3422,396,2025-09-18,billing,High,True
+3423,708,2025-09-18,billing,low,False
+3424,786,2025-09-18,how-to,low,False
+3425,826,2025-09-18,bug,medium,False
+3426,1097,2025-09-18,billing,LOW,False
+3427,1324,2025-09-18,bug,high,True
+3428,93,2025-09-19,feature request,high,True
+3429,131,2025-09-19,bug,low,False
+3430,166,2025-09-19,bug,Low,False
+3431,332,2025-09-19,feature request,low,False
+3432,650,2025-09-19,feature request,high,True
+3433,698,2025-09-19,billing,low,False
+3434,717,2025-09-19,bug,low,False
+3435,1402,2025-09-19,feature request,low,False
+3436,72,2025-09-20,feature request,MED,False
+3437,648,2025-09-20,bug,high,True
+3438,754,2025-09-20,feature request,low,False
+3439,800,2025-09-20,bug,low,False
+3440,155,2025-09-21,billing,medium,False
+3441,291,2025-09-21,feature request,high,True
+3442,346,2025-09-21,how-to,low,False
+3443,929,2025-09-21,feature request,,False
+3444,964,2025-09-21,billing,Medium,False
+3445,1016,2025-09-21,billing,low,False
+3446,1133,2025-09-21,billing,low,False
+3447,1449,2025-09-21,how-to,medium,False
+3448,1462,2025-09-21,bug,low,False
+3449,216,2025-09-22,how-to,low,False
+3450,344,2025-09-22,how-to,medium,False
+3451,540,2025-09-22,feature request,low,False
+3452,562,2025-09-22,billing,low,False
+3453,773,2025-09-22,how-to,medium,False
+3454,1049,2025-09-22,how-to,Low,False
+3455,1075,2025-09-22,how-to,low,False
+3456,1326,2025-09-22,feature request,LOW,False
+3457,1466,2025-09-22,bug,medium,False
+3458,8,2025-09-23,bug,medium,False
+3459,80,2025-09-23,bug,,True
+3460,220,2025-09-23,billing,low,False
+3461,325,2025-09-23,billing,high,True
+3462,492,2025-09-23,how-to,medium,False
+3463,938,2025-09-23,feature request,medium,False
+3464,1049,2025-09-23,billing,Medium,False
+3465,1095,2025-09-23,bug,medium,False
+3466,1105,2025-09-23,billing,Low,False
+3467,1337,2025-09-23,billing,low,False
+3468,118,2025-09-24,billing,Medium,False
+3469,301,2025-09-24,feature request,medium,False
+3470,679,2025-09-24,bug,high,True
+3471,985,2025-09-24,feature request,low,False
+3472,1413,2025-09-24,how-to,low,False
+3473,51,2025-09-25,bug,medium,False
+3474,295,2025-09-25,bug,,False
+3475,513,2025-09-25,billing,low,False
+3476,645,2025-09-25,feature request,medium,False
+3477,665,2025-09-25,feature request,low,False
+3478,792,2025-09-25,how-to,medium,False
+3479,863,2025-09-25,billing,high,True
+3480,868,2025-09-25,feature request,low,False
+3481,1049,2025-09-25,billing,medium,False
+3482,1424,2025-09-25,how-to,medium,False
+3483,133,2025-09-26,how-to,medium,False
+3484,199,2025-09-26,billing,medium,False
+3485,250,2025-09-26,bug,low,False
+3486,299,2025-09-26,billing,high,True
+3487,430,2025-09-26,billing,low,False
+3488,502,2025-09-26,bug,low,False
+3489,679,2025-09-26,billing,medium,False
+3490,679,2025-09-26,how-to,low,False
+3491,798,2025-09-26,how-to,low,False
+3492,941,2025-09-26,how-to,medium,False
+3493,1001,2025-09-26,bug,medium,False
+3494,1030,2025-09-26,billing,,False
+3495,1461,2025-09-26,how-to,medium,False
+3496,7,2025-09-27,how-to,low,False
+3497,48,2025-09-27,billing,medium,False
+3498,93,2025-09-27,bug,low,False
+3499,929,2025-09-27,feature request,medium,False
+3500,1206,2025-09-27,how-to,low,False
+3501,80,2025-09-28,bug,high,True
+3502,322,2025-09-28,bug,low,False
+3503,886,2025-09-28,billing,low,False
+3504,946,2025-09-28,billing,low,False
+3505,1054,2025-09-28,feature request,medium,False
+3506,1261,2025-09-28,bug,low,False
+3507,1369,2025-09-28,how-to,low,False
+3508,1472,2025-09-28,feature request,medium,False
+3509,90,2025-10-01,how-to,medium,False
+3510,181,2025-10-01,how-to,high,True
+3511,213,2025-10-01,billing,medium,False
+3512,302,2025-10-01,bug,medium,False
+3513,800,2025-10-01,billing,medium,False
+3514,976,2025-10-01,how-to,low,False
+3515,1001,2025-10-01,bug,low,False
+3516,1141,2025-10-01,bug,low,False
+3517,1159,2025-10-01,bug,high,True
+3518,1356,2025-10-01,billing,medium,False
+3519,1361,2025-10-01,how-to,low,False
+3520,1383,2025-10-01,how-to,medium,False
+3521,136,2025-10-02,feature request,low,False
+3522,213,2025-10-02,billing,medium,False
+3523,363,2025-10-02,bug,Low,False
+3524,943,2025-10-02,how-to,medium,False
+3525,1321,2025-10-02,feature request,low,False
+3526,1410,2025-10-02,billing,low,False
+3527,163,2025-10-03,bug,medium,False
+3528,167,2025-10-03,feature request,low,False
+3529,454,2025-10-03,billing,low,False
+3530,494,2025-10-03,billing,low,False
+3531,513,2025-10-03,billing,low,False
+3532,603,2025-10-03,bug,low,False
+3533,619,2025-10-03,billing,low,False
+3534,727,2025-10-03,bug,low,False
+3535,770,2025-10-03,bug,low,False
+3536,876,2025-10-03,feature request,medium,False
+3537,1049,2025-10-03,bug,low,False
+3538,1389,2025-10-03,feature request,High,True
+3539,1435,2025-10-03,billing,medium,False
+3540,373,2025-10-04,billing,high,True
+3541,367,2025-10-05,feature request,MED,False
+3542,520,2025-10-05,billing,,False
+3543,537,2025-10-05,bug,low,False
+3544,694,2025-10-05,how-to,medium,False
+3545,745,2025-10-05,feature request,medium,False
+3546,1034,2025-10-05,billing,low,False
+3547,1411,2025-10-05,bug,medium,False
+3548,1423,2025-10-05,billing,low,False
+3549,133,2025-10-06,bug,medium,False
+3550,538,2025-10-06,billing,medium,False
+3551,596,2025-10-06,bug,high,True
+3552,679,2025-10-06,billing,low,False
+3553,969,2025-10-06,feature request,medium,False
+3554,1149,2025-10-06,how-to,HIGH,True
+3555,1300,2025-10-06,how-to,Medium,False
+3556,1423,2025-10-06,bug,LOW,False
+3557,105,2025-10-07,how-to,low,False
+3558,187,2025-10-07,bug,high,True
+3559,396,2025-10-07,billing,medium,False
+3560,969,2025-10-07,bug,medium,False
+3561,1142,2025-10-07,bug,low,False
+3562,1241,2025-10-07,bug,low,False
+3563,5,2025-10-08,billing,medium,False
+3564,18,2025-10-08,feature request,medium,False
+3565,209,2025-10-08,bug,low,False
+3566,322,2025-10-08,bug,,False
+3567,481,2025-10-08,feature request,medium,False
+3568,513,2025-10-08,feature request,low,False
+3569,797,2025-10-08,billing,low,False
+3570,992,2025-10-08,feature request,medium,False
+3571,1007,2025-10-08,bug,MED,False
+3572,1388,2025-10-08,bug,low,False
+3573,274,2025-10-09,feature request,medium,False
+3574,546,2025-10-09,feature request,,False
+3575,929,2025-10-09,feature request,medium,False
+3576,1048,2025-10-09,billing,low,False
+3577,1101,2025-10-09,billing,medium,False
+3578,1469,2025-10-09,bug,,False
+3579,1490,2025-10-09,bug,Low,False
+3580,2,2025-10-10,how-to,medium,False
+3581,18,2025-10-10,billing,low,False
+3582,186,2025-10-10,billing,LOW,False
+3583,305,2025-10-10,feature request,low,False
+3584,316,2025-10-10,how-to,low,False
+3585,363,2025-10-10,feature request,high,True
+3586,363,2025-10-10,feature request,medium,False
+3587,486,2025-10-10,feature request,low,False
+3588,859,2025-10-10,feature request,medium,False
+3589,877,2025-10-10,how-to,medium,False
+3590,1021,2025-10-10,how-to,LOW,False
+3591,1342,2025-10-10,how-to,Medium,False
+3592,393,2025-10-11,how-to,low,False
+3593,932,2025-10-11,feature request,medium,False
+3594,935,2025-10-11,how-to,low,False
+3595,980,2025-10-11,how-to,medium,False
+3596,994,2025-10-11,bug,low,False
+3597,1001,2025-10-11,feature request,medium,False
+3598,1181,2025-10-11,bug,low,False
+3599,1246,2025-10-11,bug,low,False
+3600,1386,2025-10-11,how-to,medium,False
+3601,46,2025-10-12,how-to,low,False
+3602,51,2025-10-12,bug,low,False
+3603,57,2025-10-12,billing,medium,False
+3604,263,2025-10-12,how-to,Low,False
+3605,606,2025-10-12,billing,Low,False
+3606,852,2025-10-12,billing,low,False
+3607,886,2025-10-12,billing,low,False
+3608,993,2025-10-12,how-to,medium,False
+3609,1105,2025-10-12,feature request,high,True
+3610,1411,2025-10-12,how-to,low,False
+3611,18,2025-10-13,billing,high,True
+3612,55,2025-10-13,billing,medium,False
+3613,392,2025-10-13,how-to,medium,False
+3614,437,2025-10-13,feature request,low,False
+3615,503,2025-10-13,how-to,LOW,False
+3616,503,2025-10-13,how-to,medium,False
+3617,828,2025-10-13,how-to,low,False
+3618,834,2025-10-13,how-to,medium,False
+3619,848,2025-10-13,billing,low,False
+3620,1011,2025-10-13,billing,LOW,False
+3621,203,2025-10-14,bug,high,True
+3622,243,2025-10-14,billing,medium,False
+3623,451,2025-10-14,bug,low,False
+3624,583,2025-10-14,feature request,,False
+3625,743,2025-10-14,bug,Medium,False
+3626,1222,2025-10-14,bug,low,False
+3627,240,2025-10-15,how-to,low,False
+3628,576,2025-10-15,bug,medium,False
+3629,1324,2025-10-15,how-to,low,False
+3630,375,2025-10-16,how-to,high,True
+3631,485,2025-10-16,how-to,Medium,False
+3632,719,2025-10-16,bug,medium,False
+3633,866,2025-10-16,feature request,low,False
+3634,912,2025-10-16,feature request,medium,False
+3635,1147,2025-10-16,billing,medium,False
+3636,65,2025-10-17,billing,medium,False
+3637,274,2025-10-17,how-to,medium,False
+3638,1041,2025-10-17,how-to,low,False
+3639,1446,2025-10-17,feature request,medium,False
+3640,270,2025-10-18,bug,low,False
+3641,305,2025-10-18,how-to,low,False
+3642,418,2025-10-18,billing,medium,False
+3643,441,2025-10-18,feature request,medium,False
+3644,510,2025-10-18,how-to,medium,False
+3645,717,2025-10-18,how-to,medium,False
+3646,774,2025-10-18,billing,low,False
+3647,851,2025-10-18,feature request,medium,False
+3648,862,2025-10-18,bug,low,False
+3649,866,2025-10-18,billing,Medium,False
+3650,959,2025-10-18,bug,low,False
+3651,1086,2025-10-18,feature request,low,False
+3652,1144,2025-10-18,bug,low,False
+3653,1163,2025-10-18,billing,,False
+3654,1205,2025-10-18,feature request,medium,False
+3655,1248,2025-10-18,how-to,high,True
+3656,1457,2025-10-18,how-to,medium,False
+3657,25,2025-10-19,how-to,low,False
+3658,86,2025-10-19,billing,low,False
+3659,231,2025-10-19,how-to,low,False
+3660,454,2025-10-19,billing,medium,False
+3661,456,2025-10-19,billing,low,False
+3662,504,2025-10-19,how-to,medium,False
+3663,801,2025-10-19,how-to,high,True
+3664,936,2025-10-19,billing,low,False
+3665,1037,2025-10-19,billing,low,False
+3666,1192,2025-10-19,billing,low,False
+3667,1200,2025-10-19,billing,medium,False
+3668,1294,2025-10-19,feature request,low,False
+3669,1361,2025-10-19,billing,,False
+3670,119,2025-10-20,how-to,Low,False
+3671,133,2025-10-20,bug,medium,False
+3672,133,2025-10-20,bug,medium,False
+3673,157,2025-10-20,billing,medium,False
+3674,189,2025-10-20,billing,low,False
+3675,797,2025-10-20,feature request,low,False
+3676,991,2025-10-20,feature request,,False
+3677,1018,2025-10-20,bug,,False
+3678,1145,2025-10-20,how-to,low,False
+3679,1200,2025-10-20,feature request,Low,False
+3680,1312,2025-10-20,bug,medium,False
+3681,1386,2025-10-20,feature request,MED,False
+3682,1494,2025-10-20,how-to,low,False
+3683,1495,2025-10-20,bug,medium,False
+3684,82,2025-10-21,feature request,medium,False
+3685,133,2025-10-21,bug,low,False
+3686,247,2025-10-21,billing,MED,False
+3687,363,2025-10-21,billing,low,False
+3688,554,2025-10-21,how-to,medium,False
+3689,829,2025-10-21,how-to,high,True
+3690,1144,2025-10-21,feature request,high,True
+3691,258,2025-10-22,billing,low,False
+3692,295,2025-10-22,how-to,low,False
+3693,425,2025-10-22,bug,low,False
+3694,454,2025-10-22,feature request,low,False
+3695,486,2025-10-22,feature request,medium,False
+3696,719,2025-10-22,billing,low,False
+3697,797,2025-10-22,how-to,medium,False
+3698,944,2025-10-22,how-to,low,False
+3699,1068,2025-10-22,bug,medium,False
+3700,1127,2025-10-22,bug,low,False
+3701,1320,2025-10-22,billing,low,False
+3702,1324,2025-10-22,bug,low,False
+3703,288,2025-10-23,billing,medium,False
+3704,360,2025-10-23,how-to,low,False
+3705,481,2025-10-23,how-to,medium,False
+3706,721,2025-10-23,how-to,low,False
+3707,750,2025-10-23,feature request,high,True
+3708,766,2025-10-23,bug,low,False
+3709,770,2025-10-23,billing,low,False
+3710,996,2025-10-23,bug,medium,False
+3711,1063,2025-10-23,bug,low,False
+3712,1148,2025-10-23,bug,low,False
+3713,57,2025-10-24,feature request,medium,False
+3714,226,2025-10-24,feature request,high,True
+3715,433,2025-10-24,how-to,low,False
+3716,717,2025-10-24,feature request,high,True
+3717,959,2025-10-24,bug,low,False
+3718,1313,2025-10-24,bug,high,True
+3719,1398,2025-10-24,feature request,medium,False
+3720,1489,2025-10-24,bug,low,False
+3721,158,2025-10-25,bug,medium,False
+3722,243,2025-10-25,feature request,medium,False
+3723,509,2025-10-25,feature request,medium,False
+3724,616,2025-10-25,feature request,low,False
+3725,694,2025-10-25,how-to,,False
+3726,1054,2025-10-25,how-to,low,False
+3727,1292,2025-10-25,how-to,high,True
+3728,1319,2025-10-25,how-to,low,False
+3729,245,2025-10-26,billing,medium,False
+3730,397,2025-10-26,billing,medium,False
+3731,826,2025-10-26,feature request,,False
+3732,929,2025-10-26,billing,low,False
+3733,942,2025-10-26,how-to,,False
+3734,1325,2025-10-26,bug,low,False
+3735,1435,2025-10-26,how-to,low,False
+3736,114,2025-10-27,bug,Medium,False
+3737,322,2025-10-27,bug,medium,False
+3738,472,2025-10-27,how-to,LOW,False
+3739,490,2025-10-27,feature request,,False
+3740,896,2025-10-27,feature request,medium,False
+3741,974,2025-10-27,billing,medium,False
+3742,1080,2025-10-27,feature request,medium,False
+3743,1258,2025-10-27,feature request,,False
+3744,1289,2025-10-27,bug,low,False
+3745,604,2025-10-28,how-to,medium,False
+3746,654,2025-10-28,how-to,low,False
+3747,717,2025-10-28,how-to,low,False
+3748,732,2025-10-28,feature request,low,False
+3749,1239,2025-10-28,bug,medium,False
+3750,1319,2025-10-28,billing,medium,False
+3751,242,2025-11-01,feature request,medium,False
+3752,374,2025-11-01,billing,medium,False
+3753,850,2025-11-01,billing,MED,False
+3754,1152,2025-11-01,feature request,low,False
+3755,1203,2025-11-01,feature request,low,False
+3756,74,2025-11-02,billing,low,False
+3757,110,2025-11-02,feature request,low,False
+3758,203,2025-11-02,how-to,LOW,False
+3759,475,2025-11-02,feature request,high,True
+3760,490,2025-11-02,bug,low,False
+3761,509,2025-11-02,bug,medium,False
+3762,557,2025-11-02,bug,high,True
+3763,572,2025-11-02,how-to,medium,False
+3764,622,2025-11-02,feature request,LOW,False
+3765,730,2025-11-02,feature request,low,False
+3766,993,2025-11-02,bug,low,False
+3767,997,2025-11-02,billing,low,False
+3768,1108,2025-11-02,bug,low,False
+3769,1462,2025-11-02,bug,,False
+3770,1474,2025-11-02,billing,low,False
+3771,46,2025-11-03,feature request,High,True
+3772,155,2025-11-03,billing,high,True
+3773,199,2025-11-03,how-to,low,False
+3774,247,2025-11-03,bug,low,False
+3775,289,2025-11-03,how-to,low,False
+3776,610,2025-11-03,how-to,medium,False
+3777,757,2025-11-03,feature request,low,False
+3778,157,2025-11-04,billing,low,False
+3779,221,2025-11-04,bug,low,False
+3780,653,2025-11-04,bug,LOW,False
+3781,877,2025-11-04,feature request,low,False
+3782,903,2025-11-04,bug,medium,False
+3783,114,2025-11-05,how-to,medium,False
+3784,166,2025-11-05,feature request,medium,False
+3785,513,2025-11-05,feature request,low,False
+3786,572,2025-11-05,bug,medium,False
+3787,696,2025-11-05,how-to,low,False
+3788,834,2025-11-05,feature request,low,False
+3789,898,2025-11-05,bug,low,False
+3790,931,2025-11-05,feature request,Low,False
+3791,1267,2025-11-05,bug,medium,False
+3792,1281,2025-11-05,billing,MED,False
+3793,1410,2025-11-05,feature request,low,False
+3794,1419,2025-11-05,bug,,False
+3795,826,2025-11-06,bug,low,False
+3796,844,2025-11-06,how-to,medium,False
+3797,946,2025-11-06,billing,low,False
+3798,1030,2025-11-06,bug,low,False
+3799,1247,2025-11-06,how-to,medium,False
+3800,1369,2025-11-06,feature request,LOW,False
+3801,1464,2025-11-06,billing,low,False
+3802,520,2025-11-07,feature request,medium,False
+3803,649,2025-11-07,billing,low,False
+3804,980,2025-11-07,how-to,low,False
+3805,1014,2025-11-07,bug,low,False
+3806,1342,2025-11-07,billing,medium,False
+3807,258,2025-11-08,feature request,,True
+3808,302,2025-11-08,billing,Medium,False
+3809,374,2025-11-08,bug,LOW,False
+3810,461,2025-11-08,bug,high,True
+3811,506,2025-11-08,how-to,low,False
+3812,581,2025-11-08,billing,low,False
+3813,1007,2025-11-08,billing,low,False
+3814,1201,2025-11-08,feature request,low,False
+3815,1343,2025-11-08,billing,,True
+3816,1383,2025-11-08,bug,Medium,False
+3817,1450,2025-11-08,how-to,Medium,False
+3818,757,2025-11-09,how-to,medium,False
+3819,1067,2025-11-09,billing,Low,False
+3820,41,2025-11-10,how-to,low,False
+3821,320,2025-11-10,billing,LOW,False
+3822,837,2025-11-10,billing,low,False
+3823,967,2025-11-10,billing,High,True
+3824,61,2025-11-11,how-to,high,True
+3825,80,2025-11-11,billing,,False
+3826,456,2025-11-11,feature request,low,False
+3827,725,2025-11-11,billing,low,False
+3828,774,2025-11-11,bug,medium,False
+3829,911,2025-11-11,bug,low,False
+3830,1081,2025-11-11,how-to,,False
+3831,1152,2025-11-11,bug,low,False
+3832,1285,2025-11-11,billing,high,True
+3833,1323,2025-11-11,how-to,low,False
+3834,1462,2025-11-11,how-to,low,False
+3835,1491,2025-11-11,how-to,medium,False
+3836,159,2025-11-12,feature request,low,False
+3837,294,2025-11-12,feature request,low,False
+3838,388,2025-11-12,how-to,Low,False
+3839,503,2025-11-12,bug,low,False
+3840,525,2025-11-12,billing,medium,False
+3841,577,2025-11-12,billing,low,False
+3842,765,2025-11-12,bug,High,True
+3843,773,2025-11-12,bug,low,False
+3844,867,2025-11-12,feature request,MED,False
+3845,889,2025-11-12,billing,low,False
+3846,949,2025-11-12,how-to,medium,False
+3847,1007,2025-11-12,bug,high,True
+3848,1328,2025-11-12,bug,medium,False
+3849,1477,2025-11-12,how-to,high,True
+3850,30,2025-11-13,how-to,low,False
+3851,65,2025-11-13,feature request,low,False
+3852,148,2025-11-13,billing,medium,False
+3853,169,2025-11-13,bug,low,False
+3854,418,2025-11-13,feature request,low,False
+3855,1261,2025-11-13,feature request,medium,False
+3856,65,2025-11-14,bug,low,False
+3857,79,2025-11-14,bug,low,False
+3858,387,2025-11-14,billing,,True
+3859,456,2025-11-14,billing,low,False
+3860,606,2025-11-14,billing,medium,False
+3861,896,2025-11-14,billing,medium,False
+3862,1038,2025-11-14,billing,Low,False
+3863,1350,2025-11-14,bug,low,False
+3864,344,2025-11-15,how-to,medium,False
+3865,445,2025-11-15,how-to,,False
+3866,497,2025-11-15,how-to,low,False
+3867,601,2025-11-15,how-to,medium,False
+3868,1046,2025-11-15,how-to,medium,False
+3869,1104,2025-11-15,bug,low,False
+3870,1360,2025-11-15,bug,medium,False
+3871,1430,2025-11-15,bug,medium,False
+3872,1435,2025-11-15,feature request,medium,False
+3873,1486,2025-11-15,how-to,low,False
+3874,77,2025-11-16,feature request,low,False
+3875,490,2025-11-16,bug,low,False
+3876,774,2025-11-16,how-to,low,False
+3877,926,2025-11-16,how-to,low,False
+3878,1305,2025-11-16,how-to,low,False
+3879,1329,2025-11-16,billing,low,False
+3880,1341,2025-11-16,billing,,False
+3881,1406,2025-11-16,how-to,low,False
+3882,114,2025-11-17,feature request,medium,False
+3883,261,2025-11-17,bug,low,False
+3884,993,2025-11-17,billing,low,False
+3885,1026,2025-11-17,feature request,medium,False
+3886,1170,2025-11-17,feature request,low,False
+3887,152,2025-11-18,feature request,low,False
+3888,237,2025-11-18,bug,low,False
+3889,304,2025-11-18,how-to,medium,False
+3890,432,2025-11-18,billing,medium,False
+3891,718,2025-11-18,billing,Low,False
+3892,898,2025-11-18,billing,low,False
+3893,942,2025-11-18,bug,medium,False
+3894,1007,2025-11-18,feature request,high,True
+3895,1014,2025-11-18,billing,low,False
+3896,1129,2025-11-18,how-to,medium,False
+3897,1142,2025-11-18,feature request,low,False
+3898,1296,2025-11-18,bug,medium,False
+3899,708,2025-11-19,billing,low,False
+3900,1142,2025-11-19,feature request,high,True
+3901,1207,2025-11-19,feature request,low,False
+3902,1356,2025-11-19,bug,medium,False
+3903,1469,2025-11-19,feature request,medium,False
+3904,57,2025-11-20,feature request,Low,False
+3905,201,2025-11-20,how-to,low,False
+3906,602,2025-11-20,feature request,low,False
+3907,604,2025-11-20,how-to,low,False
+3908,765,2025-11-20,feature request,medium,False
+3909,1015,2025-11-20,billing,medium,False
+3910,1195,2025-11-20,billing,HIGH,True
+3911,1306,2025-11-20,billing,low,False
+3912,314,2025-11-21,feature request,Low,False
+3913,422,2025-11-21,bug,low,False
+3914,766,2025-11-21,how-to,medium,False
+3915,992,2025-11-21,how-to,low,False
+3916,1098,2025-11-21,bug,medium,False
+3917,1239,2025-11-21,how-to,medium,False
+3918,1308,2025-11-21,feature request,medium,False
+3919,1330,2025-11-21,feature request,medium,False
+3920,1450,2025-11-21,billing,medium,False
+3921,1462,2025-11-21,bug,low,False
+3922,1467,2025-11-21,billing,low,False
+3923,492,2025-11-22,how-to,low,False
+3924,540,2025-11-22,how-to,low,False
+3925,710,2025-11-22,billing,medium,False
+3926,862,2025-11-22,how-to,low,False
+3927,892,2025-11-22,billing,low,False
+3928,1052,2025-11-22,how-to,low,False
+3929,1120,2025-11-22,feature request,low,False
+3930,1133,2025-11-22,how-to,low,False
+3931,1328,2025-11-22,feature request,medium,False
+3932,37,2025-11-23,feature request,low,False
+3933,803,2025-11-23,how-to,high,True
+3934,1184,2025-11-23,billing,low,False
+3935,182,2025-11-24,how-to,medium,False
+3936,295,2025-11-24,bug,medium,False
+3937,363,2025-11-24,feature request,low,False
+3938,557,2025-11-24,bug,low,False
+3939,659,2025-11-24,how-to,MED,False
+3940,694,2025-11-24,feature request,medium,False
+3941,905,2025-11-24,how-to,medium,False
+3942,912,2025-11-24,billing,medium,False
+3943,1118,2025-11-24,feature request,medium,False
+3944,1158,2025-11-24,bug,Medium,False
+3945,1250,2025-11-24,how-to,medium,False
+3946,1329,2025-11-24,feature request,medium,False
+3947,1413,2025-11-24,feature request,Medium,False
+3948,1464,2025-11-24,how-to,MED,False
+3949,39,2025-11-25,how-to,medium,False
+3950,57,2025-11-25,billing,low,False
+3951,155,2025-11-25,feature request,high,True
+3952,182,2025-11-25,feature request,low,False
+3953,475,2025-11-25,billing,,True
+3954,514,2025-11-25,billing,,False
+3955,622,2025-11-25,feature request,low,False
+3956,998,2025-11-25,how-to,LOW,False
+3957,1223,2025-11-25,billing,medium,False
+3958,112,2025-11-26,billing,LOW,False
+3959,348,2025-11-26,how-to,high,True
+3960,557,2025-11-26,how-to,low,False
+3961,803,2025-11-26,how-to,low,False
+3962,942,2025-11-26,bug,low,False
+3963,1003,2025-11-26,feature request,low,False
+3964,1012,2025-11-26,feature request,,False
+3965,28,2025-11-27,billing,low,False
+3966,53,2025-11-27,how-to,high,True
+3967,384,2025-11-27,how-to,medium,False
+3968,428,2025-11-27,bug,low,False
+3969,632,2025-11-27,how-to,low,False
+3970,649,2025-11-27,feature request,low,False
+3971,746,2025-11-27,feature request,high,True
+3972,774,2025-11-27,feature request,low,False
+3973,864,2025-11-27,how-to,MED,False
+3974,942,2025-11-27,bug,,False
+3975,1076,2025-11-27,billing,low,False
+3976,1216,2025-11-27,bug,medium,False
+3977,1398,2025-11-27,feature request,medium,False
+3978,1450,2025-11-27,bug,low,False
+3979,1463,2025-11-27,feature request,Low,False
+3980,269,2025-11-28,how-to,medium,False
+3981,368,2025-11-28,billing,medium,False
+3982,499,2025-11-28,feature request,low,False
+3983,505,2025-11-28,bug,medium,False
+3984,807,2025-11-28,billing,high,True
+3985,924,2025-11-28,how-to,LOW,False
+3986,1390,2025-11-28,bug,low,False
+3987,1460,2025-11-28,feature request,medium,False
+3988,119,2025-12-01,feature request,low,False
+3989,203,2025-12-01,feature request,medium,False
+3990,593,2025-12-01,feature request,high,True
+3991,696,2025-12-01,feature request,low,False
+3992,877,2025-12-01,billing,low,False
+3993,1021,2025-12-01,feature request,medium,False
+3994,1034,2025-12-01,billing,low,False
+3995,1195,2025-12-01,bug,,False
+3996,179,2025-12-02,feature request,low,False
+3997,243,2025-12-02,feature request,medium,False
+3998,301,2025-12-02,feature request,low,False
+3999,501,2025-12-02,billing,medium,False
+4000,578,2025-12-02,how-to,medium,False
+4001,911,2025-12-02,billing,low,False
+4002,1204,2025-12-02,how-to,Low,False
+4003,573,2025-12-03,bug,medium,False
+4004,1051,2025-12-03,billing,low,False
+4005,1118,2025-12-03,how-to,low,False
+4006,1174,2025-12-03,feature request,low,False
+4007,1174,2025-12-03,bug,medium,False
+4008,1253,2025-12-03,how-to,low,False
+4009,1441,2025-12-03,feature request,high,True
+4010,7,2025-12-04,how-to,MED,False
+4011,96,2025-12-04,bug,medium,False
+4012,114,2025-12-04,feature request,low,False
+4013,286,2025-12-04,how-to,medium,False
+4014,859,2025-12-04,feature request,low,False
+4015,1144,2025-12-04,billing,low,False
+4016,1447,2025-12-04,billing,low,False
+4017,247,2025-12-05,how-to,medium,False
+4018,295,2025-12-05,billing,low,False
+4019,379,2025-12-05,billing,medium,False
+4020,460,2025-12-05,billing,low,False
+4021,1148,2025-12-05,billing,medium,False
+4022,120,2025-12-06,feature request,low,False
+4023,911,2025-12-06,feature request,medium,False
+4024,911,2025-12-06,how-to,medium,False
+4025,1442,2025-12-06,how-to,Medium,False
+4026,1450,2025-12-06,how-to,medium,False
+4027,72,2025-12-07,feature request,low,False
+4028,626,2025-12-07,bug,medium,False
+4029,637,2025-12-07,how-to,medium,False
+4030,929,2025-12-07,bug,low,False
+4031,1030,2025-12-07,how-to,low,False
+4032,1441,2025-12-07,bug,low,False
+4033,10,2025-12-08,feature request,medium,False
+4034,221,2025-12-08,feature request,low,False
+4035,256,2025-12-08,feature request,low,False
+4036,498,2025-12-08,bug,low,False
+4037,941,2025-12-08,billing,medium,False
+4038,991,2025-12-08,feature request,LOW,False
+4039,25,2025-12-09,billing,medium,False
+4040,179,2025-12-09,billing,low,False
+4041,233,2025-12-09,feature request,low,False
+4042,260,2025-12-09,bug,medium,False
+4043,604,2025-12-09,how-to,low,False
+4044,1073,2025-12-09,billing,medium,False
+4045,1077,2025-12-09,bug,High,True
+4046,1230,2025-12-09,bug,low,False
+4047,224,2025-12-10,billing,,False
+4048,250,2025-12-10,how-to,low,False
+4049,725,2025-12-10,how-to,low,False
+4050,859,2025-12-10,billing,low,False
+4051,289,2025-12-11,feature request,medium,False
+4052,304,2025-12-11,how-to,low,False
+4053,362,2025-12-11,how-to,medium,False
+4054,652,2025-12-11,billing,low,False
+4055,1122,2025-12-11,bug,Low,False
+4056,1156,2025-12-11,feature request,low,False
+4057,1226,2025-12-11,feature request,low,False
+4058,1320,2025-12-11,billing,low,False
+4059,1494,2025-12-11,how-to,MED,False
+4060,139,2025-12-12,feature request,medium,False
+4061,808,2025-12-12,billing,low,False
+4062,826,2025-12-12,feature request,medium,False
+4063,1007,2025-12-12,billing,low,False
+4064,1235,2025-12-12,feature request,medium,False
+4065,1310,2025-12-12,billing,low,False
+4066,38,2025-12-13,how-to,low,False
+4067,57,2025-12-13,billing,medium,False
+4068,131,2025-12-13,how-to,low,False
+4069,211,2025-12-13,feature request,,False
+4070,677,2025-12-13,how-to,medium,False
+4071,693,2025-12-13,how-to,Low,False
+4072,935,2025-12-13,feature request,Low,False
+4073,936,2025-12-13,bug,low,False
+4074,1244,2025-12-13,feature request,low,False
+4075,1325,2025-12-13,billing,medium,False
+4076,1388,2025-12-13,how-to,low,False
+4077,1460,2025-12-13,feature request,low,False
+4078,455,2025-12-14,how-to,,False
+4079,859,2025-12-14,bug,medium,False
+4080,1293,2025-12-14,feature request,low,False
+4081,1464,2025-12-14,feature request,medium,False
+4082,1485,2025-12-14,billing,low,False
+4083,46,2025-12-15,billing,low,False
+4084,250,2025-12-15,how-to,medium,False
+4085,384,2025-12-15,billing,low,False
+4086,816,2025-12-15,billing,medium,False
+4087,887,2025-12-15,feature request,low,False
+4088,1191,2025-12-15,bug,low,False
+4089,1211,2025-12-15,feature request,medium,False
+4090,1342,2025-12-15,how-to,,False
+4091,20,2025-12-16,how-to,low,False
+4092,107,2025-12-16,bug,low,False
+4093,292,2025-12-16,how-to,medium,False
+4094,501,2025-12-16,billing,medium,False
+4095,591,2025-12-16,bug,high,True
+4096,739,2025-12-16,feature request,low,False
+4097,1096,2025-12-16,how-to,medium,False
+4098,1329,2025-12-16,billing,medium,False
+4099,351,2025-12-17,feature request,medium,False
+4100,481,2025-12-17,how-to,low,False
+4101,564,2025-12-17,how-to,low,False
+4102,766,2025-12-17,billing,low,False
+4103,1117,2025-12-17,billing,low,False
+4104,1201,2025-12-17,feature request,medium,False
+4105,107,2025-12-18,feature request,medium,False
+4106,247,2025-12-18,bug,medium,False
+4107,599,2025-12-18,feature request,low,False
+4108,1144,2025-12-18,feature request,,False
+4109,1374,2025-12-18,bug,low,False
+4110,1442,2025-12-18,bug,low,False
+4111,195,2025-12-19,how-to,Low,False
+4112,262,2025-12-19,bug,Medium,False
+4113,376,2025-12-19,bug,medium,False
+4114,929,2025-12-19,billing,medium,False
+4115,991,2025-12-19,how-to,low,False
+4116,996,2025-12-19,bug,Low,False
+4117,1147,2025-12-19,feature request,low,False
+4118,1383,2025-12-19,feature request,medium,False
+4119,214,2025-12-20,billing,low,False
+4120,227,2025-12-20,how-to,low,False
+4121,494,2025-12-20,how-to,low,False
+4122,1033,2025-12-20,billing,medium,False
+4123,1174,2025-12-20,feature request,low,False
+4124,1181,2025-12-20,how-to,Low,False
+4125,1205,2025-12-20,feature request,medium,False
+4126,1423,2025-12-20,bug,low,False
+4127,223,2025-12-21,bug,low,False
+4128,224,2025-12-21,how-to,low,False
+4129,554,2025-12-21,feature request,low,False
+4130,645,2025-12-21,feature request,low,False
+4131,660,2025-12-21,bug,medium,False
+4132,925,2025-12-21,how-to,low,False
+4133,954,2025-12-21,feature request,low,False
+4134,966,2025-12-21,feature request,Low,False
+4135,1464,2025-12-21,bug,Low,False
+4136,65,2025-12-22,how-to,low,False
+4137,181,2025-12-22,billing,High,True
+4138,209,2025-12-22,bug,medium,False
+4139,288,2025-12-22,how-to,low,False
+4140,1263,2025-12-22,bug,medium,False
+4141,1392,2025-12-22,feature request,low,False
+4142,240,2025-12-23,feature request,low,False
+4143,267,2025-12-23,billing,high,True
+4144,537,2025-12-23,bug,low,False
+4145,1101,2025-12-23,billing,low,False
+4146,1298,2025-12-23,billing,medium,False
+4147,179,2025-12-24,how-to,medium,False
+4148,361,2025-12-24,feature request,medium,False
+4149,646,2025-12-24,how-to,low,False
+4150,1141,2025-12-24,bug,medium,False
+4151,103,2025-12-25,bug,high,True
+4152,301,2025-12-25,billing,low,False
+4153,406,2025-12-25,feature request,low,False
+4154,572,2025-12-25,feature request,medium,False
+4155,643,2025-12-25,bug,low,False
+4156,708,2025-12-25,billing,medium,False
+4157,896,2025-12-25,bug,low,False
+4158,1246,2025-12-25,how-to,low,False
+4159,1345,2025-12-25,bug,medium,False
+4160,132,2025-12-26,bug,low,False
+4161,509,2025-12-26,billing,medium,False
+4162,523,2025-12-26,how-to,medium,False
+4163,537,2025-12-26,feature request,low,False
+4164,797,2025-12-26,feature request,low,False
+4165,979,2025-12-26,feature request,medium,False
+4166,1064,2025-12-26,billing,LOW,False
+4167,1084,2025-12-26,feature request,low,False
+4168,1156,2025-12-26,feature request,low,False
+4169,1267,2025-12-26,bug,medium,False
+4170,1356,2025-12-26,how-to,low,False
+4171,1454,2025-12-26,billing,LOW,False
+4172,74,2025-12-27,feature request,medium,False
+4173,110,2025-12-27,billing,low,False
+4174,231,2025-12-27,billing,low,False
+4175,256,2025-12-27,how-to,low,False
+4176,406,2025-12-27,feature request,high,True
+4177,635,2025-12-27,feature request,high,True
+4178,659,2025-12-27,feature request,low,False
+4179,798,2025-12-27,billing,medium,False
+4180,927,2025-12-27,how-to,low,False
+4181,930,2025-12-27,bug,medium,False
+4182,931,2025-12-27,feature request,low,False
+4183,999,2025-12-27,bug,low,False
+4184,1119,2025-12-27,bug,medium,False
+4185,1308,2025-12-27,bug,medium,False
+4186,96,2025-12-28,how-to,medium,False
+4187,227,2025-12-28,feature request,Medium,False
+4188,274,2025-12-28,how-to,medium,False
+4189,305,2025-12-28,bug,low,False
+4190,525,2025-12-28,bug,Medium,False
+4191,557,2025-12-28,how-to,HIGH,True
+4192,802,2025-12-28,how-to,medium,False
+4193,905,2025-12-28,billing,low,False
+4194,1098,2025-12-28,bug,medium,False
+4195,1218,2025-12-28,feature request,low,False
+4196,1305,2025-12-28,feature request,low,False
