@@ -15,3 +15,9 @@ product_usage,PLANTED: churn events with usage decline,356
 support_tickets,inconsistent priority labels,427
 support_tickets,missing priority,145
 support_tickets,PLANTED: escalated ticket before churn,210
+subscription_events,inconsistent event type labels,199
+subscription_events,missing new_mrr,51
+subscription_events,duplicate event rows,60
+subscriptions,ended but end_date missing,91
+subscriptions,ended but status says active,50
+subscriptions,inconsistent status labels,162
