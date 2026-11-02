@@ -1,0 +1,7 @@
+saas_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../warehouse.duckdb
+      threads: 1

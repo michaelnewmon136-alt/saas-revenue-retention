@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    description: "Messy synthetic source tables. All data is synthetic."
+    tables:
+      - name: accounts
+      - name: subscriptions
+      - name: subscription_events
+      - name: subscription_months
+      - name: invoices
+      - name: product_usage
+      - name: support_tickets
