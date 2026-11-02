@@ -10,3 +10,7 @@ __pycache__/
 # Database files created later
 *.duckdb
 *.duckdb.wal
+# dbt run history
+logs/
+target/
+dbt_packages/
