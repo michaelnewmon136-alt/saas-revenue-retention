@@ -1,0 +1,69 @@
+version: 2
+
+models:
+  - name: stg_accounts
+    columns:
+      - name: account_id
+        data_tests:
+          - unique
+          - not_null
+      - name: segment
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['SMB', 'Mid-Market', 'Enterprise']
+
+  - name: stg_subscription_months
+    columns:
+      - name: mrr
+        data_tests:
+          - not_null
+      - name: status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['active', 'cancelled']
+
+  - name: stg_subscriptions
+    columns:
+      - name: subscription_id
+        data_tests:
+          - unique
+          - not_null
+      - name: status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['active', 'ended']
+
+  - name: stg_subscription_events
+    columns:
+      - name: event_id
+        data_tests:
+          - unique
+          - not_null
+      - name: event_type
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['new', 'upgrade', 'downgrade', 'cancel', 'reactivate']
+
+  - name: stg_invoices
+    columns:
+      - name: status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['paid', 'failed']
+
+  - name: stg_support_tickets
+    columns:
+      - name: ticket_id
+        data_tests:
+          - unique
+          - not_null
+      - name: priority
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['low', 'medium', 'high', 'unknown']
